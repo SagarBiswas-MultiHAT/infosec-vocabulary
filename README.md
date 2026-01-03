@@ -1,6 +1,6 @@
 <div align="center">
 
-## 📒 Vocabulary Notebook: Cybersecurity & General English
+# 📒 Vocabulary Notebook: Cybersecurity & General English
 
 </div>
 
