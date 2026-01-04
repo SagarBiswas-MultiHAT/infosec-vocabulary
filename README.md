@@ -657,6 +657,34 @@ In cybersecurity, an Amplification Attack is a form of DDoS (Distributed Denial 
 
 ---
 
+<b>Word:</b> Siphon
+
+<b>Part of Speech:</b> Verb
+
+<b>Bangla Meaning:</b> ধীরে ধীরে বা গোপনে সরিয়ে ফেলা (সাধারণত অবৈধভাবে তথ্য বা টাকা সরিয়ে নেওয়া)।
+
+<b>Synonyms:</b> Drain, Bleed, Extract, Funnel.
+
+<b>English Example (with Bangla translation):</b> "My script is designed to siphon a few cents from every transaction; by morning, I’ll have millions sitting in my offshore wallet without triggering any alarms." (আমার স্ক্রিপ্টটি প্রতিটি লেনদেন থেকে কয়েক সেন্ট করে গোপনে সরিয়ে নেওয়ার (Siphon) জন্য তৈরি; কোনো অ্যালার্ম ট্রিগার না করেই সকালের মধ্যে আমার অফশোর ওয়ালেটে লাখ লাখ টাকা জমা হবে।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, to siphon means to slowly and stealthily extract data or funds over a period of time to avoid detection by threshold-based monitoring systems. Unlike a sudden "bulk dump," siphoning is a low-and-slow technique often used in financial fraud or long-term data exfiltration (APT attacks).
+
+---
+
+<b>Word:</b> Siphon off
+
+<b>Part of Speech:</b> Phrasal Verb
+
+<b>Bangla Meaning:</b> পাচার করা বা সরিয়ে নেওয়া (সাধারণত বড় কোনো উৎস থেকে কৌশলে ছোট ছোট অংশে সম্পদ বা তথ্য সরিয়ে ফেলা)।
+
+<b>Synonyms:</b> Divert, Embezzle, Filch, Draw off.
+
+<b>English Example (with Bangla translation):</b> "While their IT team was busy fighting the DDoS, I managed to siphon off the encrypted customer database through a hidden tunnel." (যখন তাদের আইটি টিম ডিডোস অ্যাটাক ঠেকাতে ব্যস্ত ছিল, আমি সেই সুযোগে একটি হিডেন টানেল দিয়ে এনক্রিপ্ট করা কাস্টমার ডাটাবেসটি পাচার করে (Siphon off) দিয়েছি।)
+
+## <u><b>Educational Section:</b></u> Siphon off is a term used to describe the illicit diversion of funds or data. In a cyber-heist, an attacker might "siphon off" small amounts of money from thousands of accounts to stay under the radar of fraud detection systems, or slowly exfiltrate sensitive files during a prolonged breach.
+
+---
+
 <b>Word:</b> Skim
 
 <b>Part of Speech:</b> Verb
