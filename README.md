@@ -271,6 +271,34 @@ In cybersecurity, an Amplification Attack is a form of DDoS (Distributed Denial 
 
 ---
 
+---
+
+<a id="H"></a>
+
+## H)
+
+---
+
+<b>Word:</b> Harvesting
+
+<b>Part of Speech:</b> Noun / Verb
+
+<b>Bangla Meaning:</b> তথ্য সংগ্রহ করা বা আহরণ করা (সাধারণত বিপুল পরিমাণ তথ্য একত্রে জড়ো করা)
+
+<b>Synonyms:</b> Collecting, Gathering, Scraping, Accumulating.
+
+<b>Example:</b> "My botnet is currently harvesting thousands of emails from that unpatched server; by morning, I’ll have a fresh database to sell on the dark market." (আমার বটনেট বর্তমানে ওই আনপ্যাচড সার্ভার থেকে হাজার হাজার ইমেল সংগ্রহ (Harvesting) করছে; সকালের মধ্যে আমার কাছে ডার্ক মার্কেটে বিক্রি করার মতো একটি নতুন ডাটাবেস থাকবে।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, Harvesting (specifically Credential Harvesting) is the process of using automated tools or social engineering to collect large sets of user data. This is often the second stage of an attack: first, the attacker gains access, then they "harvest" as much sensitive info as possible—like usernames, passwords, or PII (Personally Identifiable Information)—to use or sell later.
+
+---
+
+<a id="I"></a>
+
+## I)
+
+---
+
 <b>Word:</b> Imitating
 
 <b>Part of Speech:</b> Verb (Present Participle)
@@ -310,32 +338,6 @@ In cybersecurity, an Amplification Attack is a form of DDoS (Distributed Denial 
 <b>Example:</b> "The hacker used intimidation, threatening to leak private photos unless the victim paid the ransom within an hour." (হ্যাকারটি ভীতি প্রদর্শন (Intimidation) করেছিল, এই বলে যে এক ঘণ্টার মধ্যে মুক্তিপণ না দিলে সে ভিকটিমের ব্যক্তিগত ছবি ফাঁস করে দেবে।)
 
 <u><b>Educational Section:</b></u> In cybersecurity, Intimidation is a powerful tool in social engineering and extortion (like Ransomware or Sextortion). Attackers often assume a position of authority—like a police officer or a tax official—and use aggressive language to frighten the victim. The goal is to bypass the victim's logical thinking by triggering a "fight or flight" emotional response, making them more likely to comply with the attacker's demands.
-
----
-
-<a id="H"></a>
-
-## H)
-
----
-
-<b>Word:</b> Harvesting
-
-<b>Part of Speech:</b> Noun / Verb
-
-<b>Bangla Meaning:</b> তথ্য সংগ্রহ করা বা আহরণ করা (সাধারণত বিপুল পরিমাণ তথ্য একত্রে জড়ো করা)
-
-<b>Synonyms:</b> Collecting, Gathering, Scraping, Accumulating.
-
-<b>Example:</b> "My botnet is currently harvesting thousands of emails from that unpatched server; by morning, I’ll have a fresh database to sell on the dark market." (আমার বটনেট বর্তমানে ওই আনপ্যাচড সার্ভার থেকে হাজার হাজার ইমেল সংগ্রহ (Harvesting) করছে; সকালের মধ্যে আমার কাছে ডার্ক মার্কেটে বিক্রি করার মতো একটি নতুন ডাটাবেস থাকবে।)
-
-<u><b>Educational Section:</b></u> In cybersecurity, Harvesting (specifically Credential Harvesting) is the process of using automated tools or social engineering to collect large sets of user data. This is often the second stage of an attack: first, the attacker gains access, then they "harvest" as much sensitive info as possible—like usernames, passwords, or PII (Personally Identifiable Information)—to use or sell later.
-
----
-
-<a id="I"></a>
-
-## I)
 
 ---
 
