@@ -1,16 +1,18 @@
 <div align="center">
 
-# 📒 Vocabulary Notebook: Cybersecurity & General English
+## 📒 Vocabulary Notebook: Cybersecurity & General English
 
 </div>
 
+### CheckList
+
+[A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) [J](#J) [K](#K) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [Q](#Q) [R](#R) [S](#S) [T](#T) [U](#U) [V](#V) [W](#W) [X](#) [Y](#) [Z](#) [Terms](#Terms)
+
 ---
 
-### A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
+<a id="A"></a>
 
----
-
-A)
+## A)
 
 ---
 
@@ -41,7 +43,11 @@ In cybersecurity, an Amplification Attack is a form of DDoS (Distributed Denial 
 
 <u><b>Educational Section:</b></u> In cybersecurity, to assess is to conduct a Vulnerability Assessment. This is a systematic review of security weaknesses in an information system. It identifies, quantifies, and prioritizes vulnerabilities to ensure that the most critical "holes" are patched before a threat actor can exploit them.
 
-B)
+---
+
+<a id="B"></a>
+
+## B)
 
 ---
 
@@ -85,7 +91,11 @@ B)
 
 <u><b>Educational Section:</b></u> In cybersecurity, bulk usually refers to automated, large-scale operations. For example, "bulk data exfiltration" is the act of stealing massive amounts of data at once, or "bulk spamming" is used to distribute malware to thousands of targets simultaneously to increase the success rate.
 
-C)
+---
+
+<a id="C"></a>
+
+## C)
 
 ---
 
@@ -129,7 +139,11 @@ C)
 
 <u><b>Educational Section:</b></u> In cybersecurity, credentials are the keys to the kingdom. They are the identity data (like passwords, keys, or biometrics) used to verify a user. Protecting them via MFA (Multi-Factor Authentication) is the primary defense against unauthorized access.
 
-D)
+---
+
+<a id="D"></a>
+
+## D)
 
 ---
 
@@ -215,7 +229,11 @@ D)
 
 <u><b>Educational Section:</b></u> In cybersecurity, disguising is the core concept behind a Trojan Horse. Just like the Greek myth, a Trojan is a malicious program that is disguised as legitimate software (like a free game or a system utility). Another common method is File Extension Disguise, where a file named report.pdf.exe appears to be a document but is actually an executable virus.
 
-E)
+---
+
+<a id="E"></a>
+
+## E)
 
 ---
 
@@ -245,7 +263,11 @@ E)
 
 <u><b>Educational Section:</b></u> In cybersecurity, Executives are often referred to as "High-Value Targets" (HVTs). Because they have broad access to sensitive corporate data and the authority to approve large financial transactions, they are the primary targets for Whaling and Business Email Compromise (BEC) attacks. Securing their accounts with hardware tokens and strict verification protocols is critical for organizational safety.
 
-I)
+---
+
+<a id="F"></a>
+
+## F)
 
 ---
 
@@ -284,7 +306,11 @@ I)
 
 <u><b>Educational Section:</b></u> In cybersecurity, Intimidation is a powerful tool in social engineering and extortion (like Ransomware or Sextortion). Attackers often assume a position of authority—like a police officer or a tax official—and use aggressive language to frighten the victim. The goal is to bypass the victim's logical thinking by triggering a "fight or flight" emotional response, making them more likely to comply with the attacker's demands.
 
-H)
+---
+
+<a id="H"></a>
+
+## H)
 
 ---
 
@@ -300,7 +326,11 @@ H)
 
 <u><b>Educational Section:</b></u> In cybersecurity, Harvesting (specifically Credential Harvesting) is the process of using automated tools or social engineering to collect large sets of user data. This is often the second stage of an attack: first, the attacker gains access, then they "harvest" as much sensitive info as possible—like usernames, passwords, or PII (Personally Identifiable Information)—to use or sell later.
 
-I)
+---
+
+<a id="I"></a>
+
+## I)
 
 ---
 
@@ -318,7 +348,9 @@ I)
 
 ---
 
-L)
+<a id="L"></a>
+
+## L)
 
 ---
 
@@ -348,7 +380,11 @@ L)
 
 <u><b>Educational Section:</b></u> In cybersecurity, a lure is the specific content used in a social engineering attack to convince a victim to take an action. While "bait" is often a physical or digital object, a lure is usually the psychological hook—like a sense of urgency, fear, or a too-good-to-be-true offer—that drives the success of a phishing campaign.
 
-M)
+---
+
+<a id="M"></a>
+
+## M)
 
 ---
 
@@ -408,7 +444,9 @@ M)
 
 ---
 
-P)
+<a id="P"></a>
+
+## P)
 
 ---
 
@@ -510,7 +548,9 @@ P)
 
 ---
 
-Q)
+<a id="Q"></a>
+
+## Q)
 
 ---
 
@@ -526,7 +566,11 @@ Q)
 
 <u><b>Educational Section:</b></u> In cybersecurity compliance (like PCI-DSS or SOC2), quarterly audits and vulnerability scans are mandatory. Attackers often exploit the gaps between these scheduled checks, knowing that security posture might weaken between one quarter's audit and the next.
 
-R)
+---
+
+<a id="R"></a>
+
+## R)
 
 ---
 
@@ -586,7 +630,9 @@ R)
 
 ---
 
-S)
+<a id="S"></a>
+
+## S)
 
 ---
 
@@ -662,7 +708,11 @@ S)
 
 <u><b>Educational Section:</b></u> Spoofing is a technique where an attacker disguises a communication from an unknown source as being from a known, trusted source. This can be applied to IP addresses, email headers, GPS signals, or Caller IDs. The goal is to gain access to a system, steal data, or spread malware by bypassing filters that trust the "spoofed" identity.
 
-T)
+---
+
+<a id="T"></a>
+
+## T)
 
 ---
 
@@ -694,7 +744,9 @@ T)
 
 ---
 
-V)
+<a id="V"></a>
+
+## V)
 
 ---
 
@@ -710,7 +762,11 @@ V)
 
 <u><b>Educational Section:</b></u> In cybersecurity, Vendors play a massive role in Supply Chain Attacks. Most large companies use software or services from hundreds of different vendors. If a vendor’s software (like an update or a plugin) is compromised, every company using that vendor becomes a victim. This is why "Vendor Risk Management" is a critical part of modern defense—it ensures that a company is only as strong as its weakest partner.
 
-W)
+---
+
+<a id="W"></a>
+
+## W)
 
 ---
 
@@ -728,7 +784,9 @@ W)
 
 ---
 
-Terms
+<a id="Terms"></a>
+
+## Terms
 
 ---
 
