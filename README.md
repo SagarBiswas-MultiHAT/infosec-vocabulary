@@ -6,7 +6,7 @@
 
 ### CheckList
 
-[A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) [J](#J) [K](#K) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [Q](#Q) [R](#R) [S](#S) [T](#T) [U](#U) [V](#V) [W](#W) [X](#) [Y](#) [Z](#) [Terms](#Terms)
+[A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) [J](#J) [K](#K) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [Q](#Q) [R](#R) [S](#S) [T](#T) [U](#U) [V](#V) [W](#W) [X](#X) [Y](#Y) [Z](#Z)
 
 ---
 
@@ -389,6 +389,20 @@ In cybersecurity, an Amplification Attack is a form of DDoS (Distributed Denial 
 
 ---
 
+<b>Term:</b> Novel Lures
+
+<b>Part of Speech:</b> Noun Phrase
+
+<b>Bangla Meaning:</b> নতুন ধরনের প্রলোভন বা ফাঁদ (আগে দেখা যায়নি এমন সব কৌশল যা ভিকটিমকে প্রলুব্ধ করতে ব্যবহৃত হয়)।
+
+<b>Synonyms:</b> Original baits, Unique traps, Fresh deceptions, New-age phishing tactics.
+
+<b>Example:</b> "Hackers are using novel lures related to the latest global events to trick people into clicking malicious links." (হ্যাকাররা মানুষকে ম্যালওয়্যার লিঙ্কে ক্লিক করতে প্রলুব্ধ করার জন্য সর্বশেষ বৈশ্বিক ঘটনাগুলোর সাথে সম্পর্কিত নতুন ধরনের প্রলোভন (Novel lures) ব্যবহার করছে।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, a Lure is the "hook" used in a phishing attack to grab a victim's attention. When we call them Novel, it means they are creative and exploit current trends or psychological triggers that people haven't been warned about yet. For example, during a major sporting event or a health crisis, attackers create novel lures like "Click here for free tickets" or "Download the emergency guide." Because the lures are new, they often bypass email filters that are looking for older, known patterns.
+
+---
+
 <a id="M"></a>
 
 ## M)
@@ -643,24 +657,6 @@ In cybersecurity, an Amplification Attack is a form of DDoS (Distributed Denial 
 
 ---
 
-<b>Word:</b> Synthetic
-
-<b>Part of Speech:</b> Adjective
-
-<b>Bangla Meaning:</b> কৃত্রিম বা সংশ্লেষিত (যা প্রাকৃতিকভাবে তৈরি নয়, বরং কৃত্রিমভাবে তৈরি করা হয়েছে)।
-
-<b>Synonyms:</b> Artificial, Man-made, Fabricated, Non-natural.
-
-<b>Example:</b> "The attacker used synthetic identities—combining real Social Security numbers with fake names—to open fraudulent bank accounts." (আক্রমণকারী জাল ব্যাংক অ্যাকাউন্ট খোলার জন্য 'সিনথেটিক' (Synthetic) পরিচয় ব্যবহার করেছিল—যেখানে আসল সোশ্যাল সিকিউরিটি নম্বরের সাথে ভুয়া নাম মিলিয়ে দেওয়া হয়েছিল।)
-
-<u><b>Educational Section:</b></u> In the context of modern cybersecurity, Synthetic Media and Synthetic Identity Theft are major concerns.
-
-- Synthetic Media: Includes AI-generated audio, video (Deepfakes), and images that look and sound real.
-
-- Synthetic Identity Theft: A sophisticated type of fraud where a criminal creates a completely new identity by mixing real and fake information. Because the identity doesn't belong to a specific real person, it can be harder for traditional fraud detection systems to flag.
-
----
-
 <b>Word:</b> Skim
 
 <b>Part of Speech:</b> Verb
@@ -703,6 +699,20 @@ In cybersecurity, an Amplification Attack is a form of DDoS (Distributed Denial 
 
 ---
 
+<b>Term:</b> Quarterly Spikes
+
+<b>Part of Speech:</b> Noun Phrase
+
+<b>Bangla Meaning:</b> ত্রৈমাসিক আকস্মিক বৃদ্ধি (প্রতি তিন মাস অন্তর দেখা যায় এমন ডেটা বা ট্রাফিকের বড় ধরনের পরিবর্তন)।
+
+<b>Synonyms:</b> Seasonal surges, Three-month peaks, Cyclical bursts.
+
+<b>English Example:</b> "I’ve been tracking their logs for months; those quarterly spikes in financial reporting traffic are the perfect cover for me to slip in and exfiltrate the encrypted ledgers." (আমি কয়েক মাস ধরে তাদের লগ ট্র্যাক করছি; আর্থিক রিপোর্টিংয়ের সময় ওই ত্রৈমাসিক ট্রাফিক বৃদ্ধি (Quarterly spikes) আমার জন্য একদম উপযুক্ত সুযোগ যাতে আমি ভেতরে ঢুকে এনক্রিপ্টেড লেজারগুলো চুরি করে নিয়ে আসতে পারি।)
+
+<u><b>Educational Section:</b></u> In security monitoring, quarterly spikes are predictable patterns related to business cycles (like tax season or quarterly earnings). Attackers exploit these high-traffic periods because malicious activity can easily blend in with the massive volume of legitimate requests, making it harder for automated filters to flag anomalies.
+
+---
+
 <b>Word:</b> Spoofing
 
 <b>Part of Speech:</b> Noun / Verb
@@ -714,6 +724,52 @@ In cybersecurity, an Amplification Attack is a form of DDoS (Distributed Denial 
 <b>Example:</b> "I'm spoofing the company’s internal IP address so the server trusts my connection and lets me bypass the firewall without a password." (আমি কোম্পানির ইন্টারনাল আইপি অ্যাড্রেসটি জাল (Spoofing) করছি যাতে সার্ভার আমার কানেকশনকে বিশ্বাস করে এবং আমাকে পাসওয়ার্ড ছাড়াই ফায়ারওয়াল পার হতে দেয়।)
 
 <u><b>Educational Section:</b></u> Spoofing is a technique where an attacker disguises a communication from an unknown source as being from a known, trusted source. This can be applied to IP addresses, email headers, GPS signals, or Caller IDs. The goal is to gain access to a system, steal data, or spread malware by bypassing filters that trust the "spoofed" identity.
+
+---
+
+<b>Word:</b> Strain
+
+<b>Part of Speech:</b> Noun / Verb
+
+<b>Bangla Meaning:</b> ধরণ বা প্রকার (ম্যালওয়্যারের ক্ষেত্রে) অথবা অতিরিক্ত চাপ
+
+<b>Synonyms:</b> Variant, Version, Pressure, Stress.
+
+<b>English Example (with Bangla translation):</b> "This new strain of the Trojan is so stealthy that no antivirus can sniff it out before I drain the targets' bank accounts." (ট্রোজানের এই নতুন ধরণটি (Strain) এতটাই গোপনীয় যে টার্গেটের ব্যাঙ্ক অ্যাকাউন্ট খালি করার আগে কোনো অ্যান্টিভাইরাস এটি শনাক্ত করতে পারবে না।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, a strain refers to a specific version or mutation of a malware family. Just like biological viruses, hackers modify existing code to create new strains that bypass updated security filters. It can also refer to the heavy load placed on system resources during a cyberattack.
+
+---
+
+<b>Terms:</b> Novel Strain
+
+<b>Part of Speech:</b> Noun Phrase
+
+<b>Bangla Meaning:</b> নতুন ধরণের বা আগে দেখা যায়নি এমন ম্যালওয়্যার সংস্করণ (সাধারণত যা সিকিউরিটি সিস্টেমকে ফাঁকি দিতে সক্ষম)।
+
+<b>Synonyms:</b> New variant, Emerging malware, Zero-day strain, Unique mutation.
+
+<b>English Example (with Bangla translation):</b> "I’ve just released a novel strain of ransomware that uses polymorphic code; the blue team's EDR is completely blind to its signature." (আমি এইমাত্র র‍্যানসমওয়্যারের একটি নতুন ধরণের (Novel strain) সংস্করণ ছেড়েছি যা পলিমরফিক কোড ব্যবহার করে; ব্লু-টিমের EDR এর সিগনেচার শনাক্ত করতে পুরোপুরি ব্যর্থ।)
+
+<u><b>Educational Section:</b></u> A Novel Strain refers to a newly discovered or developed version of a malware family. These are particularly dangerous because security tools (like Antivirus or EDR) often rely on a database of known threats. Since a novel strain has a unique code structure, it can bypass signature-based detection until it is officially identified and analyzed by researchers.
+
+---
+
+<b>Word:</b> Synthetic
+
+<b>Part of Speech:</b> Adjective
+
+<b>Bangla Meaning:</b> কৃত্রিম বা সংশ্লেষিত (যা প্রাকৃতিকভাবে তৈরি নয়, বরং কৃত্রিমভাবে তৈরি করা হয়েছে)।
+
+<b>Synonyms:</b> Artificial, Man-made, Fabricated, Non-natural.
+
+<b>Example:</b> "The attacker used synthetic identities—combining real Social Security numbers with fake names—to open fraudulent bank accounts." (আক্রমণকারী জাল ব্যাংক অ্যাকাউন্ট খোলার জন্য 'সিনথেটিক' (Synthetic) পরিচয় ব্যবহার করেছিল—যেখানে আসল সোশ্যাল সিকিউরিটি নম্বরের সাথে ভুয়া নাম মিলিয়ে দেওয়া হয়েছিল।)
+
+<u><b>Educational Section:</b></u> In the context of modern cybersecurity, Synthetic Media and Synthetic Identity Theft are major concerns.
+
+- Synthetic Media: Includes AI-generated audio, video (Deepfakes), and images that look and sound real.
+
+- Synthetic Identity Theft: A sophisticated type of fraud where a criminal creates a completely new identity by mixing real and fake information. Because the identity doesn't belong to a specific real person, it can be harder for traditional fraud detection systems to flag.
 
 ---
 
@@ -791,36 +847,18 @@ In cybersecurity, an Amplification Attack is a form of DDoS (Distributed Denial 
 
 ---
 
-<a id="Terms"></a>
+<a id="Z"></a>
 
-## Terms
+<b>Word:</b> Zero-day Vulnerability
 
----
+<b>Part of Speech:</b> Noun
 
-<b>Term:</b> Quarterly Spikes
+<b>Bangla Meaning:</b> সফটওয়্যার বা সিস্টেমের এমন একটি নিরাপত্তা ত্রুটি যা নির্মাতা বা সাধারণ মানুষ এখনো জানে না (তাই এটি সংশোধনের জন্য কোনো সময় বা 'জিরো ডে' পাওয়া যায়নি)।
 
-<b>Part of Speech:</b> Noun Phrase
+<b>Synonyms:</b> Zero-day exploit, 0-day, Unknown flaw, Unpatched vulnerability.
 
-<b>Bangla Meaning:</b> ত্রৈমাসিক আকস্মিক বৃদ্ধি (প্রতি তিন মাস অন্তর দেখা যায় এমন ডেটা বা ট্রাফিকের বড় ধরনের পরিবর্তন)।
+<b>English Example (with Bangla translation):</b> "I’ve found a zero-day vulnerability in the latest kernel update; I can slip into any server unnoticed before the devs even realize the hole exists." (আমি সর্বশেষ কার্নেল আপডেটে একটি জিরো-ডে ভালনারেবিলিটি খুঁজে পেয়েছি; ডেভেলপাররা এই ছিদ্রটির অস্তিত্ব টের পাওয়ার আগেই আমি অলক্ষ্যে যেকোনো সার্ভারে ঢুকে পড়তে পারব।)
 
-<b>Synonyms:</b> Seasonal surges, Three-month peaks, Cyclical bursts.
-
-<b>English Example:</b> "I’ve been tracking their logs for months; those quarterly spikes in financial reporting traffic are the perfect cover for me to slip in and exfiltrate the encrypted ledgers." (আমি কয়েক মাস ধরে তাদের লগ ট্র্যাক করছি; আর্থিক রিপোর্টিংয়ের সময় ওই ত্রৈমাসিক ট্রাফিক বৃদ্ধি (Quarterly spikes) আমার জন্য একদম উপযুক্ত সুযোগ যাতে আমি ভেতরে ঢুকে এনক্রিপ্টেড লেজারগুলো চুরি করে নিয়ে আসতে পারি।)
-
-<u><b>Educational Section:</b></u> In security monitoring, quarterly spikes are predictable patterns related to business cycles (like tax season or quarterly earnings). Attackers exploit these high-traffic periods because malicious activity can easily blend in with the massive volume of legitimate requests, making it harder for automated filters to flag anomalies.
-
----
-
-<b>Term:</b> Novel Lures
-
-<b>Part of Speech:</b> Noun Phrase
-
-<b>Bangla Meaning:</b> নতুন ধরনের প্রলোভন বা ফাঁদ (আগে দেখা যায়নি এমন সব কৌশল যা ভিকটিমকে প্রলুব্ধ করতে ব্যবহৃত হয়)।
-
-<b>Synonyms:</b> Original baits, Unique traps, Fresh deceptions, New-age phishing tactics.
-
-<b>Example:</b> "Hackers are using novel lures related to the latest global events to trick people into clicking malicious links." (হ্যাকাররা মানুষকে ম্যালওয়্যার লিঙ্কে ক্লিক করতে প্রলুব্ধ করার জন্য সর্বশেষ বৈশ্বিক ঘটনাগুলোর সাথে সম্পর্কিত নতুন ধরনের প্রলোভন (Novel lures) ব্যবহার করছে।)
-
-<u><b>Educational Section:</b></u> In cybersecurity, a Lure is the "hook" used in a phishing attack to grab a victim's attention. When we call them Novel, it means they are creative and exploit current trends or psychological triggers that people haven't been warned about yet. For example, during a major sporting event or a health crisis, attackers create novel lures like "Click here for free tickets" or "Download the emergency guide." Because the lures are new, they often bypass email filters that are looking for older, known patterns.
+<u><b>Educational Section:</b></u> A Zero-day Vulnerability is a software flaw that is unknown to the vendor. The term "zero-day" refers to the fact that the developer has had zero days to fix it because they aren't aware of it yet. Hackers exploit these flaws to launch attacks because no patches or defenses exist, making them extremely valuable on the dark web.
 
 ---
