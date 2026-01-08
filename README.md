@@ -271,6 +271,18 @@ In cybersecurity, an Amplification Attack is a form of DDoS (Distributed Denial 
 
 ---
 
+<b>Word:</b> Freak
+
+<b>Part of Speech:</b> Verb / Noun
+
+<b>Bangla Meaning:</b> অস্বাভাবিক আচরণ করা বা করানো (প্রযুক্তিতে কোনো ডিভাইস বা সিস্টেমকে অপ্রত্যাশিতভাবে কাজ করানো)।
+
+<b>Synonyms:</b> Glitch, Malfunction, Outrage, Deviate.
+
+<b>English Example (with Bangla translation):</b> "I sent a series of malformed packets to the firewall just to make it freak out and drop all its security rules." (আমি ফায়ারওয়ালে কিছু ত্রুটিপূর্ণ প্যাকেট পাঠিয়েছি যাতে এটি অস্বাভাবিক আচরণ (Freak out) করে এবং এর সব সিকিউরিটি রুল মুছে ফেলে।)
+
+<u><b>Educational Section:</b></u> In a technical or hacker context, to freak or "freak out" means to cause a system to enter an unstable or unintended state. This is often the goal of Fuzzing (sending random data to an input), where the attacker tries to find bugs by seeing what inputs make the software "freak" and crash, potentially revealing a vulnerability.
+
 ---
 
 <a id="H"></a>
@@ -468,6 +480,20 @@ In cybersecurity, an Amplification Attack is a form of DDoS (Distributed Denial 
 <a id="P"></a>
 
 ## P)
+
+---
+
+<b>Word:</b> Paved
+
+<b>Part of Speech:</b> Adjective / Verb (Past Tense)
+
+<b>Bangla Meaning:</b> সুগম করা বা ভিত্তি তৈরি করা (সাইবার সিকিউরিটিতে সাধারণত কোনো আক্রমণের পথ সহজ করে দেওয়া বোঝাতে ব্যবহৃত হয়)।
+
+<b>Synonyms:</b> Prepared, Facilitated, Cleared, Established.
+
+<b>English Example (with Bangla translation):</b> "The intern's weak password paved the way for my lateral movement across the entire corporate network." (ইন্টার্নটির দুর্বল পাসওয়ার্ডটি আমার জন্য পুরো কর্পোরেট নেটওয়ার্কে অবাধে ঘুরে বেড়ানোর পথ সুগম (Paved) করে দিয়েছে।)
+
+<u><b>Educational Section:</b></u> In a security context, paved often describes how a vulnerability or human error creates an easy path for an attacker. Conversely, "The Paved Road" is a defensive concept where security teams provide developers with pre-approved, secure tools and infrastructures to ensure that the easiest way to build something is also the most secure way.
 
 ---
 
@@ -699,6 +725,20 @@ In cybersecurity, an Amplification Attack is a form of DDoS (Distributed Denial 
 
 ---
 
+<b>Word:</b> Sophistication
+
+<b>Part of Speech:</b> Noun
+
+<b>Bangla Meaning:</b> জটিলতা বা উন্নত ধরণ (সাধারণত কোনো আক্রমণের পিছনে থাকা উচ্চতর কারিগরি দক্ষতা বা কৌশলের স্তর বোঝাতে ব্যবহৃত হয়)।
+
+<b>Synonyms:</b> Complexity, Advancement, Refinement, Expertise.
+
+<b>English Example (with Bangla translation):</b> "The sheer sophistication of this rootkit suggests it wasn't made by a script kiddie; this is state-sponsored craftsmanship designed to stay hidden for years." (এই রুটকিটটির চরম জটিলতা বা উন্নত ধরণ (Sophistication) দেখে বোঝা যাচ্ছে এটি কোনো সাধারণ হ্যাকারের কাজ নয়; এটি রাষ্ট্রীয় মদদপুষ্ট কারিগরদের কাজ যা বছরের পর বছর লুকিয়ে থাকার জন্য তৈরি করা হয়েছে।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, Sophistication refers to the level of technical skill and resources behind an attack. A "High-Sophistication" attack (like an APT) often involves custom-built malware, zero-day exploits, and multi-stage evasion techniques. Security analysts measure sophistication to determine if they are facing a random attacker or a highly organized group.
+
+---
+
 <b>Word:</b> Spear
 
 <b>Part of Speech:</b> Noun / Verb (Used as an adjective in cybersecurity)
@@ -852,6 +892,20 @@ In cybersecurity, an Amplification Attack is a form of DDoS (Distributed Denial 
 <b>Example:</b> "The hacker gained access to the bank's main network by first breaching one of their third-party vendors who had weaker security." (হ্যাকার ব্যাংকের মূল নেটওয়ার্কে প্রবেশ করার জন্য প্রথমে তাদের এমন একজন থার্ড-পার্টি সরবরাহকারীর (Vendors) সিস্টেমে হ্যাক করেছিল যার নিরাপত্তা ব্যবস্থা ছিল অত্যন্ত দুর্বল।)
 
 <u><b>Educational Section:</b></u> In cybersecurity, Vendors play a massive role in Supply Chain Attacks. Most large companies use software or services from hundreds of different vendors. If a vendor’s software (like an update or a plugin) is compromised, every company using that vendor becomes a victim. This is why "Vendor Risk Management" is a critical part of modern defense—it ensures that a company is only as strong as its weakest partner.
+
+---
+
+<b>Word:</b> Vintage
+
+<b>Part of Speech:</b> Adjective
+
+<b>Bangla Meaning:</b> পুরোনো কিন্তু এখনো কার্যকর বা মূল্যবান (প্রযুক্তির ক্ষেত্রে অনেক পুরোনো হার্ডওয়্যার বা সফটওয়্যার যা এখনো ব্যবহৃত হচ্ছে)।
+
+<b>Synonyms:</b> Classic, Legacy, Old-school, Antique.
+
+<b>English Example (with Bangla translation):</b> "The target is still running a vintage Windows XP build on their workstation—it’s an open invitation for my favorite legacy exploits." (টার্গেট এখনো তাদের ওয়ার্কস্টেশনে একটি পুরোনো আমলের (Vintage) উইন্ডোজ এক্সপি ব্যবহার করছে—আমার প্রিয় লেগাসি এক্সপ্লয়েটগুলো চালানোর জন্য এটি একটি উন্মুক্ত আমন্ত্রণ।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, Vintage or Legacy systems are high-risk targets. These are outdated software or hardware that are no longer supported by the manufacturer. Because they don't receive security patches, they contain well-known vulnerabilities that hackers can easily exploit using "vintage" tools or scripts.
 
 ---
 
