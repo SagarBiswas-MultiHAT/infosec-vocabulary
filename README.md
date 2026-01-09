@@ -59,6 +59,20 @@ In cybersecurity, an Amplification Attack is a form of DDoS (Distributed Denial 
 
 ---
 
+<b>Word:</b> Apprentice
+
+<b>Part of Speech:</b> Noun
+
+<b>Bangla Meaning:</b> শিক্ষানবিশ (যে ব্যক্তি কোনো দক্ষ কারিগরের অধীনে থেকে কাজ শেখে)
+
+<b>Synonyms:</b> Trainee, Novice, Learner, Rookie, Intern.
+
+<b>English Example:</b> "I’m training a new apprentice to handle the botnet; he’s still a script-kiddie, but he’ll be dropping payloads like a pro in a month." (আমি বটনেট সামলানোর জন্য একজন নতুন শিক্ষানবিশকে (Apprentice) প্রশিক্ষণ দিচ্ছি; সে এখনো কেবল অন্যের স্ক্রিপ্ট ব্যবহার করতে জানে, তবে এক মাসের মধ্যে সে প্রোর মতো পেলোড ড্রপ করতে পারবে।)
+
+<u><b>Educational Section:</b></u> In the cybersecurity world, an Apprentice often refers to a junior analyst in a SOC (Security Operations Center) or a beginner in a hacking collective. On the dark web, veteran hackers often take on apprentices to scale their operations, teaching them how to conduct reconnaissance or maintain persistence in exchange for a cut of the profits.
+
+---
+
 <b>Word:</b> Assess
 
 <b>Part of Speech:</b> Verb
@@ -341,7 +355,7 @@ In cybersecurity, an Amplification Attack is a form of DDoS (Distributed Denial 
 
 ---
 
-<b>Word:</b> Dwell Time
+<b>Term:</b> Dwell Time
 
 <b>Part of Speech:</b> Noun Phrase
 
@@ -455,6 +469,26 @@ b>Word:</b> Eventual
 
 ---
 
+<a id="G"></a>
+
+## G)
+
+---
+
+<b>Word:</b> Gamified
+
+<b>Part of Speech:</b> Adjective / Verb (Past Participle)
+
+<b>Bangla Meaning:</b> গেমের মতো আনন্দদায়ক বা প্রতিযোগিতামূলক করা (সাধারণ কোনো কাজকে গেমের উপাদান ব্যবহার করে আকর্ষণীয় করা)
+
+<b>Synonyms:</b> Ludified, Incentivized, Game-based, Competitive.
+
+<b>English Example:</b> "The company gamified their security training with badges and leaderboards, but I still found a way to social engineer the 'top player' into giving up his token." (কোম্পানি তাদের সিকিউরিটি ট্রেনিংকে ব্যাজ এবং লিডারবোর্ডের মাধ্যমে গেমের মতো মজাদার (Gamified) করেছে, কিন্তু আমি ঠিকই তাদের 'সেরা খেলোয়াড়কে' সোশ্যাল ইঞ্জিনিয়ারিংয়ের মাধ্যমে পটিয়ে তার টোকেনটা হাতিয়ে নিয়েছি।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, Gamification is used to engage employees in security awareness. By turning boring training into a game (like Capture The Flag or simulation rewards), organizations hope to improve "Baseline Hygiene." However, attackers sometimes use gamified lures—like fake "spin the wheel" prizes or mobile game mods—to trick users into installing malware.
+
+---
+
 <a id="H"></a>
 
 ## H)
@@ -472,6 +506,34 @@ b>Word:</b> Eventual
 <b>Example:</b> "My botnet is currently harvesting thousands of emails from that unpatched server; by morning, I’ll have a fresh database to sell on the dark market." (আমার বটনেট বর্তমানে ওই আনপ্যাচড সার্ভার থেকে হাজার হাজার ইমেল সংগ্রহ (Harvesting) করছে; সকালের মধ্যে আমার কাছে ডার্ক মার্কেটে বিক্রি করার মতো একটি নতুন ডাটাবেস থাকবে।)
 
 <u><b>Educational Section:</b></u> In cybersecurity, Harvesting (specifically Credential Harvesting) is the process of using automated tools or social engineering to collect large sets of user data. This is often the second stage of an attack: first, the attacker gains access, then they "harvest" as much sensitive info as possible—like usernames, passwords, or PII (Personally Identifiable Information)—to use or sell later.
+
+---
+
+<b>Word:</b> Hygiene
+
+<b>Part of Speech:</b> Noun
+
+<b>Bangla Meaning:</b> পরিচ্ছন্নতা বা সুরক্ষা বিধি (সাইবার নিরাপত্তার ক্ষেত্রে সিস্টেমকে নিরাপদ রাখার নিয়মিত অভ্যাসসমূহ)
+
+<b>Synonyms:</b> Maintenance, Sanitation, Cleanliness, Upkeep.
+
+<b>English Example:</b> "Their admin’s poor password hygiene was my golden ticket; he reused the same trash credentials across ten different servers." (তাদের অ্যাডমিনের দুর্বল পাসওয়ার্ড পরিচ্ছন্নতা (Hygiene) ছিল আমার জন্য সুযোগের চাবিকাঠি; সে দশটি আলাদা সার্ভারে একই আবর্জনা মার্কা পাসওয়ার্ড ব্যবহার করেছিল।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, Cyber Hygiene refers to the fundamental, routine practices that organizations and individuals perform to maintain system health and improve security. This includes regular patching, using strong/unique passwords, enabling MFA, and deleting unused accounts. Poor hygiene is often the root cause of successful breaches because it leaves simple, preventable vulnerabilities open for exploit.
+
+---
+
+<b>Term:</b> Baseline Hygiene
+
+<b>Part of Speech:</b> Noun Phrase
+
+<b>Bangla Meaning:</b> প্রাথমিক সুরক্ষা বিধি বা ন্যূনতম নিরাপত্তা ব্যবস্থা (একটি সিস্টেমকে সুরক্ষিত রাখতে যে মৌলিক পদক্ষেপগুলো অবশ্যই নেওয়া উচিত)।
+
+<b>Synonyms:</b> Core security, Fundamental safeguards, Basic security hygiene, Essential maintenance.
+
+<b>English Example:</b> "Their network was a joke; they didn't even have baseline hygiene like disabling guest accounts, so I walked right in through the front door." (তাদের নেটওয়ার্কটা একটা তামাশা ছিল; গেস্ট অ্যাকাউন্টগুলো নিষ্ক্রিয় করার মতো ন্যূনতম নিরাপত্তা ব্যবস্থাও (Baseline hygiene) তাদের ছিল না, তাই আমি সরাসরি সদর দরজা দিয়েই ভেতরে ঢুকে পড়েছি।)
+
+<u><b>Educational Section:</b></u> Baseline Hygiene represents the "bare minimum" security controls an organization must implement to defend against low-level, automated threats. This typically includes basic steps like keeping software updated, using firewalls, and enforcing strong password policies. Without this baseline, a system is vulnerable to even the most unsophisticated "script kiddie" attacks.
 
 ---
 
@@ -933,6 +995,20 @@ b>Word:</b> Eventual
 
 ---
 
+<b>Word:</b> Rootkit
+
+<b>Part of Speech:</b> Noun
+
+<b>Bangla Meaning:</b> রুটকিট (এমন এক ধরণের গোপন ম্যালওয়্যার যা কম্পিউটারের একদম গভীরে লুকিয়ে থেকে হ্যাকারকে পূর্ণ নিয়ন্ত্রণ দেয় এবং সাধারণ অ্যান্টিভাইরাস দিয়ে শনাক্ত করা যায় না)
+
+<b>Synonyms:</b> Stealth malware, Kernel-level exploit, Deep persistence tool.
+
+<b>English Example:</b> "I’ve successfully injected a rootkit into their OS kernel; even if they reinstall the apps, I'll still be ghosting their system from the shadows." (আমি তাদের ওএস কার্নেলে সফলভাবে একটি রুটকিট ইনজেক্ট করেছি; তারা যদি অ্যাপগুলো রি-ইনস্টলও করে, তবুও আমি আড়ালে থেকে তাদের সিস্টেমের নিয়ন্ত্রণ ধরে রাখব।)
+
+<u><b>Educational Section:</b></u> A Rootkit is a collection of software tools that enables an unauthorized user to gain control of a computer system without being detected. Because it often resides at the kernel level (the core of the OS), it can hide its files, processes, and network connections from standard security tools. Removing a rootkit is extremely difficult and often requires a complete hardware wipe or specialized low-level scanning.
+
+---
+
 <a id="S"></a>
 
 ## S)
@@ -963,7 +1039,7 @@ b>Word:</b> Eventual
 
 <b>English Example (with Bangla translation):</b> "While their IT team was busy fighting the DDoS, I managed to siphon off the encrypted customer database through a hidden tunnel." (যখন তাদের আইটি টিম ডিডোস অ্যাটাক ঠেকাতে ব্যস্ত ছিল, আমি সেই সুযোগে একটি হিডেন টানেল দিয়ে এনক্রিপ্ট করা কাস্টমার ডাটাবেসটি পাচার করে (Siphon off) দিয়েছি।)
 
-## <u><b>Educational Section:</b></u> Siphon off is a term used to describe the illicit diversion of funds or data. In a cyber-heist, an attacker might "siphon off" small amounts of money from thousands of accounts to stay under the radar of fraud detection systems, or slowly exfiltrate sensitive files during a prolonged breach.
+<u><b>Educational Section:</b></u> Siphon off is a term used to describe the illicit diversion of funds or data. In a cyber-heist, an attacker might "siphon off" small amounts of money from thousands of accounts to stay under the radar of fraud detection systems, or slowly exfiltrate sensitive files during a prolonged breach.
 
 ---
 
@@ -1145,6 +1221,20 @@ b>Word:</b> Eventual
 
 ---
 
+<b>Word:</b> Trojan
+
+<b>Part of Speech:</b> Noun
+
+<b>Bangla Meaning:</b> ট্রোজান (এমন একটি ক্ষতিকারক প্রোগ্রাম যা দরকারী বা নির্দোষ সফটওয়্যারের ছদ্মবেশে সিস্টেমে প্রবেশ করে)
+
+<b>Synonyms:</b> Trojan Horse, Disguised malware, Backdoor, Mimic.
+
+<b>English Example:</b> "I disguised my data-stealer as a 'Free Game Patch' and uploaded it to the forum; now my Trojan is sitting on a thousand PCs, waiting for my command." (আমি আমার ডাটা-চুরি করার প্রোগ্রামটিকে একটি 'ফ্রি গেম প্যাচ' হিসেবে ছদ্মবেশ দিয়ে ফোরামে আপলোড করেছি; এখন আমার ট্রোজানটি হাজার হাজার পিসিতে বসে আছে, শুধু আমার কমান্ডের অপেক্ষায়।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, a Trojan (derived from the Trojan Horse of Greek myth) is malware that misleads users of its true intent. Unlike viruses or worms, Trojans generally do not self-replicate; they rely on social engineering to be executed. Once inside, they can create backdoors, steal sensitive data, or give the attacker full remote control (RAT).
+
+---
+
 <b>Word:</b> Tunneling
 
 <b>Part of Speech:</b> Noun / Verb
@@ -1210,6 +1300,20 @@ b>Word:</b> Eventual
 <b>Example:</b> "I spent weeks crafting a perfect whaling mail for the CFO; one click on that fake 'financial audit' link and I'll have the keys to the corporate vault." (আমি সিএফও-র (CFO) জন্য একটা নিখুঁত হোয়েলিং ইমেল বানাতে কয়েক সপ্তাহ ব্যয় করেছি; ওই ভুয়া 'ফাইন্যান্সিয়াল অডিট' লিঙ্কে একটা ক্লিক করলেই কোম্পানির সব সিন্দুকের চাবি আমার হাতে চলে আসবে।)
 
 <u><b>Educational Section:</b></u> Whaling is a highly targeted form of spear-phishing aimed at "big fish"—senior executives or high-ranking government officials. Because these targets have high-level access and authority, a successful whaling attack can lead to massive data breaches or huge wire transfer frauds. These attacks are usually very sophisticated, using personalized information to appear legitimate.
+
+---
+
+<b>Word:</b> Worm
+
+<b>Part of Speech:</b> Noun
+
+<b>Bangla Meaning:</b> ওয়ার্ম (এক ধরণের ক্ষতিকারক প্রোগ্রাম যা মানুষের সাহায্য ছাড়াই নিজে থেকে এক কম্পিউটার থেকে অন্য কম্পিউটারে ছড়িয়ে পড়তে পারে)
+
+<b>Synonyms:</b> Self-replicating malware, Network virus, Autonomous spreader.
+
+<b>English Example:</b> "I just released a worm into their local network; within minutes, it'll crawl through every unpatched machine and lock down their entire infrastructure." (আমি তাদের লোকাল নেটওয়ার্কে একটি ওয়ার্ম ছেড়ে দিয়েছি; কয়েক মিনিটের মধ্যেই এটি প্রতিটি প্যাচ না করা মেশিনে হানা দেবে এবং তাদের পুরো পরিকাঠামো অচল করে দেবে।)
+
+<u><b>Educational Section:</b></u> Unlike a Trojan, a Worm is a standalone piece of malware that replicates itself in order to spread to other computers. It uses a computer network to spread, relying on security failures on the target computer to access it. Because they can spread so rapidly and autonomously, worms are often used to create large botnets or cause massive network congestion.
 
 ---
 
