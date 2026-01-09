@@ -16,6 +16,34 @@
 
 ---
 
+<b>Word:</b> Attribution
+
+<b>Part of Speech:</b> Noun
+
+<b>Bangla Meaning:</b> দায়বদ্ধতা নির্ধারণ বা উৎস শনাক্তকরণ (সাইবার আক্রমণের পেছনে আসলে কে আছে—কোন হ্যাকার বা কোন দেশ—তা নিশ্চিতভাবে চিহ্নিত করা)।
+
+<b>Synonyms:</b> Identification, Assignment, Credit, Source tracing.
+
+<b>English Example (with Bangla translation):</b> "I’ve used three layers of proxies and spoofed a Russian APT's signature to make sure the forensic team's attribution points in the wrong direction." (আমি তিন স্তরের প্রক্সি ব্যবহার করেছি এবং একটি রাশিয়ান APT-এর সিগনেচার নকল করেছি যাতে ফরেনসিক টিমের সোর্স শনাক্তকরণ (Attribution) ভুল দিকে নির্দেশ করে।)
+
+<u><b>Educational Section:</b></u> Attribution is the process of tracking and identifying the person or group responsible for a cyberattack. It is notoriously difficult because attackers use techniques like false flags, VPNs, and compromised servers in other countries to hide their identity. In high-level cybersecurity, attribution is used to decide on legal actions or international sanctions.
+
+---
+
+<b>Term:</b> Delayed Attribution
+
+<b>Part of Speech:</b> Noun Phrase
+
+<b>Bangla Meaning:</b> বিলম্বিত উৎস শনাক্তকরণ (যখন কোনো সাইবার আক্রমণের আসল হোতাকে খুঁজে বের করতে অনেক সময় লেগে যায়, কারণ হ্যাকার তার পরিচয় লুকানোর জন্য অনেক জটিল স্তর ব্যবহার করে)।
+
+<b>Synonyms:</b> Retrospective identification, Post-facto attribution, Lagged source tracing.
+
+<b>English Example (with Bangla translation):</b> "By the time they finish their analysis for a delayed attribution, I’ll have laundered the crypto and vanished into a non-extradition country." (তারা যখন বিলম্বিত উৎস শনাক্তকরণের (Delayed attribution) বিশ্লেষণ শেষ করবে, ততক্ষণে আমি ক্রিপ্টোকারেন্সি লন্ডারিং করে এমন এক দেশে চলে যাব যেখান থেকে আমাকে ধরা সম্ভব হবে না।)
+
+<u><b>Educational Section:</b></u> Delayed Attribution occurs when an attacker uses sophisticated evasion techniques—such as dormant code, multi-hop proxies, or "Living off the Land" (LotL) binaries—to mask their identity. This forces investigators to spend months or even years piecing together evidence. In many cases, by the time the attribution is confirmed, the tactical or political window for a response has already closed.
+
+---
+
 <b>Word:</b> Amplified
 
 <b>Part of Speech:</b> Verb (Past Tense / Past Participle) / Adjective
@@ -79,6 +107,46 @@ In cybersecurity, an Amplification Attack is a form of DDoS (Distributed Denial 
 
 ---
 
+<b>Word:</b> Bragging
+
+<b>Part of Speech:</b> Noun / Verb (Gerund)
+
+<b>Bangla Meaning:</b> বড়াই করা বা দম্ভোক্তি করা (হ্যাকিংয়ের ক্ষেত্রে কোনো সিস্টেম হ্যাক করার পর ইন্টারনেটে বা ডার্ক ওয়েবে সেটি নিয়ে গর্ব করা)।
+
+<b>Synonyms:</b> Boasting, Vaunting, Show-off, Crowing.
+
+<b>English Example (with Bangla translation):</b> "The hacker's downfall was his bragging on a public forum; he posted screenshots of the database he stole just to gain 'clout' among his peers." (হ্যাকারটির পতন হয়েছিল পাবলিক ফোরামে তার বড়াই করার (Bragging) কারণে; সমবয়সীদের কাছে বাহবা পাওয়ার জন্য সে তার চুরি করা ডাটাবেসের স্ক্রিনশট পোস্ট করেছিল।)
+
+<u><b>Educational Section:</b></u> In the cybersecurity world, Bragging is a common trait of "Script Kiddies" or fame-driven hackers. While sophisticated groups (like APTs) prefer to stay quiet and maintain Dwell Time, less experienced hackers often post their successes on Twitter (X), Telegram, or underground forums to build their reputation. This ego-driven behavior is a goldmine for digital forensics teams and law enforcement, as it often leads to the Attribution and eventual arrest of the attacker.
+
+---
+
+<b>Term:</b> Public Bragging
+
+<b>Part of Speech:</b> Noun Phrase
+
+<b>Bangla Meaning:</b> জনসমক্ষে বড়াই করা (সবার সামনে নিজের হ্যাকিং বা অবৈধ সাফল্যের কথা প্রচার করা)
+
+<b>Synonyms:</b> Overt boasting, Public vaunting, Open gloating, High-profile posturing.
+
+<b>English Example:</b> "Your public bragging on Twitter attracted the feds' attention; now the whole operation is burned because you wanted some likes." (টুইটারে তোমার এই জনসমক্ষে বড়াই করাটা গোয়েন্দাদের নজর কেড়েছে; এখন তোমার লাইক পাওয়ার নেশার কারণে আমাদের পুরো অপারেশনটা ভেস্তে গেল।)
+
+<u><b>Educational Section:</b></u> In the cyberworld, public bragging occurs when threat actors claim responsibility for an attack on social media or public leak sites. While it builds a "brand" for the hacking group, it significantly increases the risk of attribution (being identified) as security agencies prioritize targets that cause public embarrassment or panic.
+
+<b>Word:</b> Brochure
+
+<b>Part of Speech:</b> Noun
+
+<b>Bangla Meaning:</b> প্রচারপত্র বা পুস্তিকা (সাইবার সিকিউরিটিতে এটি মূলত ফিশিংয়ের জন্য ব্যবহৃত প্রলোভনমূলক ডকুমেন্ট)।
+
+<b>Synonyms:</b> Pamphlet, Booklet, Leaflet, Prospectus.
+
+<b>English Example (with Bangla translation):</b> "I’ve embedded a malicious macro inside this fake corporate benefits brochure; one click to 'Enable Content' and I have a shell on their system." (আমি এই ভুয়া কর্পোরেট বেনিফিট প্রচারপত্রের (Brochure) ভেতরে একটি ম্যালিশিয়াস ম্যাক্রো ঢুকিয়ে দিয়েছি; 'এনাবল কন্টেন্ট'-এ একটি ক্লিক করলেই তাদের সিস্টেমে আমার দখল চলে আসবে।)
+
+<u><b>Educational Section:</b></u> In a hacking context, a Brochure is often used as a "lure" in a Phishing or Spear-Phishing attack. Attackers send PDF or Word documents disguised as informative brochures (e.g., "Company Policy" or "Product Catalog") to trick users into downloading them. Once opened, these files execute hidden scripts to infect the victim's computer.chure
+
+---
+
 <b>Word:</b> Bulk
 
 <b>Part of Speech:</b> Adjective / Noun
@@ -96,6 +164,34 @@ In cybersecurity, an Amplification Attack is a form of DDoS (Distributed Denial 
 <a id="C"></a>
 
 ## C)
+
+---
+
+<b>Word:</b> Cascade
+
+<b>Part of Speech:</b> Verb / Noun
+
+<b>Bangla Meaning:</b> ধাপে ধাপে ঘটা বা একের পর এক পতন (একটি ঘটনার প্রভাবে যখন পর্যায়ক্রমে আরও অনেকগুলো ঘটনা ঘটে)
+
+<b>Synonyms:</b> Chain reaction, Domino effect, Sequence, Ripple.
+
+<b>English Example:</b> "Once I cracked the master admin password, I triggered a cascade of failures that took down every satellite office in the network." (আমি যখনই মাস্টার অ্যাডমিন পাসওয়ার্ডটি ভাঙলাম, আমি ব্যর্থতার এমন একটি শৃঙ্খল বা ক্যাসকেড তৈরি করলাম যা নেটওয়ার্কের প্রতিটি শাখা অফিসকে অচল করে দিল।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, a Cascading Failure occurs when the failure of one node or component triggers a sequence of failures in other connected components. Attackers aim for this to maximize impact; for instance, compromising a central authentication server can cause access to cascade shut across an entire global infrastructure.
+
+---
+
+<b>Word:</b> Closure
+
+<b>Part of Speech:</b> Noun
+
+<b>Bangla Meaning:</b> সমাপ্তি বা অবসান (কোনো কাজ বা বিষয়ের চূড়ান্ত নিষ্পত্তি)
+
+<b>Synonyms:</b> Conclusion, Termination, Settlement, Resolution.
+
+<b>English Example:</b> "The feds think they got closure by seizing my old server, but they don't realize I've already migrated the operation to a new cluster." (ফেডারেলরা ভাবছে আমার পুরনো সার্ভারটা জব্দ করে তারা এই কেসের অবসান (Closure) ঘটিয়েছে, কিন্তু তারা বুঝতেও পারছে না যে আমি ততক্ষণে আমার অপারেশন নতুন ক্লাস্টারে সরিয়ে নিয়েছি।)
+
+<u><b>Educational Section:</b></u> In a general technical context, Closure refers to the completion of a process. In programming (like JavaScript), a Closure is a function that remembers its outer variables even after the outer function has finished. From a security standpoint, "closure" can also refer to Incident Closure, where a security breach is officially resolved and documented after the threat is neutralized and the system is patched.
 
 ---
 
@@ -231,6 +327,38 @@ In cybersecurity, an Amplification Attack is a form of DDoS (Distributed Denial 
 
 ---
 
+<b>Word:</b> Dwell
+
+<b>Part of Speech:</b> Verb
+
+<b>Bangla Meaning:</b> অবস্থান করা বা টিকে থাকা (সাইবার সিকিউরিটিতে মূলত হ্যাকারের নেটওয়ার্কের ভেতরে ধরা না পড়ে লুকিয়ে থাকাকে বোঝায়)।
+
+<b>Synonyms:</b> Reside, Inhabit, Linger, Persist.
+
+<b>English Example (with Bangla translation):</b> "The rootkit allowed the attacker to dwell in the company's mainframe for six months before the first suspicious packet was flagged." (রুটকিটটি আক্রমণকারীকে কোম্পানির মেইনফ্রেমে ছয় মাস ধরে অবস্থান করার (Dwell) সুযোগ করে দিয়েছিল, যতক্ষণ না প্রথম সন্দেহজনক প্যাকেটটি ধরা পড়েছিল।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, you will most commonly see this word in the term Dwell Time. This is the duration between when an attacker first gains access to a system and when they are finally detected and evicted. A high dwell time is dangerous because it gives hackers more than enough time to steal data, escalate privileges, and plant "backdoors" for future access. Reducing dwell time is a top priority for SOC (Security Operations Center) teams.
+
+---
+
+<b>Word:</b> Dwell Time
+
+<b>Part of Speech:</b> Noun Phrase
+
+<b>Bangla Meaning:</b> অবস্থানের সময়কাল (একজন হ্যাকার কোনো সিস্টেমে প্রবেশ করার পর থেকে শনাক্ত হওয়া পর্যন্ত যে সময়টুকু ভেতরে লুকিয়ে থাকে)।
+
+<b>Synonyms:</b> Retention time, Presence duration, Latency period.
+
+<b>English Example (with Bangla translation):</b> "The average dwell time for state-sponsored attacks is often over 200 days, giving hackers plenty of time to siphon off sensitive data." (রাষ্ট্রীয় মদদপুষ্ট হামলার গড় অবস্থানের সময়কাল (Dwell time) প্রায়ই ২০০ দিনের বেশি হয়, যা হ্যাকারদের সংবেদনশীল তথ্য পাচার করার জন্য প্রচুর সময় দেয়।)
+
+<u><b>Educational Section:</b></u> Dwell Time is a critical metric in cybersecurity. It is calculated as the time elapsed between the Initial Infection and Detection.
+
+Mean Time to Detect (MTTD): The average time it takes to realize an intruder is present.
+
+Mean Time to Respond (MTTR): The time it takes to kick the hacker out after they are found. A long dwell time indicates that the organization's monitoring tools are failing, allowing attackers to perform "lateral movement" and "privilege escalation" undisturbed.
+
+---
+
 <a id="E"></a>
 
 ## E)
@@ -251,6 +379,34 @@ In cybersecurity, an Amplification Attack is a form of DDoS (Distributed Denial 
 
 ---
 
+<b>Word:</b> Entropy
+
+<b>Part of Speech:</b> Noun
+
+<b>Bangla Meaning:</b> বিশৃঙ্খলা বা অনিশ্চয়তা (ক্রিপ্টোগ্রাফিতে এটি র‍্যান্ডমনেস বা এলোমেলো ভাব বোঝায়, যা পাসওয়ার্ড বা এনক্রিপশন কী-কে শক্তিশালী করে)।
+
+<b>Synonyms:</b> Randomness, Disorder, Uncertainty, Chaos.
+
+<b>English Example (with Bangla translation):</b> "Your password has zero entropy; it took my brute-force script less than a second to crack that predictable string." (তোমার পাসওয়ার্ডে কোনো এনট্রপি (Entropy) বা জটিলতা নেই; আমার ব্রুট-ফোর্স স্ক্রিপ্টটি ওই অনুমানযোগ্য স্ট্রিংটি ক্র্যাক করতে এক সেকেন্ডেরও কম সময় নিয়েছে।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, Entropy is a measure of the randomness or unpredictability of data. High entropy is crucial for encryption keys and passwords because it makes them resistant to guessing or brute-force attacks. If a system's entropy is low (predictable), an attacker can easily calculate the "random" values used for security, breaking the entire encryption.
+
+---
+
+b>Word:</b> Eventual
+
+<b>Part of Speech:</b> Adjective
+
+<b>Bangla Meaning:</b> চূড়ান্ত বা পরিণামস্বরূপ (যা সময়ের ব্যবধানে শেষ পর্যন্ত ঘটবেই)।
+
+<b>Synonyms:</b> Final, Ultimate, Concluding, Resulting.
+
+<b>English Example (with Bangla translation):</b> "The bug I planted is small, but the eventual system crash is inevitable once the memory leak reaches its limit." (আমি যে বাগটি ঢুকিয়েছি তা ছোট, কিন্তু মেমোরি লিক যখন তার সীমায় পৌঁছাবে, তখন সিস্টেমের চূড়ান্ত (Eventual) ক্র্যাশ হওয়া অনিবার্য।)
+
+<u><b>Educational Section:</b></u> In cybersecurity and distributed systems, you might often hear the term Eventual Consistency. This means that even if data isn't updated everywhere instantly, it is guaranteed that all access to that data will eventually return the last updated value. From an attacker's perspective, "eventual" often refers to the long-term goal of an attack, such as an APT (Advanced Persistent Threat) that waits patiently for the eventual moment to strike.
+
+---
+
 <b>Word:</b> Executives
 
 <b>Part of Speech:</b> Noun (Plural)
@@ -262,6 +418,20 @@ In cybersecurity, an Amplification Attack is a form of DDoS (Distributed Denial 
 <b>Example:</b> "I’ve been monitoring the executives' travel schedules to time my spear-phishing attack when they’re distracted at a tech conference." (আমি ওই উচ্চপদস্থ কর্মকর্তাদের (Executives) ভ্রমণের সময়সূচী পর্যবেক্ষণ করছি যাতে তারা যখন কোনো টেক কনফারেন্সে ব্যস্ত থাকবে, ঠিক সেই সময়ে আমি আমার স্পিয়ার-ফিশিং অ্যাটাকটি চালাতে পারি।)
 
 <u><b>Educational Section:</b></u> In cybersecurity, Executives are often referred to as "High-Value Targets" (HVTs). Because they have broad access to sensitive corporate data and the authority to approve large financial transactions, they are the primary targets for Whaling and Business Email Compromise (BEC) attacks. Securing their accounts with hardware tokens and strict verification protocols is critical for organizational safety.
+
+---
+
+<b>Word:</b> Exhaust
+
+<b>Part of Speech:</b> Verb
+
+<b>Bangla Meaning:</b> নিঃশেষ করা বা সম্পূর্ণ শেষ করে ফেলা (কোনো কিছুর ভাণ্ডার বা শক্তি শেষ করে দেওয়া)
+
+<b>Synonyms:</b> Deplete, Drain, Consume, Use up.
+
+<b>English Example:</b> "I’ll keep flooding their server with junk traffic until I exhaust their bandwidth and the whole system crashes." (আমি তাদের সার্ভারে আবর্জনা ট্রাফিক পাঠাতে থাকব যতক্ষণ না আমি তাদের ব্যান্ডউইথ নিঃশেষ করে দেই এবং পুরো সিস্টেমটি ক্রাশ করে।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, "exhaustion attacks" (like Resource Exhaustion) aim to consume a system's limited resources—such as CPU, memory, or disk space. A common example is a DoS (Denial of Service) attack, where the attacker exhausts the target's capacity to handle requests, making the service unavailable to legitimate users.
 
 ---
 
@@ -339,6 +509,20 @@ In cybersecurity, an Amplification Attack is a form of DDoS (Distributed Denial 
 
 ---
 
+<b>Word:</b> Inference
+
+<b>Part of Speech:</b> Noun
+
+<b>Bangla Meaning:</b> অনুমান বা সিদ্ধান্ত গ্রহণ (উপলব্ধ তথ্য বা উপাত্ত বিশ্লেষণ করে কোনো যৌক্তিক সিদ্ধান্তে পৌঁছানো)
+
+<b>Synonyms:</b> Deduction, Conclusion, Reasoning, Assumption.
+
+<b>English Example:</b> "I don't need your cleartext files; by simple inference from your traffic patterns, I already know when you're moving the money and where it's going." (আমার তোমার সাধারণ টেক্সট ফাইলের প্রয়োজন নেই; তোমার ট্রাফিক প্যাটার্ন থেকে অনুমানের মাধ্যমেই আমি জানি তুমি কখন টাকা সরাচ্ছো এবং সেটা কোথায় যাচ্ছে।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, an Inference Attack occurs when an attacker deduces sensitive information by observing non-sensitive data or patterns. For example, by analyzing the timing or size of encrypted packets, a hacker can infer the type of activity a user is performing without ever breaking the encryption itself.
+
+---
+
 <b>Word:</b> Intimidation
 
 <b>Part of Speech:</b> Noun
@@ -384,6 +568,20 @@ In cybersecurity, an Amplification Attack is a form of DDoS (Distributed Denial 
 <b>Example:</b> "I’ve injected my malicious script into a legitimate system process, so the antivirus thinks everything is normal while I siphon off the data." (আমি আমার ম্যালিশিয়াস স্ক্রিপ্টটি একটি বৈধ (Legitimate) সিস্টেম প্রসেসের ভেতরে ঢুকিয়ে দিয়েছি, তাই অ্যান্টিভাইরাস সবকিছু স্বাভাবিক ভাবছে যখন আমি তথ্যগুলো চুরি করছি।)
 
 <u><b>Educational Section:</b></u> In cybersecurity, the goal of an attacker is often to appear legitimate. This is seen in Living off the Land (LotL) attacks, where hackers use legitimate administrative tools (like PowerShell or WMI) to perform malicious activities. Because the tools are trusted by the OS, they are less likely to trigger security alerts compared to custom malware.
+
+---
+
+<b>Word:</b> Listicles
+
+<b>Part of Speech:</b> Noun (Plural)
+
+<b>Bangla Meaning:</b> তালিকা-ভিত্তিক নিবন্ধ (এমন কন্টেন্ট যা তালিকার আকারে তথ্য পরিবেশন করে; হ্যাকাররা এটি প্রায়ই ট্রোজান বা ম্যালওয়্যার ছড়াতে ব্যবহার করে)।
+
+<b>Synonyms:</b> List-articles, Bulleted features, Ranked lists.
+
+<b>English Example (with Bangla translation):</b> "I’m hosting a few clickbait listicles like 'Top 10 Privacy Tools'; once they download the 'recommended' software, my hidden miner starts running in the background." (আমি 'সেরা ১০টি প্রাইভেসী টুলস' এর মতো কিছু ক্লিকবেইট লিস্টিক্যাল (Listicles) হোস্ট করছি; কেউ যখন আমার 'সুপারিশ করা' সফটওয়্যারটি ডাউনলোড করবে, অমনি আমার হিডেন মাইনারটি ব্যাকগ্রাউন্ডে চলতে শুরু করবে।)
+
+<u><b>Educational Section:</b></u> In the world of cybercrime, Listicles are frequently used as "clickbait" in social engineering campaigns. Because they are easy to read and highly shareable, attackers use them to draw traffic to malicious websites or to trick users into downloading compromised software disguised as helpful tools listed in the article.
 
 ---
 
@@ -477,6 +675,22 @@ In cybersecurity, an Amplification Attack is a form of DDoS (Distributed Denial 
 
 ---
 
+<a id="O"></a>
+
+## O)
+
+<b>Word:</b> Opportunistic
+
+<b>Part of Speech:</b> Adjective
+
+<b>Bangla Meaning:</b> সুবিধাবাদী বা সুযোগসন্ধানী (পরিকল্পিতভাবে নয়, বরং সুযোগ পাওয়া মাত্রই কাজে লাগানো)
+
+<b>Synonyms:</b> Shrewd, Tactical, Exploitative, Advantageous.
+
+<b>English Example:</b> "I didn't target your company specifically; I just ran an opportunistic scan for unpatched RDP ports and you happened to leave the door wide open." (আমি সুনির্দিষ্টভাবে তোমার কোম্পানিকে টার্গেট করিনি; আমি শুধু আনপ্যাচড RDP পোর্টের জন্য একটি সুবিধাবাদী স্ক্যান চালিয়েছিলাম আর তোমরা ভুলবশত দরজাটা খোলাই রেখেছিলে।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, an Opportunistic Attack is not targeted at a specific person or organization. Instead, the attacker looks for any system with a known vulnerability (like an old software version or weak password). It’s like a thief walking through a parking lot checking for unlocked car doors—they don't care whose car it is, they just want an easy entry.
+
 <a id="P"></a>
 
 ## P)
@@ -536,6 +750,34 @@ In cybersecurity, an Amplification Attack is a form of DDoS (Distributed Denial 
 <b>English Example:</b> "Gaining access to that low-level employee's laptop was just the start; now I’ll pivot through the internal network until I reach the domain controller." (ওই সাধারণ কর্মীর ল্যাপটপে এক্সেস পাওয়া ছিল কেবল শুরু; এখন আমি ইন্টারনাল নেটওয়ার্ক ব্যবহার করে এক সিস্টেম থেকে অন্য সিস্টেমে যাব (Pivot) যতক্ষণ না আমি ডোমেইন কন্ট্রোলারে পৌঁছাতে পারি।)
 
 <u><b>Educational Section:</b></u> In cybersecurity, Pivoting is a technique used by attackers to use a compromised system as a "stepping stone" to attack other systems in the same network that are not directly accessible from the internet. It is the core of "Lateral Movement," allowing hackers to bypass firewalls by moving from the inside.
+
+---
+
+<b>Word:</b> Plausible
+
+<b>Part of Speech:</b> Adjective
+
+<b>Bangla Meaning:</b> বিশ্বাসযোগ্য বা আপাতদৃষ্টিতে সত্য মনে হয় এমন (সাইবার সিকিউরিটিতে এটি মূলত এমন একটি গল্প বা পরিস্থিতি বোঝাতে ব্যবহৃত হয় যা ভিকটিমকে ধোঁকা দিতে যথেষ্ট বাস্তবসম্মত)।
+
+<b>Synonyms:</b> Believable, Credible, Reasonable, Likely.
+
+<b>English Example (with Bangla translation):</b> "The phishing email needs a plausible excuse, like a 'failed login attempt' from a foreign IP, to scare the target into handing over their credentials immediately." (টার্গেটকে ভয় দেখিয়ে দ্রুত ক্রেডেনশিয়াল হাতিয়ে নেওয়ার জন্য ফিশিং ইমেলটিতে একটি বিশ্বাসযোগ্য (Plausible) অজুহাত থাকা দরকার, যেমন—বিদেশি আইপি থেকে 'লগইন চেষ্টার ব্যর্থতা'।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, Plausibility is the backbone of Social Engineering. Attacks like Business Email Compromise (BEC) succeed because the attacker’s story is plausible—using correct corporate jargon, realistic-looking email templates, or timing the attack with real-world events. If an attack isn't plausible, it is easily flagged as suspicious by the user or security filters.
+
+---
+
+<b>Word:</b> Plausible Deniability
+
+<b>Part of Speech:</b> Noun Phrase
+
+<b>Bangla Meaning:</b> বিশ্বাসযোগ্য অস্বীকারযোগ্যতা (এমন একটি পরিস্থিতি তৈরি করা যেখানে কোনো অনৈতিক বা অবৈধ কাজের সাথে জড়িত থাকার প্রমাণ পাওয়া যায় না, ফলে সেটি সরাসরি অস্বীকার করা সম্ভব হয়)।
+
+<b>Synonyms:</b> Reasonable doubt, Cover story, Defensive masking, Strategic ambiguity.
+
+<b>English Example (with Bangla translation):</b> "I’ve set up the malware to self-destruct and wipe all logs after the heist; even if they catch the packet flow, I have plausible deniability because the traffic looks like it's coming from a compromised IoT toaster." (আমি ম্যালওয়্যারটিকে এমনভাবে সেট করেছি যাতে চুরির পর এটি নিজে থেকেই ধ্বংস হয়ে যায় এবং সব লগ মুছে ফেলে; এমনকি তারা যদি প্যাকেট ফ্লো ধরেও ফেলে, আমার বিশ্বাসযোগ্য অস্বীকারযোগ্যতা (Plausible deniability) থাকবে কারণ ট্রাফিকগুলো দেখে মনে হবে একটি হ্যাক হওয়া IoT টোস্টার থেকে আসছে।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, Plausible Deniability often refers to a situation where an individual can deny knowledge of or responsibility for a particular action because there is no evidence to prove otherwise. Technically, it is seen in hidden volumes in disk encryption (where a user can claim a hidden partition doesn't exist) or in anti-forensics, where attackers hide their tracks so well that it's impossible to legally or technically link the attack to them.
 
 ---
 
@@ -618,6 +860,20 @@ In cybersecurity, an Amplification Attack is a form of DDoS (Distributed Denial 
 <a id="R"></a>
 
 ## R)
+
+---
+
+<b>Word:</b> Reciprocity
+
+<b>Part of Speech:</b> Noun
+
+<b>Bangla Meaning:</b> পারস্পরিক লেনদেন বা আদান-প্রদান (সাইবার সিকিউরিটিতে এটি একটি মানসিক কৌশল যেখানে কাউকে ছোট কিছু দিয়ে বিনিময়ে বড় কিছু হাতিয়ে নেওয়া হয়)।
+
+<b>Synonyms:</b> Mutual exchange, Give-and-take, Interdependence, Correlation.
+
+<b>English Example (with Bangla translation):</b> "I used the principle of reciprocity by sending the admin a 'free' helpful script; now he feels obligated to answer my questions about the server's internal architecture." (আমি রেসিপ্রোসিটি (Reciprocity) নীতিটি ব্যবহার করে অ্যাডমিনকে একটি 'ফ্রি' কাজের স্ক্রিপ্ট পাঠিয়েছি; এখন সে আমার করা সার্ভারের ইন্টারনাল আর্কিটেকচার সংক্রান্ত প্রশ্নের উত্তর দিতে নৈতিকভাবে বাধ্য বোধ করছে।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, Reciprocity is a key psychological trigger used in Social Engineering. Humans have a natural tendency to want to repay a favor. Attackers exploit this by providing a small gift, a compliment, or a helpful tip to a victim, creating a sense of indebtedness. This makes the victim more likely to comply with a later request, such as sharing sensitive information or clicking a malicious link.
 
 ---
 
@@ -820,6 +1076,34 @@ In cybersecurity, an Amplification Attack is a form of DDoS (Distributed Denial 
 <b>English Example (with Bangla translation):</b> "I’ve just released a novel strain of ransomware that uses polymorphic code; the blue team's EDR is completely blind to its signature." (আমি এইমাত্র র‍্যানসমওয়্যারের একটি নতুন ধরণের (Novel strain) সংস্করণ ছেড়েছি যা পলিমরফিক কোড ব্যবহার করে; ব্লু-টিমের EDR এর সিগনেচার শনাক্ত করতে পুরোপুরি ব্যর্থ।)
 
 <u><b>Educational Section:</b></u> A Novel Strain refers to a newly discovered or developed version of a malware family. These are particularly dangerous because security tools (like Antivirus or EDR) often rely on a database of known threats. Since a novel strain has a unique code structure, it can bypass signature-based detection until it is officially identified and analyzed by researchers.
+
+---
+
+<b>Word:</b> Stream
+
+<b>Part of Speech:</b> Noun / Verb
+
+<b>Bangla Meaning:</b> ধারা বা প্রবাহ (তথ্য বা ডেটার অবিচ্ছিন্ন প্রবাহ)
+
+<b>Synonyms:</b> Flow, Sequence, Transmission, Feed.
+
+<b>English Example:</b> "I’ve tapped into the raw data stream; now I’m watching every bit of their unencrypted traffic pass through my terminal in real-time." (আমি র ডেটা স্ট্রিমের মধ্যে আড়ি পেতেছি; এখন আমি তাদের এনক্রিপ্ট না করা প্রতিটি ট্রাফিক আমার টার্মিনালে রিয়েল-টাইমে প্রবাহিত হতে দেখছি।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, a Stream often refers to a continuous flow of data. For example, a "Byte Stream" is a sequence of bytes used in communication. In cryptography, a Stream Cipher encrypts digits (typically bytes) one by one. Attackers often target data streams via "Man-in-the-Middle" (MitM) attacks to intercept or inject malicious data into the live transmission.
+
+---
+
+<b>Word:</b> Stylometric
+
+<b>Part of Speech:</b> Adjective
+
+<b>Bangla Meaning:</b> লিখনশৈলী সংক্রান্ত (কারও লেখার ধরণ বা স্টাইল বিশ্লেষণ করে লেখককে শনাক্ত করার পদ্ধতি)
+
+<b>Synonyms:</b> Linguistic profiling, Authorship attribution, Writing style analysis.
+
+<b>English Example:</b> "Scrub your forum posts carefully; if you don't vary your syntax, a stylometric analysis will link your 'anonymous' leaks straight back to your real identity." (তোমার ফোরাম পোস্টগুলো সাবধানে পরিষ্কার করো; যদি তুমি তোমার বাক্য গঠন পরিবর্তন না করো, তবে লিখনশৈলী বিশ্লেষণ তোমার এই 'বেনামী' লিকগুলোকে সরাসরি তোমার আসল পরিচয়ের সাথে যুক্ত করে দেবে।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, Stylometry is the study of linguistic style. It is used in threat intelligence to identify hackers by analyzing their unique writing patterns, vocabulary, and grammar. Even if an attacker uses a VPN or Tor, their "fingerprint" in the way they write code or messages can lead to their deanonymization.
 
 ---
 
