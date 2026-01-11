@@ -16,6 +16,20 @@
 
 ---
 
+<b>Word:</b> Accumulate
+
+<b>Part of Speech:</b> Verb
+
+<b>Bangla Meaning:</b> জমা করা বা সংগ্রহ করা (ধীরে ধীরে বিপুল পরিমাণে বৃদ্ধি করা)
+
+<b>Synonyms:</b> Amass, Collect, Gather, Stockpile.
+
+<b>English Example:</b> "I’ve been letting the keylogger run for weeks to accumulate a massive stash of bank logins before I start the wire transfers." (আমি কয়েক সপ্তাহ ধরে কিলগারটি চলতে দিয়েছি যাতে ওয়্যার ট্রান্সফার শুরু করার আগে ব্যাংকের লগইন তথ্যের একটি বিশাল ভাণ্ডার জমা (Accumulate) করতে পারি।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, "accumulate" often refers to the data collection phase of an attack. Hackers accumulate information—such as network logs, user behaviors, or credentials—over time to ensure that when they finally strike, they have enough data to bypass security or maximize the impact of the breach.
+
+---
+
 <b>Word:</b> Attribution
 
 <b>Part of Speech:</b> Noun
@@ -84,6 +98,20 @@ In cybersecurity, an Amplification Attack is a form of DDoS (Distributed Denial 
 <b>Example:</b> "I need to assess the strength of their firewall before I launch the exploit; if I find even one tiny crack, their whole network is toast." (এক্সপ্লয়েট চালানোর আগে আমাকে তাদের ফায়ারওয়ালের শক্তি মূল্যায়ন (Assess) করতে হবে; যদি আমি একটি ছোট ফাটলও খুঁজে পাই, তবে তাদের পুরো নেটওয়ার্ক শেষ।)
 
 <u><b>Educational Section:</b></u> In cybersecurity, to assess is to conduct a Vulnerability Assessment. This is a systematic review of security weaknesses in an information system. It identifies, quantifies, and prioritizes vulnerabilities to ensure that the most critical "holes" are patched before a threat actor can exploit them.
+
+---
+
+<b>Word:</b> Asymmetric
+
+<b>Part of Speech:</b> Adjective
+
+<b>Bangla Meaning:</b> অসম বা অসমীয় (প্রযুক্তিতে সাধারণত এমন সিস্টেম বোঝায় যেখানে দুই পাশে ভিন্ন ভিন্ন পদ্ধতি বা কী ব্যবহার করা হয়)
+
+<b>Synonyms:</b> Unbalanced, Disproportionate, Non-uniform, Public-key (in crypto context).
+
+<b>English Example:</b> "I exploited the asymmetric encryption flaw; I used their own public key to encrypt the ransomware, knowing they’d never get the private key back without paying me." (আমি তাদের অ্যাসymmetric এনক্রিপশন ত্রুটিটি কাজে লাগিয়েছি; আমি তাদের পাবলিক কী দিয়েই র‍্যানসমওয়্যার এনক্রিপ্ট করেছি, কারণ আমি জানি মুক্তিপণ দেওয়া ছাড়া তারা প্রাইভেট কী-টি কখনোই ফিরে পাবে না।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, Asymmetric Encryption (also known as Public Key Cryptography) uses a pair of related keys: a Public Key for encryption and a Private Key for decryption. It is called asymmetric because the keys are different. This is the foundation of secure web browsing (HTTPS) and digital signatures.
 
 ---
 
@@ -254,6 +282,20 @@ In cybersecurity, an Amplification Attack is a form of DDoS (Distributed Denial 
 <a id="D"></a>
 
 ## D)
+
+---
+
+<b>Word:</b> Deanonymization
+
+<b>Part of Speech:</b> Noun
+
+<b>Bangla Meaning:</b> পরিচয় প্রকাশ করা (বেনামী বা গোপন তথ্যের মধ্য থেকে প্রকৃত পরিচয় খুঁজে বের করার প্রক্রিয়া)
+
+<b>Synonyms:</b> Unmasking, De-identification reversal, Re-identification.
+
+<b>English Example:</b> "I cross-referenced the leaked metadata with public social profiles to perform a deanonymization of the target; now their 'anonymous' handle is linked straight to their home address." (আমি লিক হওয়া মেটাডেটার সাথে পাবলিক সোশ্যাল প্রোফাইলের তুলনা করে টার্গেটের পরিচয় প্রকাশ (Deanonymization) করেছি; এখন তাদের 'বেনামী' অ্যাকাউন্টটি সরাসরি তাদের বাসার ঠিকানার সাথে যুক্ত।)
+
+<u><b>Educational Section:</b></u> Deanonymization is the process of matching anonymous data with available information to discover the real identity of a user. In cybersecurity, it’s often used by attackers to unmask individuals behind encrypted or pseudonymized datasets by using data mining and pattern matching.
 
 ---
 
