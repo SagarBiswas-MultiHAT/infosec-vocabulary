@@ -537,6 +537,20 @@ b>Word:</b> Eventual
 
 ---
 
+<b>Word:</b> Hardening
+
+<b>Part of Speech:</b> Noun / Verb (Gerund)
+
+<b>Bangla Meaning:</b> সিস্টেমকে শক্তিশালী বা নিরাপদ করা (অপ্রয়োজনীয় অংশগুলো বাদ দিয়ে আক্রমণের ঝুঁকি কমানো)
+
+<b>Synonyms:</b> Strengthening, Reinforcing, Securing, Fortifying.
+
+<b>English Example:</b> "The target's server hardening was a joke; they left the default ports open, so I walked right in through a basic telnet exploit." (টার্গেটের সার্ভার হার্ডেনিং (নিরাপত্তা ব্যবস্থা) ছিল একটা রসিকতা; তারা ডিফল্ট পোর্টগুলো খোলা রেখেছিল, তাই আমি সাধারণ একটি টেলনেট এক্সপ্লয়েট ব্যবহার করেই ভেতরে ঢুকে পড়েছি।)
+
+<u><b>Educational Section:</b></u> System Hardening is the process of securing a system by reducing its attack surface. This involves removing unnecessary software, disabling unused services/ports, and updating firmware. The goal is to eliminate as many security risks as possible, making it much harder for a hacker to find an entry point.
+
+---
+
 <b>Word:</b> Harvesting
 
 <b>Part of Speech:</b> Noun / Verb
@@ -652,6 +666,26 @@ b>Word:</b> Eventual
 <b>Example:</b> "I just sent a spoofed invoice to the HR department with a macro-laden attachment; one click to 'view the bill' and I'm inside their network." (আমি এইমাত্র এইচআর বিভাগে একটি ক্ষতিকারক ফাইলসহ একটি ভুয়া ইনভয়েস (Invoice) পাঠিয়েছি; 'বিল দেখুন' বাটনে একটি ক্লিক করলেই আমি তাদের নেটওয়ার্কের ভেতরে ঢুকে যাব।)
 
 <u><b>Educational Section:</b></u> In cybersecurity, an Invoice is one of the most common "Lures" used in phishing and Business Email Compromise (BEC) attacks. Because employees handle invoices daily, they are more likely to open a malicious PDF or Doc file disguised as a bill, allowing attackers to deploy malware or steal wire transfers.
+
+---
+
+<a id="K"></a>
+
+## K)
+
+---
+
+<b>Word:</b> Kernel
+
+<b>Part of Speech:</b> Noun
+
+<b>Bangla Meaning:</b> কম্পিউটারের মূল কেন্দ্র বা মজ্জা (অপারেটিং সিস্টেমের সেই কেন্দ্রীয় অংশ যা হার্ডওয়্যার এবং সফটওয়্যারের মধ্যে যোগাযোগ রক্ষা করে)
+
+<b>Synonyms:</b> Core, Central part, Nucleus, Root.
+
+<b>English Example:</b> "Once I've injected my rootkit into the kernel, I own the entire OS; no antivirus will ever see me because I’m operating at a level deeper than their scanners." (একবার যখন আমি কার্নেলের (Kernel) ভেতর আমার রুটকিট ইনজেক্ট করতে পারব, পুরো অপারেটিং সিস্টেম আমার দখলে চলে আসবে; কোনো অ্যান্টিভাইরাস আমাকে ধরতে পারবে না কারণ আমি তাদের স্ক্যানারের চেয়েও গভীর স্তরে কাজ করছি।)
+
+<u><b>Educational Section:</b></u> The Kernel is the heart of an Operating System (OS). It manages the communication between the computer's hardware (CPU, memory, devices) and its software. In cybersecurity, a Kernel-level exploit is extremely dangerous because it gives the attacker total control over the system, allowing them to hide their tracks from security software that runs at a higher "User" level.
 
 ---
 
