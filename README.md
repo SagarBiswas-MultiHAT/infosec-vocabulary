@@ -16,6 +16,20 @@
 
 ---
 
+<b>Word:</b> Accountability
+
+<b>Part of Speech:</b> Noun
+
+<b>Bangla Meaning:</b> জবাবদিহিতা (নিজের কাজের জন্য দায়বদ্ধ থাকা)
+
+<b>Synonyms:</b> Responsibility, Answerability, Liability, Compliance.
+
+<b>English Example:</b> "I destroyed their logs to erase any sense of accountability; now the sysadmins have no way to prove who triggered the system wipe." (আমি তাদের লগগুলো ধ্বংস করে দিয়েছি যাতে কোনো জবাবদিহিতার (Accountability) সুযোগ না থাকে; এখন সিসঅ্যাডমিনদের কাছে এটা প্রমাণ করার কোনো উপায় নেই যে সিস্টেমটি কে মুছে ফেলেছে।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, accountability ensures that every action on a network can be traced back to a specific user or process. It is the "A" in the AAA Framework (Authentication, Authorization, and Accountability). Without robust logging and auditing, you cannot hold anyone responsible for a security breach.
+
+---
+
 <b>Word:</b> Accumulate
 
 <b>Part of Speech:</b> Verb
@@ -27,6 +41,34 @@
 <b>English Example:</b> "I’ve been letting the keylogger run for weeks to accumulate a massive stash of bank logins before I start the wire transfers." (আমি কয়েক সপ্তাহ ধরে কিলগারটি চলতে দিয়েছি যাতে ওয়্যার ট্রান্সফার শুরু করার আগে ব্যাংকের লগইন তথ্যের একটি বিশাল ভাণ্ডার জমা (Accumulate) করতে পারি।)
 
 <u><b>Educational Section:</b></u> In cybersecurity, "accumulate" often refers to the data collection phase of an attack. Hackers accumulate information—such as network logs, user behaviors, or credentials—over time to ensure that when they finally strike, they have enough data to bypass security or maximize the impact of the breach.
+
+---
+
+<b>Word:</b> Aesthetic
+
+<b>Part of Speech:</b> Adjective / Noun
+
+<b>Bangla Meaning:</b> নান্দনিক বা সৌন্দর্যবোধ (দেখতে কেমন বা স্টাইল সংক্রান্ত)
+
+<b>Synonyms:</b> Visual style, Artistic, Appearance, Look.
+
+<b>English Example:</b> "I don't just deface websites; I give them a dark, glitch-art aesthetic so they know exactly which group wrecked their servers." (আমি শুধু ওয়েবসাইট ডিফেস করি না; আমি সেগুলোকে একটি অন্ধকার ও গ্লিচ-আর্ট নান্দনিকতা (Aesthetic) দিই যাতে তারা বুঝতে পারে ঠিক কোন গ্রুপ তাদের সার্ভার ধ্বংস করেছে।)
+
+<u><b>Educational Section:</b></u> In the hacker subculture, "aesthetic" often refers to the visual identity of a group or the UI of their tools (like specialized Linux distros or terminal themes). While it doesn't affect the technical success of an exploit, a distinct aesthetic is used in "defacement" attacks to leave a digital signature and build a reputation in the underground community.
+
+---
+
+<b>Term:</b> Black Aesthetic
+
+<b>Part of Speech:</b> Noun Phrase
+
+<b>Bangla Meaning:</b> ব্ল্যাক এসথেটিক (সাধারণত হ্যাকিং জগতের সেই বিশেষ স্টাইল যা অন্ধকার বা রহস্যময় থিম, কালো ব্যাকগ্রাউন্ড এবং নিয়ন টেক্সট ব্যবহার করে তৈরি করা হয়)
+
+<b>Synonyms:</b> Dark mode style, Cyberpunk look, Underground hacker vibe.
+
+<b>English Example:</b> "I’ve customized my terminal with a sleek black aesthetic and toxic green fonts to feel like a ghost while I’m navigating their internal network." (আমি আমার টার্মিনালটি একটি মসৃণ ব্ল্যাক এসথেটিক (Black Aesthetic) এবং বিষাক্ত সবুজ ফন্ট দিয়ে সাজিয়েছি, যাতে তাদের ইন্টারনাল নেটওয়ার্কে ঘোরার সময় নিজেকে একজন ভূতের মতো মনে হয়।)
+
+<u><b>Educational Section:</b></u> In cybersecurity culture, "Black Aesthetic" refers to the visual preference for dark interfaces. Beyond just looking "cool" or "edgy," this aesthetic is practical; dark modes reduce eye strain during long hours of night-time coding and monitoring. It has become synonymous with the "hacker vibe" often seen in terminal themes and specialized operating systems like Kali Linux.
 
 ---
 
@@ -70,6 +112,20 @@
 
 <u><b>Educational Section:</b></u>
 In cybersecurity, an Amplification Attack is a form of DDoS (Distributed Denial of Service). The attacker sends a small request to a server (like DNS or NTP) using a spoofed IP address, and the server responds with a much larger packet to the victim. This "amplifies" the bandwidth consumed, allowing a single hacker to overwhelm a massive network.
+
+---
+
+<b>Word:</b> Annotate
+
+<b>Part of Speech:</b> Verb
+
+<b>Bangla Meaning:</b> ব্যাখ্যাসহ নোট লেখা বা টিকা যোগ করা (কোনো তথ্যের সাথে অতিরিক্ত মন্তব্য বা বর্ণনা যোগ করা)
+
+<b>Synonyms:</b> Comment, Note, Mark up, Label.
+
+<b>English Example:</b> "I’m going to annotate this source code to mark every weak function before I launch the exploit script." (আমি এই সোর্স কোডটি ব্যাখ্যাসহ নোট (Annotate) করে রাখছি যাতে এক্সপ্লয়েট স্ক্রিপ্ট চালানোর আগে প্রতিটি দুর্বল ফাংশন চিহ্নিত করা যায়।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, annotation is critical during Reverse Engineering or Malware Analysis. Security analysts annotate disassembled code to keep track of what different sections of a virus do. Conversely, attackers annotate their reconnaissance data to organize targets and vulnerabilities for a more efficient strike.
 
 ---
 
@@ -121,6 +177,20 @@ In cybersecurity, an Amplification Attack is a form of DDoS (Distributed Denial 
 
 ---
 
+<b>Word:</b> Backfire
+
+<b>Part of Speech:</b> Verb / Noun
+
+<b>Bangla Meaning:</b> উল্টো ফল দেওয়া বা বিপরীত প্রতিক্রিয়া সৃষ্টি করা (যখন কোনো পরিকল্পনা নিজের বিরুদ্ধেই চলে যায়)
+
+<b>Synonyms:</b> Rebound, Boomerang, Recoil, Self-defeat.
+
+<b>English Example:</b> "I tried to wipe the server logs to hide my tracks, but it backfired and triggered a high-priority alert that locked me out of the system." (আমি আমার চিহ্ন মুছে ফেলার জন্য সার্ভার লগগুলো ডিলিট করতে চেয়েছিলাম, কিন্তু সেটি উল্টো ফল (Backfire) দিল এবং একটি উচ্চ-সতর্কতা সংকেত চালু করে দিল যা আমাকে সিস্টেম থেকে বের করে দিয়েছে।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, a "backfire" occurs when an offensive tool or defensive script causes unintended self-damage. For example, poorly written ransomware might encrypt the hacker's own command server, or an aggressive firewall rule might accidentally block the legitimate admin's access.
+
+---
+
 <b>Word:</b> Bait
 
 <b>Part of Speech:</b> Noun / Verb
@@ -146,6 +216,34 @@ In cybersecurity, an Amplification Attack is a form of DDoS (Distributed Denial 
 <b>Example:</b> "The payload is silent for now, but the beaconing starts every ten minutes; it's just checking my C2 server to see if I’m ready to drop the ransomware." (পেলোডটি এখন চুপচাপ আছে, কিন্তু প্রতি দশ মিনিট অন্তর এটি সংকেত পাঠানো (Beaconing) শুরু করে; এটি শুধু আমার সি-টু (C2) সার্ভার চেক করছে যে আমি র্যানসমওয়্যার ছাড়ার জন্য তৈরি কি না।)
 
 <u><b>Educational Section:</b></u> In cybersecurity, Beaconing is the process where a compromised system "calls home" to a Command and Control (C2) server. It typically happens at regular intervals to bypass firewalls, as outbound traffic is often less scrutinized than inbound. Detecting these heartbeats is a key way for defenders to identify an infected machine within their network.
+
+---
+
+<b>Word:</b> Binge
+
+<b>Part of Speech:</b> Noun / Verb
+
+<b>Bangla Meaning:</b> অতিরিক্ত বা অনিয়ন্ত্রিতভাবে কোনো কিছু করা (সাধারণত অল্প সময়ের মধ্যে প্রচুর পরিমাণে কিছু করা)
+
+<b>Synonyms:</b> Spree, Overindulgence, Excess, Bouts.
+
+<b>English Example:</b> "I’m going on a credential-stuffing binge tonight; I’ve got ten million leaked passwords to burn through before the admins wake up." (আমি আজ রাতে ক্রেডেনশিয়াল-স্টাফিংয়ের নেশায় (Binge) মেতে উঠব; অ্যাডমিনরা জেগে ওঠার আগেই আমার কাছে ব্যবহারের জন্য দশ মিলিয়ন লিক হওয়া পাসওয়ার্ড আছে।)
+
+<u><b>Educational Section:</b></u> In a cyber context, a "binge" often describes a period of intense, rapid-fire activity. This could be a "download binge" during data exfiltration or a "vulnerability binge" where a researcher (or attacker) discovers and exploits multiple bugs in a single session before they can be patched.
+
+---
+
+<b>Term:</b> Binge scrolling
+
+<b>Part of Speech:</b> Noun Phrase / Verb
+
+<b>Bangla Meaning:</b> লাগাতার বা একটানা স্ক্রল করা (সাধারণত সামাজিক যোগাযোগ মাধ্যমে সময় নষ্ট করে দীর্ঘক্ষণ স্ক্রল করা)
+
+<b>Synonyms:</b> Doomscrolling, Endless scrolling, Infinite browsing.
+
+<b>English Example:</b> "While the target was busy binge scrolling through social media, my spyware was silently exfiltrating every private photo from their device." (টার্গেট যখন সোশ্যাল মিডিয়ায় একটানা স্ক্রল (Binge scrolling) করতে ব্যস্ত ছিল, তখন আমার স্পাইওয়্যারটি নিঃশব্দে তাদের ডিভাইস থেকে সব ব্যক্তিগত ছবি হাতিয়ে নিচ্ছিল।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, binge scrolling is often linked to Social Engineering. Attackers exploit the distracted state of a user who is binge scrolling to slip in malicious ads (malvertising) or "clickbait" lures that the user might click impulsively without checking the URL or source.
 
 ---
 
@@ -186,6 +284,20 @@ In cybersecurity, an Amplification Attack is a form of DDoS (Distributed Denial 
 <b>English Example (with Bangla translation):</b> "I’ve embedded a malicious macro inside this fake corporate benefits brochure; one click to 'Enable Content' and I have a shell on their system." (আমি এই ভুয়া কর্পোরেট বেনিফিট প্রচারপত্রের (Brochure) ভেতরে একটি ম্যালিশিয়াস ম্যাক্রো ঢুকিয়ে দিয়েছি; 'এনাবল কন্টেন্ট'-এ একটি ক্লিক করলেই তাদের সিস্টেমে আমার দখল চলে আসবে।)
 
 <u><b>Educational Section:</b></u> In a hacking context, a Brochure is often used as a "lure" in a Phishing or Spear-Phishing attack. Attackers send PDF or Word documents disguised as informative brochures (e.g., "Company Policy" or "Product Catalog") to trick users into downloading them. Once opened, these files execute hidden scripts to infect the victim's computer.chure
+
+---
+
+<b>Word:</b> Bootcamp
+
+<b>Part of Speech:</b> Noun
+
+<b>Bangla Meaning:</b> নিবিড় প্রশিক্ষণ কর্মসূচি (স্বল্প সময়ে কোনো নির্দিষ্ট বিষয়ে দক্ষ করে তোলার জন্য পরিচালিত কোর্স)
+
+<b>Synonyms:</b> Intensive training, Crash course, Fast-track program, Drill.
+
+<b>English Example:</b> "Those script kiddies coming out of that six-week bootcamp think they’re pros, but they won’t even notice when I've backdoored their 'secure' lab environment." (ছয় সপ্তাহের ওই বুটক্যাম্প (Bootcamp) থেকে বের হওয়া নতুন হ্যাকারগুলো নিজেদের প্রো মনে করছে, অথচ তারা টেরই পাবে না যে আমি কখন তাদের 'সিকিউর' ল্যাব এনভায়রনমেন্টে ব্যাকডোর বসিয়ে দিয়েছি।)
+
+<u><b>Educational Section:</b></u> In the tech and cybersecurity world, a bootcamp is an accelerated learning program designed to teach high-demand skills (like ethical hacking or SOC analysis) in a very short time. While they provide a fast track to entry-level jobs, real-world mastery often requires the deep, hands-on experience that bootcamps can only jumpstart.
 
 ---
 
@@ -477,6 +589,20 @@ b>Word:</b> Eventual
 
 ---
 
+<b>Word:</b> Exfiltration
+
+<b>Part of Speech:</b> Noun
+
+<b>Bangla Meaning:</b> তথ্য পাচার বা চুরি করা (অনুমতি ছাড়া কোনো নেটওয়ার্ক বা সার্ভার থেকে ডেটা বাইরে বের করে নেওয়া)
+
+<b>Synonyms:</b> Data theft, Extraction, Smuggling, Removal.
+
+<b>English Example:</b> "The exfiltration is almost complete; while their IT team was busy chasing a fake DDoS attack, I quietly tunneled five terabytes of their customer data out to my offshore server." (তথ্য পাচার (Exfiltration) প্রায় শেষ; যখন তাদের আইটি টিম একটি ফেক ডিডিওএস অ্যাটাক সামলাতে ব্যস্ত ছিল, তখন আমি নিঃশব্দে পাঁচ টেরাবাইট কাস্টমার ডেটা টানেলিংয়ের মাধ্যমে আমার অফশোর সার্ভারে সরিয়ে ফেলেছি।)
+
+<u><b>Educational Section:</b></u> Data Exfiltration is the unauthorized transfer of data from a computer or other device. It can be done manually via physical media (like USBs) or over a network using various protocols. Hackers often use "stealthy" channels (like DNS or HTTP) to hide the exfiltration process from firewalls and monitoring tools.
+
+---
+
 <b>Word:</b> Exhaust
 
 <b>Part of Speech:</b> Verb
@@ -494,6 +620,20 @@ b>Word:</b> Eventual
 <a id="F"></a>
 
 ## F)
+
+---
+
+<b>Word:</b> Fledged
+
+<b>Part of Speech:</b> Adjective
+
+<b>Bangla Meaning:</b> পূর্ণবিকশিত বা পুরোপুরি তৈরি (সাধারণত যখন কোনো কিছু পূর্ণাঙ্গ রূপ লাভ করে)
+
+<b>Synonyms:</b> Fully developed, Mature, Complete, Full-scale.
+
+<b>English Example:</b> "I started with a simple script, but now it’s a full-fledged ransomware strain capable of locking down an entire corporate infrastructure in seconds." (আমি সাধারণ একটি স্ক্রিপ্ট দিয়ে শুরু করেছিলাম, কিন্তু এখন এটি একটি পূর্ণবিকশিত (Full-fledged) র‍্যানসমওয়্যার যা কয়েক সেকেন্ডের মধ্যে একটি পুরো কর্পোরেট অবকাঠামো লক করে দিতে সক্ষম।)
+
+<u><b>Educational Section:</b></u> In a technical context, "full-fledged" describes software or an attack that has moved from the prototype or "Proof of Concept" (PoC) stage to a complete, stable, and fully functional version. For example, a full-fledged malware includes all components like a dropper, payload, and C2 communication module.
 
 ---
 
@@ -641,6 +781,34 @@ b>Word:</b> Eventual
 
 ---
 
+<b>Word:</b> Intel (Slang for Intelligence)
+
+<b>Part of Speech:</b> Noun
+
+<b>Bangla Meaning:</b> গোয়েন্দা তথ্য বা গোপন সংবাদ (আক্রমণ বা প্রতিরক্ষার জন্য সংগ্রহ করা দরকারি তথ্য)
+
+<b>Synonyms:</b> Intelligence, Information, Recon, Data.
+
+<b>English Example:</b> "I’ve gathered enough intel on their network topology; now I know exactly which outdated server to hit for the initial breach." (আমি তাদের নেটওয়ার্ক টপোলজির ওপর যথেষ্ট গোপন তথ্য (Intel) সংগ্রহ করেছি; এখন আমি জানি প্রাথমিক আক্রমণের জন্য ঠিক কোন পুরনো সার্ভারটিতে আঘাত করতে হবে।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, "Intel" usually refers to Cyber Threat Intelligence (CTI). It is the information used by organizations to understand the threats that have, will, or are currently targeting them. Conversely, hackers gather "recon intel" to identify vulnerabilities, employee habits, and software versions before launching an attack.
+
+---
+
+<b>Word:</b> Interacting
+
+<b>Part of Speech:</b> Verb (Present Participle)
+
+<b>Bangla Meaning:</b> মিথস্ক্রিয়া করা বা যোগাযোগ করা (একজনের সাথে অন্যজনের বা সিস্টেমের সাথে ব্যবহারকারীর কাজ করা)
+
+<b>Synonyms:</b> Communicating, Engaging, Connecting, Interfacing.
+
+<b>English Example:</b> "I’m currently interacting with their SQL database through an unsanitized input field; a few more queries and I'll have the full admin table dumped." (আমি বর্তমানে তাদের এসকিউএল (SQL) ডাটাবেসের সাথে একটি আনস্যানিটাইজড ইনপুট ফিল্ডের মাধ্যমে যোগাযোগ (Interacting) করছি; আর কয়েকটি কোয়েরি পাঠালেই আমি পুরো অ্যাডমিন টেবিলটি নামিয়ে ফেলব।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, "interacting" often refers to how an attacker or a script communicates with a target system. This could be interacting with a compromised shell, an API, or a database. Monitoring how users are interacting with a network is a key part of User and Entity Behavior Analytics (UEBA) to spot hijacked accounts.
+
+---
+
 <b>Word:</b> Intimidation
 
 <b>Part of Speech:</b> Noun
@@ -669,6 +837,12 @@ b>Word:</b> Eventual
 
 ---
 
+<a id="J"></a>
+
+## J)
+
+---
+
 <a id="K"></a>
 
 ## K)
@@ -692,6 +866,20 @@ b>Word:</b> Eventual
 <a id="L"></a>
 
 ## L)
+
+---
+
+<b>Word:</b> Laterally
+
+<b>Part of Speech:</b> Adverb
+
+<b>Bangla Meaning:</b> পাশাপাশি বা আড়াআড়িভাবে (সাইবার সিকিউরিটির ক্ষেত্রে এক কম্পিউটার থেকে একই নেটওয়ার্কের অন্য কম্পিউটারে ছড়িয়ে পড়া)
+
+<b>Synonyms:</b> Sideways, Across, Inter-network.
+
+<b>English Example:</b> "Once I gained a foothold on the receptionist's PC, I moved laterally through the network until I found the domain controller." (একবার রিসেপশনিস্টের পিসিতে অ্যাক্সেস পাওয়ার পর, আমি নেটওয়ার্কের ভেতরে পাশাপাশি (Laterally) মুভ করেছি যতক্ষণ না আমি ডোমেইন কন্ট্রোলারটি খুঁজে পেলাম।)
+
+<u><b>Educational Section:</b></u> Lateral Movement refers to the techniques cyber-attackers use to move progressively through a network as they search for key assets and data. After gaining initial access to a single endpoint, the attacker spreads "laterally" to other systems to escalate privileges and find the ultimate target.
 
 ---
 
@@ -771,6 +959,20 @@ b>Word:</b> Eventual
 
 ---
 
+<b>Word:</b> Microtasks
+
+<b>Part of Speech:</b> Noun (Plural)
+
+<b>Bangla Meaning:</b> অতি ক্ষুদ্র কাজ (একটি বড় কাজকে যখন ছোট ছোট অনেকগুলো ভাগে ভাগ করা হয়)
+
+<b>Synonyms:</b> Small units of work, Granular tasks, Sub-tasks, Mini-jobs.
+
+<b>English Example:</b> "I’ve split the botnet deployment into microtasks across thousands of zombie nodes so no single machine triggers a CPU usage alarm." (আমি বটনেট ডেপ্লয়মেন্টের কাজটিকে হাজার হাজার জম্বি নোডের মধ্যে ছোট ছোট কাজে (Microtasks) ভাগ করে দিয়েছি যাতে কোনো একটি নির্দিষ্ট মেশিন CPU ব্যবহারের অ্যালার্ম ট্রিগার না করে।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, microtasks are used in <b>Distributed Computing</b> attacks. By breaking a massive job (like cracking a complex hash) into millions of microtasks, an attacker can use a distributed network of compromised devices to perform the work in parallel, making the operation faster and harder to detect by traditional security monitors.
+
+---
+
 <b>Word:</b> Mimicked
 
 <b>Part of Speech:</b> Verb (Past Tense / Past Participle)
@@ -813,9 +1015,45 @@ b>Word:</b> Eventual
 
 ---
 
+<a id="N"></a>
+
+## N)
+
+---
+
+<b>Word:</b> Novelty
+
+<b>Part of Speech:</b> Noun
+
+<b>Bangla Meaning:</b> নতুনত্ব বা অভিনবত্ব (এমন কিছু যা আগে দেখা যায়নি বা যা সম্পূর্ণ নতুন)
+
+<b>Synonyms:</b> Originality, Newness, Innovation, Uniqueness.
+
+<b>English Example:</b> "The novelty of this polymorphic engine is that it changes its signature every time it spreads, making it invisible to traditional antivirus scanners." (এই পলিমরফিক ইঞ্জিনের নতুনত্ব (Novelty) হলো যে এটি যতবার ছড়ায় ততবার নিজের সিগনেচার পরিবর্তন করে ফেলে, যার ফলে চিরাচরিত অ্যান্টিভাইরাস স্ক্যানারগুলো একে শনাক্ত করতে পারে না।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, <b>Novelty</b> is a major challenge for defenders. Novel Attacks (like Zero-days) are dangerous because there are no pre-existing signatures or rules to stop them. Security systems that rely on "Heuristics" or AI try to identify this novelty by looking for unusual behavior rather than matching known patterns.
+
+---
+
 <a id="O"></a>
 
 ## O)
+
+---
+
+<b>Word:</b> Obsession
+
+<b>Part of Speech:</b> Noun
+
+<b>Bangla Meaning:</b> আচ্ছন্নতা বা ঘোর (কোনো কিছুর প্রতি তীব্র এবং অস্বাভাবিক আকর্ষণ যা মাথা থেকে বের করা যায় না)
+
+<b>Synonyms:</b> Fixation, Passion, Infatuation, Compulsion.
+
+<b>English Example:</b> "My obsession with their root directory won't end until I find the hidden private keys and drain every bit of data they have." (তাদের রুট ডিরেক্টরির প্রতি আমার আচ্ছন্নতা (Obsession) ততক্ষণ কাটবে না, যতক্ষণ না আমি লুকানো প্রাইভেট কী-গুলো খুঁজে বের করছি এবং তাদের প্রতিটি ডাটা হাতিয়ে নিচ্ছি।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, an obsession often describes the mindset of a persistent threat actor or a dedicated researcher. This "hacker mindset" involves deep focus on a single target or vulnerability for extended periods. In defense, it can refer to Hyper-vigilance, where security teams are obsessed with monitoring every single packet to ensure zero breaches.
+
+---
 
 <b>Word:</b> Opportunistic
 
@@ -828,6 +1066,8 @@ b>Word:</b> Eventual
 <b>English Example:</b> "I didn't target your company specifically; I just ran an opportunistic scan for unpatched RDP ports and you happened to leave the door wide open." (আমি সুনির্দিষ্টভাবে তোমার কোম্পানিকে টার্গেট করিনি; আমি শুধু আনপ্যাচড RDP পোর্টের জন্য একটি সুবিধাবাদী স্ক্যান চালিয়েছিলাম আর তোমরা ভুলবশত দরজাটা খোলাই রেখেছিলে।)
 
 <u><b>Educational Section:</b></u> In cybersecurity, an Opportunistic Attack is not targeted at a specific person or organization. Instead, the attacker looks for any system with a known vulnerability (like an old software version or weak password). It’s like a thief walking through a parking lot checking for unlocked car doors—they don't care whose car it is, they just want an easy entry.
+
+---
 
 <a id="P"></a>
 
@@ -916,6 +1156,34 @@ b>Word:</b> Eventual
 <b>English Example (with Bangla translation):</b> "I’ve set up the malware to self-destruct and wipe all logs after the heist; even if they catch the packet flow, I have plausible deniability because the traffic looks like it's coming from a compromised IoT toaster." (আমি ম্যালওয়্যারটিকে এমনভাবে সেট করেছি যাতে চুরির পর এটি নিজে থেকেই ধ্বংস হয়ে যায় এবং সব লগ মুছে ফেলে; এমনকি তারা যদি প্যাকেট ফ্লো ধরেও ফেলে, আমার বিশ্বাসযোগ্য অস্বীকারযোগ্যতা (Plausible deniability) থাকবে কারণ ট্রাফিকগুলো দেখে মনে হবে একটি হ্যাক হওয়া IoT টোস্টার থেকে আসছে।)
 
 <u><b>Educational Section:</b></u> In cybersecurity, Plausible Deniability often refers to a situation where an individual can deny knowledge of or responsibility for a particular action because there is no evidence to prove otherwise. Technically, it is seen in hidden volumes in disk encryption (where a user can claim a hidden partition doesn't exist) or in anti-forensics, where attackers hide their tracks so well that it's impossible to legally or technically link the attack to them.
+
+---
+
+<b>Word:</b> Pomodoro
+
+<b>Part of Speech:</b> Noun / Adjective
+
+<b>Bangla Meaning:</b> পোমোডোরো (একটি সময় ব্যবস্থাপনা পদ্ধতি যেখানে ২৫ মিনিট কাজ এবং ৫ মিনিট বিরতি নেওয়া হয়)
+
+<b>Synonyms:</b> Time-boxing, Interval timing, Focus sessions.
+
+<b>English Example:</b> "I set a Pomodoro timer to stay focused; twenty-five minutes of intense brute-forcing, then five minutes to clean my tracks before the next cycle." (আমি ফোকাস থাকার জন্য একটি পোমোডোরো টাইমার সেট করেছি; পঁচিশ মিনিট ধরে ইনটেন্স ব্রুট-ফোর্সিং চলবে, তারপর পরবর্তী সাইকেলের আগে নিজের চিহ্ন মুছে ফেলার জন্য পাঁচ মিনিটের বিরতি।)
+
+<u><b>Educational Section:</b></u> While originally a productivity technique, in cybersecurity, "Pomodoro" or interval-based work is used by researchers to prevent burnout during deep-focus tasks like vulnerability research or log analysis. It ensures the analyst remains sharp enough to spot subtle anomalies in massive datasets.
+
+---
+
+<b>Word:</b> Procrastination
+
+<b>Part of Speech:</b> Noun
+
+<b>Bangla Meaning:</b> দীর্ঘসূত্রতা বা কাজ ফেলে রাখা (অলসতা করে কোনো জরুরি কাজ পরে করার জন্য ফেলে রাখা)
+
+<b>Synonyms:</b> Delay, Postponement, Dilly-dallying, Hesitation.
+
+<b>English Example:</b> "Their admin’s procrastination in patching that old vulnerability was my golden ticket; I stayed inside their network for months because they kept 'forgetting' to update the server." (তাদের অ্যাডমিনের ওই পুরনো ত্রুটিটি প্যাচ করার ক্ষেত্রে দীর্ঘসূত্রতা (Procrastination) ছিল আমার জন্য একটি সুবর্ণ সুযোগ; আমি কয়েক মাস ধরে তাদের নেটওয়ার্কের ভেতরে ছিলাম কারণ তারা বারবার সার্ভার আপডেট করতে 'ভুলে' যাচ্ছিল।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, procrastination is a major risk factor. When organizations delay critical security updates (Patch Management), they leave a "window of vulnerability" open. Hackers rely on this human tendency to ignore or delay boring maintenance tasks to exploit well-known flaws that should have been fixed long ago.
 
 ---
 
@@ -1091,6 +1359,34 @@ b>Word:</b> Eventual
 
 ---
 
+<b>Word:</b> Sanely
+
+<b>Part of Speech:</b> Adverb
+
+<b>Bangla Meaning:</b> সুস্থ মস্তিষ্কে বা বিচারবুদ্ধি সম্পন্নভাবে (যৌক্তিকভাবে কোনো কাজ করা)
+
+<b>Synonyms:</b> Rationally, Sensibly, Logically, Wisely.
+
+<b>English Example:</b> "No admin can sanely argue that leaving a root password as 'admin123' is a minor risk after I’ve just emptied their vault." (আমি তাদের ভল্ট খালি করার পর কোনো অ্যাডমিনই সুস্থ মস্তিষ্কে (Sanely) এই যুক্তি দিতে পারবে না যে, রুট পাসওয়ার্ড 'admin123' রাখা একটি ছোটখাটো ঝুঁকি ছিল।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, acting "sanely" refers to following Best Practices and rational risk management. A system is considered "sanely configured" when it follows the Principle of Least Privilege (PoLP) and logical security controls that any reasonable professional would implement to prevent predictable attacks.
+
+---
+
+<b>Word:</b> Severe
+
+<b>Part of Speech:</b> Adjective
+
+<b>Bangla Meaning:</b> গুরুতর বা ভয়াবহ (সাধারণত যখন কোনো ক্ষতি বা ঝুঁকির মাত্রা অনেক বেশি বোঝায়)
+
+<b>Synonyms:</b> Critical, Extreme, Acute, Intense.
+
+<b>English Example:</b> "The vulnerability I found is classified as severe; one click and I get a remote shell with root privileges, bypassing every firewall they have." (আমি যে সিকিউরিটি হোলটি খুঁজে পেয়েছি তা অত্যন্ত গুরুতর (Severe); মাত্র একটি ক্লিক করলেই আমি রুট প্রিভিলেজসহ রিমোট শেল পেয়ে যাব, যা তাদের প্রতিটি ফায়ারওয়ালকে বাইপাস করবে।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, "Severe" is often used to describe the severity level of a vulnerability (like in the CVSS scale). A severe rating means the flaw is easily exploitable and could result in a total system compromise, data loss, or complete loss of service, requiring immediate patching.
+
+---
+
 <b>Word:</b> Siphon
 
 <b>Part of Speech:</b> Verb
@@ -1144,6 +1440,20 @@ b>Word:</b> Eventual
 <b>English Example (with Bangla translation):</b> "The sheer sophistication of this rootkit suggests it wasn't made by a script kiddie; this is state-sponsored craftsmanship designed to stay hidden for years." (এই রুটকিটটির চরম জটিলতা বা উন্নত ধরণ (Sophistication) দেখে বোঝা যাচ্ছে এটি কোনো সাধারণ হ্যাকারের কাজ নয়; এটি রাষ্ট্রীয় মদদপুষ্ট কারিগরদের কাজ যা বছরের পর বছর লুকিয়ে থাকার জন্য তৈরি করা হয়েছে।)
 
 <u><b>Educational Section:</b></u> In cybersecurity, Sophistication refers to the level of technical skill and resources behind an attack. A "High-Sophistication" attack (like an APT) often involves custom-built malware, zero-day exploits, and multi-stage evasion techniques. Security analysts measure sophistication to determine if they are facing a random attacker or a highly organized group.
+
+---
+
+<b>Word:</b> Spamming
+
+<b>Part of Speech:</b> Verb (Gerund)
+
+<b>Bangla Meaning:</b> অযাচিত বা বিরক্তিকর বার্তা পাঠানো (সাধারণত ইন্টারনেটে একসাথে অনেক মানুষকে উদ্দেশ্যহীনভাবে মেসেজ পাঠানো)
+
+<b>Synonyms:</b> Mass-mailing, Flooding, Junking, Bulk messaging.
+
+<b>English Example:</b> "I’m spamming their corporate inboxes with a fresh batch of macro-enabled invoices; out of five thousand employees, someone is bound to be stupid enough to click." (আমি তাদের কর্পোরেট ইনবক্সগুলোতে একগুচ্ছ নতুন ম্যাক্রো-এনাবলড ইনভয়েস দিয়ে স্প্যামিং (Spamming) করছি; পাঁচ হাজার কর্মচারীর মধ্যে কেউ না কেউ অবশ্যই যথেষ্ট বোকামি করবে এবং লিঙ্কে ক্লিক করবে।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, spamming is often the delivery mechanism for phishing or malware. While most spam is just annoying advertising, "Malicious Spam" (Malspam) is used to distribute trojans, ransomware, or credential-harvesting links to a massive number of users simultaneously to increase the odds of a successful infection.
 
 ---
 
@@ -1245,6 +1555,20 @@ b>Word:</b> Eventual
 
 ---
 
+<b>Word:</b> Sugar-coating
+
+<b>Part of Speech:</b> Verb (Gerund) / Noun
+
+<b>Bangla Meaning:</b> কোনো তেতো বা খারাপ কথাকে মিষ্টি করে বলা (প্রতারণা করার উদ্দেশ্যে কোনো ক্ষতিকর বিষয়কে আকর্ষণীয়ভাবে উপস্থাপন করা)
+
+<b>Synonyms:</b> Glossing over, Whitewashing, Sweetening, Soft-pedaling.
+
+<b>English Example:</b> "There’s no use sugar-coating it; their security is non-existent, and I’ve already siphoned every bit of their encrypted data while they were busy trusting my 'gift' file." (এটা বাড়িয়ে বা মিষ্টি করে (Sugar-coating) বলার কিছু নেই; তাদের নিরাপত্তা বলতে কিছুই নেই, আর তারা যখন আমার পাঠানো 'উপহার' ফাইলটিকে বিশ্বাস করছিল, তখনই আমি তাদের এনক্রিপ্ট করা সব ডেটা হাতিয়ে নিয়েছি।)
+
+<u><b>Educational Section:</b></u> In cybersecurity and social engineering, sugar-coating is used to lower a victim's guard. An attacker might present a malicious file as a "bonus," "free gift," or "security patch." By sugar-coating the true nature of the threat, they exploit human psychology to encourage the victim to bypass their own common sense or security protocols.
+
+---
+
 <b>Word:</b> Stylometric
 
 <b>Part of Speech:</b> Adjective
@@ -1256,6 +1580,20 @@ b>Word:</b> Eventual
 <b>English Example:</b> "Scrub your forum posts carefully; if you don't vary your syntax, a stylometric analysis will link your 'anonymous' leaks straight back to your real identity." (তোমার ফোরাম পোস্টগুলো সাবধানে পরিষ্কার করো; যদি তুমি তোমার বাক্য গঠন পরিবর্তন না করো, তবে লিখনশৈলী বিশ্লেষণ তোমার এই 'বেনামী' লিকগুলোকে সরাসরি তোমার আসল পরিচয়ের সাথে যুক্ত করে দেবে।)
 
 <u><b>Educational Section:</b></u> In cybersecurity, Stylometry is the study of linguistic style. It is used in threat intelligence to identify hackers by analyzing their unique writing patterns, vocabulary, and grammar. Even if an attacker uses a VPN or Tor, their "fingerprint" in the way they write code or messages can lead to their deanonymization.
+
+---
+
+<b>Word:</b> Suspicion
+
+<b>Part of Speech:</b> Noun
+
+<b>Bangla Meaning:</b> সন্দেহ বা সংশয় (কোনো কিছু ভুল বা ক্ষতিকর হতে পারে এমন ধারণা)
+
+<b>Synonyms:</b> Doubt, Distrust, Skepticism, Misgiving.
+
+<b>English Example:</b> "I have to keep the data packets small and slow to avoid raising any suspicion from their AI-based traffic monitors." (তাদের এআই-ভিত্তিক ট্রাফিক মনিটরগুলোর মনে কোনো ধরনের সন্দেহ (Suspicion) জাগানো এড়াতে আমাকে ডেটা প্যাকেটগুলো ছোট এবং ধীরগতিতে পাঠাতে হবে।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, "raising suspicion" refers to triggering alerts in security systems like IDS (Intrusion Detection Systems) or SIEM. Attackers use "Low and Slow" tactics or "Living off the Land" (using legitimate system tools) to perform their activities without creating the anomalies that lead to suspicion and discovery.
 
 ---
 
@@ -1325,6 +1663,40 @@ b>Word:</b> Eventual
 
 ---
 
+<a id="U"></a>
+
+## U)
+
+---
+
+<b>Word:</b> Update
+
+<b>Part of Speech:</b> Noun / Verb
+
+<b>Bangla Meaning:</b> হালনাগাদ করা বা নতুন তথ্য যোগ করা (সিস্টেমের ত্রুটি সংশোধন বা নতুন ফিচার যোগ করার প্রক্রিয়া)
+
+<b>Synonyms:</b> Refresh, Patch, Revision, Modernize.
+
+<b>English Example:</b> "I’ve pushed a fake security update to the target’s workstation; once they click 'Install', my remote access trojan will be hardcoded into their system." (আমি টার্গেটের ওয়ার্কস্টেশনে একটি ভুয়া সিকিউরিটি আপডেট (Update) পাঠিয়েছি; তারা একবার 'ইনস্টল' ক্লিক করলেই আমার রিমোট অ্যাক্সেস ট্রোজানটি তাদের সিস্টেমে গেঁথে যাবে।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, an update is often a Patch released by vendors to fix security vulnerabilities. Keeping software updated is a critical defense mechanism. However, hackers frequently use "Fake Update" prompts in social engineering attacks to trick users into installing malware under the guise of a legitimate system improvement.
+
+---
+
+<b>Word:</b> Upgrade
+
+<b>Part of Speech:</b> Noun / Verb
+
+<b>Bangla Meaning:</b> উন্নততর করা বা সংস্করণ হালনাগাদ করা (সিস্টেমকে আরও শক্তিশালী বা আধুনিক করা)
+
+<b>Synonyms:</b> Update, Improve, Enhance, Modernize.
+
+<b>English Example:</b> "They think their firewall upgrade will stop me, but I’ve already found a zero-day that bypasses their shiny new version effortlessly." (তারা ভাবছে তাদের ফায়ারওয়াল আপগ্রেড (Upgrade) আমাকে থামিয়ে দেবে, কিন্তু আমি ইতিমধ্যে এমন একটি জিরো-ডে খুঁজে পেয়েছি যা তাদের এই চকচকে নতুন ভার্সনটিকে অনায়াসেই বাইপাস করে দেবে।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, an upgrade usually involves moving to a newer version of software or hardware to improve performance and patch security holes. However, from an attacker's perspective, a "forced upgrade" could refer to tricking a user into downloading a malicious file disguised as a legitimate software update.
+
+---
+
 <a id="V"></a>
 
 ## V)
@@ -1342,6 +1714,20 @@ b>Word:</b> Eventual
 <b>Example:</b> "The hacker gained access to the bank's main network by first breaching one of their third-party vendors who had weaker security." (হ্যাকার ব্যাংকের মূল নেটওয়ার্কে প্রবেশ করার জন্য প্রথমে তাদের এমন একজন থার্ড-পার্টি সরবরাহকারীর (Vendors) সিস্টেমে হ্যাক করেছিল যার নিরাপত্তা ব্যবস্থা ছিল অত্যন্ত দুর্বল।)
 
 <u><b>Educational Section:</b></u> In cybersecurity, Vendors play a massive role in Supply Chain Attacks. Most large companies use software or services from hundreds of different vendors. If a vendor’s software (like an update or a plugin) is compromised, every company using that vendor becomes a victim. This is why "Vendor Risk Management" is a critical part of modern defense—it ensures that a company is only as strong as its weakest partner.
+
+---
+
+<b>Word:</b> Viable
+
+<b>Part of Speech:</b> Adjective
+
+<b>Bangla Meaning:</b> কার্যকর বা টিকে থাকার যোগ্য (যা বাস্তবে সফলভাবে করা সম্ভব)
+
+<b>Synonyms:</b> Feasible, Workable, Possible, Sustainable.
+
+<b>English Example:</b> "The old exploit is dead, but I’ve found a viable entry point through an unpatched VPN server that will let us back into the network." (পুরানো এক্সপ্লয়েটটি আর কাজ করছে না, তবে আমি একটি কার্যকর (Viable) এন্ট্রি পয়েন্ট খুঁজে পেয়েছি একটি আনপ্যাচড VPN সার্ভারে, যা আমাদের আবার নেটওয়ার্কে ঢুকতে সাহায্য করবে।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, "viability" refers to whether an attack vector, exploit, or security measure is actually functional in a real-world environment. A "viable threat" is one that has a high probability of success given the current vulnerabilities of a system.
 
 ---
 
@@ -1406,5 +1792,23 @@ b>Word:</b> Eventual
 <b>English Example (with Bangla translation):</b> "I’ve found a zero-day vulnerability in the latest kernel update; I can slip into any server unnoticed before the devs even realize the hole exists." (আমি সর্বশেষ কার্নেল আপডেটে একটি জিরো-ডে ভালনারেবিলিটি খুঁজে পেয়েছি; ডেভেলপাররা এই ছিদ্রটির অস্তিত্ব টের পাওয়ার আগেই আমি অলক্ষ্যে যেকোনো সার্ভারে ঢুকে পড়তে পারব।)
 
 <u><b>Educational Section:</b></u> A Zero-day Vulnerability is a software flaw that is unknown to the vendor. The term "zero-day" refers to the fact that the developer has had zero days to fix it because they aren't aware of it yet. Hackers exploit these flaws to launch attacks because no patches or defenses exist, making them extremely valuable on the dark web.
+
+---
+
+<a id="X"></a>
+
+## X)
+
+---
+
+<a id="Y"></a>
+
+## Y)
+
+---
+
+<a id="Z"></a>
+
+## Z)
 
 ---
