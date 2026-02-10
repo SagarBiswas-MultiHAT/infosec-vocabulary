@@ -1,0 +1,21 @@
+name: CI
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+
+jobs:
+  quick-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Quick sanity
+        run: |
+          echo "Running quick CI for infosec-vocabulary"
+          echo "Check README and docs exist"
+          test -f README.md || (echo "README.md missing" && exit 1)
+          echo "CI completed"

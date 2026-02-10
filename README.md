@@ -2,6 +2,13 @@
 
 ## 📒 Vocabulary Notebook: Cybersecurity & General English
 
+[![CI](https://img.shields.io/github/actions/workflow/status/SagarBiswas-MultiHAT/infosec-vocabulary/ci.yml?branch=main)](https://github.com/SagarBiswas-MultiHAT/infosec-vocabulary/actions)
+![Pages](https://img.shields.io/github/deployments/SagarBiswas-MultiHAT/infosec-vocabulary/github-pages?label=pages)
+![License](https://img.shields.io/github/license/SagarBiswas-MultiHAT/infosec-vocabulary)
+![Docs](https://img.shields.io/badge/docs-markdown-1f425f)
+![Format](https://img.shields.io/badge/format-markdown-000000)
+![Last commit](https://img.shields.io/github/last-commit/SagarBiswas-MultiHAT/infosec-vocabulary)
+
 </div>
 
 ### CheckList
