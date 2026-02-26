@@ -184,6 +184,21 @@ In cybersecurity, an Amplification Attack is a form of DDoS (Distributed Denial 
 
 ---
 
+<b>Term:</b> Baba Yaga
+
+<b>Part of Speech:</b> Noun (Proper)
+
+<b>Bangla Meaning:</b> বাবা ইয়াগা (একটি রূপকথার অতিপ্রাকৃত চরিত্র, যা ভয়ংকর বা অপ্রতিরোধ্য কাউকে বোঝাতে ব্যবহৃত হয়)।
+
+<b>Synonyms:</b>
+The Boogeyman, Reaper, Unstoppable force, Mythical predator.
+
+<b>English Example:</b> "They call me the Baba Yaga of this network; by the time they see my shadow, their data has already vanished into the void." (তারা আমাকে এই নেটওয়ার্কের বাবা ইয়াগা (Baba Yaga) বলে ডাকে; তারা আমার ছায়া দেখার আগেই তাদের সমস্ত ডেটা শূন্যে মিলিয়ে যায়।)
+
+<u><b>Educational Section:</b></u> In cybersecurity circles, Baba Yaga (inspired by Slavic folklore and the John Wick series) refers to an elite, near-mythical threat actor. It describes a hacker or advanced persistent threat (APT) that is exceptionally skilled, efficient, and seemingly impossible to stop or track. When a breach is labeled with this level of expertise, it implies the defender is facing a master-level adversary.
+
+---
+
 <b>Word:</b> Backfire
 
 <b>Part of Speech:</b> Verb / Noun
@@ -195,6 +210,21 @@ In cybersecurity, an Amplification Attack is a form of DDoS (Distributed Denial 
 <b>English Example:</b> "I tried to wipe the server logs to hide my tracks, but it backfired and triggered a high-priority alert that locked me out of the system." (আমি আমার চিহ্ন মুছে ফেলার জন্য সার্ভার লগগুলো ডিলিট করতে চেয়েছিলাম, কিন্তু সেটি উল্টো ফল (Backfire) দিল এবং একটি উচ্চ-সতর্কতা সংকেত চালু করে দিল যা আমাকে সিস্টেম থেকে বের করে দিয়েছে।)
 
 <u><b>Educational Section:</b></u> In cybersecurity, a "backfire" occurs when an offensive tool or defensive script causes unintended self-damage. For example, poorly written ransomware might encrypt the hacker's own command server, or an aggressive firewall rule might accidentally block the legitimate admin's access.
+
+---
+
+<b>Word:</b> Binding
+
+<b>Part of Speech:</b> Noun
+
+<b>Bangla Meaning:</b> সংযোগ স্থাপন বা যুক্ত করার প্রক্রিয়া; নির্দিষ্ট মান বা ফাংশনের সাথে সংযুক্ত করা
+
+<b>Synonyms:</b> Association, Linking, Attachment, Assignment, Coupling.
+
+<b>English Example:</b> "I exploited weak session binding to hijack the admin’s account without even knowing the password."
+(দুর্বল সেশন বাইন্ডিং (Binding) কাজে লাগিয়ে আমি পাসওয়ার্ড না জেনেই অ্যাডমিনের অ্যাকাউন্ট দখল করে নিলাম।)
+
+<u><b>Educational Section:</b></u> In programming and cybersecurity, binding refers to the association between two entities, such as variables and values, functions and contexts, or sessions and user identities. Weak session binding can lead to session hijacking, where an attacker takes over a valid user session. Strong binding mechanisms, secure cookies, and proper session validation are essential to prevent such attacks.
 
 ---
 
@@ -254,6 +284,36 @@ In cybersecurity, an Amplification Attack is a form of DDoS (Distributed Denial 
 
 ---
 
+<b>Word:</b> BIOS
+
+<b>Part of Speech:</b> Noun (Acronym)
+
+<b>Bangla Meaning:</b> কম্পিউটার চালুর সময় হার্ডওয়্যার পরীক্ষা ও অপারেটিং সিস্টেম লোড করার জন্য ব্যবহৃত প্রাথমিক ফার্মওয়্যার
+
+<b>Synonyms:</b> Firmware, System firmware, Boot firmware, UEFI (modern successor).
+
+<b>English Example:</b> "Once I flashed a malicious BIOS update, the machine was mine before the operating system even had a chance to defend itself."
+(আমি যখন ক্ষতিকর BIOS আপডেট ফ্ল্যাশ করলাম, তখন অপারেটিং সিস্টেম প্রতিরক্ষা শুরু করার আগেই পুরো মেশিন আমার নিয়ন্ত্রণে চলে এলো।)
+
+<u><b>Educational Section:</b></u> BIOS, or Basic Input/Output System, is firmware stored on the motherboard that initializes hardware during startup and loads the operating system. Because it operates at a very low level, BIOS-level compromises are extremely dangerous. Modern systems increasingly use UEFI with Secure Boot to prevent unauthorized firmware modification and rootkit persistence.
+
+---
+
+<b>Word:</b> Bogeyman
+
+<b>Part of Speech:</b> Noun
+
+<b>Bangla Meaning:</b> জুজু বা কাল্পনিক ভয়ের কারণ (সাধারণত কাউকে ভয় দেখানোর জন্য ব্যবহৃত একটি কাল্পনিক চরিত্র বা বিষয়)।
+
+<b>Synonyms:</b>
+Bugbear, Specter, Terror, Nightmare.
+
+<b>English Example:</b> "The CEO thinks some state-sponsored bogeyman is targeting them, but in reality, it was just a simple script I ran while drinking coffee." (সিইও ভাবছেন কোনো এক শক্তিশালী রাষ্ট্রীয় জুজু (Bogeyman) তাদের টার্গেট করছে, কিন্তু বাস্তবে এটি ছিল কফি খেতে খেতে চালানো আমার সাধারণ একটি স্ক্রিপ্ট মাত্র।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, the term Bogeyman is often used to describe an exaggerated or unseen threat. Companies sometimes focus so much on a "mysterious, elite hacker" (the bogeyman) that they ignore basic security hygiene, like patching old software. It also relates to "Fear, Uncertainty, and Doubt" (FUD), where vendors use a bogeyman to scare clients into buying unnecessary security tools.
+
+---
+
 <b>Word:</b> Bragging
 
 <b>Part of Speech:</b> Noun / Verb (Gerund)
@@ -279,6 +339,38 @@ In cybersecurity, an Amplification Attack is a form of DDoS (Distributed Denial 
 <b>English Example:</b> "Your public bragging on Twitter attracted the feds' attention; now the whole operation is burned because you wanted some likes." (টুইটারে তোমার এই জনসমক্ষে বড়াই করাটা গোয়েন্দাদের নজর কেড়েছে; এখন তোমার লাইক পাওয়ার নেশার কারণে আমাদের পুরো অপারেশনটা ভেস্তে গেল।)
 
 <u><b>Educational Section:</b></u> In the cyberworld, public bragging occurs when threat actors claim responsibility for an attack on social media or public leak sites. While it builds a "brand" for the hacking group, it significantly increases the risk of attribution (being identified) as security agencies prioritize targets that cause public embarrassment or panic.
+
+---
+
+<b>Word:</b> Breadcrumbs
+
+<b>Part of Speech:</b> Noun (Plural)
+
+<b>Bangla Meaning:</b> ছোট ছোট সূত্র বা চিহ্ন যা অনুসরণ করে মূল উৎস বা গন্তব্যে পৌঁছানো যায়
+
+<b>Synonyms:</b> Clues, Traces, Digital trails, Indicators.
+
+<b>English Example:</b> "I wiped the logs, but I forgot about the tiny breadcrumbs my script left in the temp directory."
+(আমি লগ মুছে ফেলেছিলাম, কিন্তু আমার স্ক্রিপ্ট যে ছোট ছোট ডিজিটাল সূত্র (Breadcrumbs) টেম্প ডিরেক্টরিতে রেখে গেছে, সেটা ভুলে গিয়েছিলাম।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, breadcrumbs refer to small traces of activity left behind after an action. These may include log entries, metadata, timestamps, cache files, or unusual network traffic. Digital forensics teams follow these breadcrumbs to reconstruct attack timelines, identify threat actors, and understand how a breach occurred.
+
+---
+
+<b>Term:</b> Digital Breadcrumbs
+
+<b>Part of Speech:</b> Noun Phrase (Plural)
+
+<b>Bangla Meaning:</b> অনলাইনে রেখে যাওয়া ছোট ছোট ডিজিটাল চিহ্ন বা কার্যকলাপের প্রমাণ, যা অনুসরণ করে কারও কাজ বা উপস্থিতি শনাক্ত করা যায়
+
+<b>Synonyms:</b> Digital traces, Online footprints, Activity logs, Metadata trails.
+
+<b>English Example:</b> "I covered my tracks carefully, but the digital breadcrumbs from my command-and-control server were enough for the analysts to trace me."
+(আমি খুব সাবধানে আমার চিহ্ন মুছে ফেলেছিলাম, কিন্তু আমার কমান্ড-অ্যান্ড-কন্ট্রোল সার্ভার থেকে রয়ে যাওয়া ডিজিটাল সূত্রগুলো (Digital Breadcrumbs) বিশ্লেষকদের আমাকে ট্রেস করার জন্য যথেষ্ট ছিল।)
+
+<u><b>Educational Section:</b></u> In cybersecurity and digital forensics, digital breadcrumbs are residual data left behind during online activity. These include IP logs, browser history, cookies, metadata, system artifacts, and network packets. Even sophisticated attackers often leave minor traces. Security analysts correlate these breadcrumbs to reconstruct incidents, attribute attacks, and strengthen defensive controls.
+
+---
 
 <b>Word:</b> Brochure
 
@@ -356,6 +448,21 @@ In cybersecurity, an Amplification Attack is a form of DDoS (Distributed Denial 
 
 ---
 
+<b>Word:</b> Concurrency
+
+<b>Part of Speech:</b> Noun
+
+<b>Bangla Meaning:</b> সমসাময়িকতা বা একযোগে কাজ সম্পাদন (যখন একটি সিস্টেমে একই সময়ে একাধিক প্রসেস বা রিকোয়েস্ট প্রসেস হয়)
+
+<b>Synonyms:</b>
+Simultaneity, Parallelism, Coexistence, Synchronicity.
+
+<b>English Example:</b> "I’m hammering their API with a concurrency attack to trigger a race condition; if I hit it right, I’ll double-spend their tokens before the database updates." (আমি তাদের এপিআই-তে একটি কনকারেন্সি অ্যাটাক চালাচ্ছি যাতে একটি রেস কন্ডিশন তৈরি হয়; ঠিকঠাক আঘাত করতে পারলে ডাটাবেস আপডেট হওয়ার আগেই আমি তাদের টোকেনগুলো দুইবার খরচ করে ফেলব।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, Concurrency refers to how a system handles multiple tasks at the same time. Attackers exploit poor concurrency management through "Race Conditions." By sending multiple requests simultaneously, they hope to bypass security checks that occur in the split second before the system records the first action.
+
+---
+
 <b>Word:</b> Cognitive
 
 <b>Part of Speech:</b> Adjective
@@ -367,6 +474,21 @@ In cybersecurity, an Amplification Attack is a form of DDoS (Distributed Denial 
 <b>Example:</b> "The attacker exploited a cognitive bias by making the email look like it came from a friend, causing the victim to trust it without thinking." (আক্রমণকারী একটি জ্ঞানীয় (Cognitive) পক্ষপাতিত্বকে কাজে লাগিয়েছিল—ইমেলটি এমনভাবে তৈরি করেছিল যেন এটি কোনো বন্ধুর কাছ থেকে এসেছে, যার ফলে ভিকটিম কোনো চিন্তা না করেই এটি বিশ্বাস করে ফেলে।)
 
 <u><b>Educational Section:</b></u> In cybersecurity, Cognitive Hacking refers to manipulating a person's perception of reality to change their behavior. It targets Cognitive Biases—shortcuts the human brain takes to process information. For example, the "Authority Bias" makes us more likely to follow instructions from someone who appears to be a boss, while the "Scarcity Principle" makes us act quickly when told a deal is about to expire.
+
+---
+
+<b>Word:</b> Confidential
+
+<b>Part of Speech:</b> Adjective
+
+<b>Bangla Meaning:</b> গোপনীয় বা অতি গোপন (যা সবার জন্য উন্মুক্ত নয় এবং যা প্রকাশ করা নিষেধ)।
+
+<b>Synonyms:</b>
+Private, Secret, Classified, Restricted.
+
+<b>English Example:</b> "I’ve just breached their 'Confidential' folder; looks like all their dirty laundry and trade secrets are now public property—thanks to me." (আমি এইমাত্র তাদের 'Confidential' (গোপনীয়) ফোল্ডারটি হ্যাক করেছি; মনে হচ্ছে তাদের সব গোপন কুকীর্তি আর ব্যবসায়িক রহস্য এখন পাবলিক প্রোপার্টি—আমার সৌজন্যে।)
+
+<u><b>Educational Section:</b></u> Confidentiality is one of the three pillars of the CIA Triad (Confidentiality, Integrity, Availability). It ensures that sensitive information is only accessible to those authorized to see it. Cyberattacks like data breaches specifically target confidential data to leak it, sell it, or use it for blackmail.
 
 ---
 
@@ -384,6 +506,20 @@ In cybersecurity, an Amplification Attack is a form of DDoS (Distributed Denial 
 
 ---
 
+<b>Word:</b> Crawl
+
+<b>Part of Speech:</b> Verb / Noun
+
+<b>Bangla Meaning:</b> তথ্য খোঁজার জন্য অনুসন্ধান চালানো (বিশেষ করে ইন্টারনেটে বা কোনো ডাটাবেসে সিস্টেম্যাটিকভাবে তথ্য সংগ্রহ করা)
+
+<b>Synonyms:</b> Scrape, Scan, Index, Spider.
+
+<b>English Example:</b> "I’ve set my bot to crawl their entire web directory; it won't stop until it finds every hidden login page and unprotected config file." (আমি আমার বটটিকে তাদের পুরো ওয়েব ডিরেক্টরিতে তথ্য খোঁজার (Crawl) জন্য সেট করেছি; এটি ততক্ষণ থামবে না যতক্ষণ না এটি প্রতিটি লুকানো লগইন পেজ এবং অরক্ষিত কনফিগ ফাইল খুঁজে পায়।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, <b>Web Crawling</b> (or spidering) is used during the reconnaissance phase. Tools like Burp Suite or specialized bots "crawl" a target website to map out its structure, identifying all pages, scripts, and endpoints that might contain vulnerabilities.
+
+---
+
 <b>Word:</b> Credentials
 
 <b>Part of Speech:</b> Noun (Plural)
@@ -395,6 +531,21 @@ In cybersecurity, an Amplification Attack is a form of DDoS (Distributed Denial 
 <b>English Example:</b> "I’ve just phished the admin’s credentials; now the entire database is mine to bleed." (আমি এইমাত্র অ্যাডমিনের ক্রেডেনশিয়ালগুলো (পরিচয়পত্র) ফিশিং করেছি; এখন পুরো ডাটাবেসটা খালি করার ক্ষমতা আমার হাতে।)
 
 <u><b>Educational Section:</b></u> In cybersecurity, credentials are the keys to the kingdom. They are the identity data (like passwords, keys, or biometrics) used to verify a user. Protecting them via MFA (Multi-Factor Authentication) is the primary defense against unauthorized access.
+
+---
+
+<b>Word:</b> Cryptographic
+
+<b>Part of Speech:</b> Adjective
+
+<b>Bangla Meaning:</b> ক্রিপ্টোগ্রাফিক বা গাণিতিক পদ্ধতিতে তথ্য গোপন করার কৌশল (গাণিতিক অ্যালগরিদম ব্যবহার করে তথ্য এনক্রিপ্ট বা ডিক্রিপ্ট করা সংক্রান্ত)
+
+<b>Synonyms:</b>
+Encrypted, Coded, Ciphered, Secure.
+
+<b>English Example:</b> "I’ve smashed through their weak cryptographic hashes using a GPU cluster; their ‘secure’ passwords are now plain text in my hands." (আমি একটি জিপিইউ ক্লাস্টার ব্যবহার করে তাদের দুর্বল ক্রিপ্টোগ্রাফিক হ্যাশগুলো (Cryptographic hashes) ভেঙে ফেলেছি; এখন তাদের সব 'নিরাপদ' পাসওয়ার্ড আমার হাতে সাধারণ টেক্সট হিসেবে আছে।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, Cryptographic refers to the use of mathematical techniques to secure data. This includes encryption (hiding data), hashing (verifying data integrity), and digital signatures (verifying identity). A cryptographic failure occurs when an organization uses outdated algorithms (like MD5 or SHA-1) that are easy for attackers to crack.
 
 ---
 
@@ -429,6 +580,21 @@ In cybersecurity, an Amplification Attack is a form of DDoS (Distributed Denial 
 <b>Example:</b> "I’ve set up a deceptive login page that looks identical to the bank’s portal; once the marks enter their pins, I’ve got full control of their cash." (আমি একটি প্রতারণামূলক (Deceptive) লগইন পেজ তৈরি করেছি যা দেখতে হুবহু ব্যাংকের পোর্টালের মতো; টার্গেটরা একবার তাদের পিন দিলেই, তাদের সব টাকার নিয়ন্ত্রণ আমার হাতে চলে আসবে।)
 
 <u><b>Educational Section:</b></u> In cybersecurity, Deceptive techniques are the core of "Deception Technology." This involves using decoys like honeypots or breadcrumbs to mislead attackers. Conversely, hackers use deceptive tactics in Social Engineering and Spoofing to trick victims into revealing secrets by mimicking trusted entities.
+
+---
+
+<b>Word:</b> Decorators
+
+<b>Part of Speech:</b> Noun (Plural)
+
+<b>Bangla Meaning:</b> ফাংশন বা ক্লাসের আচরণ পরিবর্তন বা সম্প্রসারণ করার জন্য ব্যবহৃত বিশেষ কাঠামো
+
+<b>Synonyms:</b> Wrappers, Annotations, Modifiers, Meta-functions.
+
+<b>English Example:</b> "I slipped a malicious decorator into the codebase, so every time the admin logged in, my backdoor executed silently."
+(আমি কোডবেসে একটি ক্ষতিকর ডেকোরেটর (Decorator) ঢুকিয়ে দিয়েছিলাম, ফলে অ্যাডমিন যখনই লগইন করত, আমার ব্যাকডোর নীরবে চালু হয়ে যেত।)
+
+<u><b>Educational Section:</b></u> In programming, especially in languages like Python and TypeScript, decorators are used to modify or extend the behavior of functions, methods, or classes without changing their core code. In secure development, decorators are commonly used for authentication, logging, rate limiting, and access control. However, if misused or injected maliciously, they can introduce hidden backdoors or privilege escalation paths.
 
 ---
 
@@ -471,6 +637,35 @@ In cybersecurity, an Amplification Attack is a form of DDoS (Distributed Denial 
 <b>English Example:</b> "I injected a few lines of junk code into their automated backup script to derail their recovery process during the ransomware strike." (র‍্যানসামওয়্যার অ্যাটাকের সময় তাদের রিকভারি প্রসেস বা পুনরুদ্ধার প্রক্রিয়াকে লক্ষ্যচ্যুত (Derail) করার জন্য আমি তাদের অটোমেটেড ব্যাকআপ স্ক্রিপ্টে কিছু জঙ্ক কোড ইনজেক্ট করেছি।)
 
 <u><b>Educational Section:</b></u> In cybersecurity, to derail an operation means to interrupt the logical flow of a system or an incident response plan. For example, attackers might try to derail a security audit by flooding logs with "noise" (false positives), making it impossible for analysts to find the actual evidence of a breach.
+
+---
+
+<b>Word:</b> Destructive
+
+<b>Part of Speech:</b> Adjective
+
+<b>Bangla Meaning:</b> ধ্বংসাত্মক বা চরম ক্ষতিকারক (যা সিস্টেমের ফাইল বা হার্ডওয়্যার পুরোপুরি নষ্ট করে ফেলে)
+
+<b>Synonyms:</b>
+Devastating, Ruinous, Catastrophic, Lethal.
+
+<b>English Example:</b> "Once I’ve exfiltrated the data, I’ll trigger the destructive payload to wipe every drive and leave their entire infrastructure in ashes." (একবার ডেটা চুরি করা হয়ে গেলে, আমি ধ্বংসাত্মক (Destructive) পেলোডটি ট্রিগার করব যাতে প্রতিটি ড্রাইভ মুছে যায় এবং তাদের পুরো ইনফ্রাস্ট্রাকচার ছাইয়ে পরিণত হয়।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, Destructive Malware (like Wipers) is designed not to steal information, but to cause maximum damage. Its goal is to disrupt operations, delete backups, and render systems unbootable. A famous example is the NotPetya attack, which caused billions in damage by permanently encrypting files with no way to recover them.
+
+---
+
+<b>Word:</b> Distinction
+
+<b>Part of Speech:</b> Noun
+
+<b>Bangla Meaning:</b> পার্থক্য বা প্রভেদ (দুটি জিনিসের মধ্যেকার সুনির্দিষ্ট অমিল)
+
+<b>Synonyms:</b> Differentiation, Contrast, Discrepancy, Separation.
+
+<b>English Example:</b> "I don't care about the distinction between a script kiddie and a pro; if their server is vulnerable, I’m breaking in." (আমি স্ক্রিপ্ট কিডি আর প্রো-এর মধ্যে পার্থক্যের (Distinction) তোয়াক্কা করি না; যদি তাদের সার্ভার অরক্ষিত থাকে, তবে আমি ভেতরে ঢুকবই।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, maintaining a clear distinction between "Authorized" and "Unauthorized" access is the legal line that defines a breach. Similarly, understanding the distinction between Passive and Active Reconnaissance helps defenders decide whether to monitor logs or actively block suspicious IP addresses.
 
 ---
 
@@ -554,6 +749,40 @@ Mean Time to Respond (MTTR): The time it takes to kick the hacker out after they
 
 ---
 
+<b>Word:</b>
+Ecosystem
+
+<b>Part of Speech:</b>
+Noun
+
+<b>Bangla Meaning:</b>
+প্রযুক্তিগত বাস্তুসংস্থান বা সামগ্রিক পরিবেশ (একটি সিস্টেমের সাথে যুক্ত সকল ডিভাইস, নেটওয়ার্ক, এবং সফটওয়্যারের সমন্বিত পরিবেশ)।
+
+<b>Synonyms:</b>
+Digital environment, Network infrastructure, IT landscape, Platform network.
+
+<b>English Example (with Bangla translation):</b>
+"I’ve spent weeks mapping out their entire corporate ecosystem; now I know exactly which weak IoT device will let me pivot into their secure internal servers." (আমি কয়েক সপ্তাহ ধরে তাদের পুরো কর্পোরেট ইকোসিস্টেম (Ecosystem) ম্যাপ করেছি; এখন আমি জানি ঠিক কোন দুর্বল আইওটি (IoT) ডিভাইসটি ব্যবহার করে আমি তাদের নিরাপদ ইন্টারনাল সার্ভারে ঢুকতে পারব।)
+
+<u><b>Educational Section:</b></u>
+In cybersecurity, an Ecosystem refers to the complex web of interconnected hardware, software, and users within an organization. Attackers analyze the ecosystem to find the "weakest link"—often a third-party app or a forgotten legacy server. By compromising one small part of the ecosystem, a hacker can move laterally through the network to reach high-value targets.
+
+---
+
+<b>Word:</b> Embedded
+
+<b>Part of Speech:</b> Adjective
+
+<b>Bangla Meaning:</b> গেঁথে দেওয়া বা অন্তর্নিহিত (সাধারণত হার্ডওয়্যার বা সফটওয়্যারের ভেতর স্থায়ীভাবে বসানো কোনো অংশ)
+
+<b>Synonyms:</b> Integrated, Implanted, Built-in, Fixed.
+
+<b>English Example:</b> "I’ve just injected an embedded backdoor into the firmware; even if they wipe the OS, my access will persist forever." (আমি এইমাত্র ফার্মওয়্যারের ভেতর একটি অন্তর্নিহিত (Embedded) ব্যাকডোর ঢুকিয়ে দিয়েছি; তারা যদি ওএস মুছেও ফেলে, আমার অ্যাক্সেস চিরকাল থেকে যাবে।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, Embedded Systems (like IoT devices, routers, or industrial controllers) are prime targets because they often lack robust security updates. Attackers target "Embedded Vulnerabilities" to gain persistent access that survives system reboots and traditional antivirus scans.
+
+---
+
 <b>Word:</b> Emerged
 
 <b>Part of Speech:</b> Verb (Past Tense)
@@ -565,6 +794,34 @@ Mean Time to Respond (MTTR): The time it takes to kick the hacker out after they
 <b>Example:</b> "A new zero-day vulnerability just emerged in the latest OS patch, and I'm already coding an exploit to hit them before they can fix it." (অপারেটিং সিস্টেমের সর্বশেষ প্যাচ-এ একটি নতুন জিরো-ডে ভালনারেবিলিটি প্রকাশ পেয়েছে (Emerged), আর তারা এটি সারানোর আগেই আমি এটিতে আঘাত হানার জন্য একটি এক্সপ্লয়েট কোড করছি।)
 
 <u><b>Educational Section:</b></u> In cybersecurity, the term is often used for Emerging Threats. This refers to newly identified risks, such as a novel strain of malware or a previously unknown software bug (Zero-day). Security teams must monitor threat intelligence feeds to catch these threats as soon as they have emerged to prevent large-scale exploitation.
+
+---
+
+<b>Word:</b> Encompasses
+
+<b>Part of Speech:</b> Verb (Third-person singular present)
+
+<b>Bangla Meaning:</b> অন্তর্ভুক্ত করা বা পরিবেষ্টিত করা (অনেকগুলো বিষয়কে একসাথে একটি গণ্ডির মধ্যে আনা)
+
+<b>Synonyms:</b> Includes, Covers, Incorporates, Embraces, Surrounds.
+
+<b>English Example:</b> "My full-scale attack plan encompasses everything from social engineering the receptionist to exploiting their unpatched VPN server." (আমার পূর্ণাঙ্গ আক্রমণ পরিকল্পনাটি রিসেপশনিস্টের ওপর সোশ্যাল ইঞ্জিনিয়ারিং থেকে শুরু করে তাদের আনপ্যাচড ভিপিএন সার্ভার এক্সপ্লয়েট করা পর্যন্ত সবকিছুকেই অন্তর্ভুক্ত (Encompasses) করে।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, a comprehensive Security Framework encompasses various domains like Network Security, Identity Management, and Incident Response. If a defense strategy only covers one area while ignoring others, it fails to encompass the entire "Attack Surface," leaving the organization vulnerable to multi-vector threats.
+
+---
+
+<b>Word:</b> Enforceable
+
+<b>Part of Speech:</b> Adjective
+
+<b>Bangla Meaning:</b> কার্যকরযোগ্য বা পালন করতে বাধ্য করা যায় এমন (আইন বা নিয়ম যা মানতে বাধ্য করা সম্ভব)
+
+<b>Synonyms:</b> Implementable, Binding, Executive, Valid.
+
+<b>English Example:</b> "Their security policy is a joke; without a lockout script, their password complexity rules aren't even enforceable against my brute-force attack." (তাদের সিকিউরিটি পলিসি একটা রসিকতা; কোনো লকআউট স্ক্রিপ্ট ছাড়া তাদের পাসওয়ার্ড জটিলতার নিয়মগুলো আমার ব্রুট-ফোর্স অ্যাটাকের বিরুদ্ধে কার্যকরই (Enforceable) করা সম্ভব নয়।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, a policy or control is <b>Enforceable</b> only if there is a technical mechanism to back it up. For example, "don't use USB drives" is a policy, but it is only enforceable if the admin physically or digitally disables the USB ports. Without enforcement, security rules are merely suggestions that attackers easily ignore.
 
 ---
 
@@ -658,6 +915,21 @@ b>Word:</b> Eventual
 
 ---
 
+<b>Word:</b> Fetch
+
+<b>Part of Speech:</b> Verb
+
+<b>Bangla Meaning:</b> নিয়ে আসা বা আহরণ করা (নেটওয়ার্ক বা মেমরি থেকে নির্দিষ্ট ডেটা বা তথ্য সংগ্রহ করা)
+
+<b>Synonyms:</b>
+Retrieve, Collect, Get, Extract.
+
+<b>English Example:</b> "I just sent a command to my botnet to fetch the config file from the command-and-control server and start the DDoS attack." (আমি আমার বটনেটকে কমান্ড পাঠিয়েছি কমান্ড-অ্যান্ড-কন্ট্রোল সার্ভার থেকে কনফিগ ফাইলটি নিয়ে আসার (Fetch) জন্য এবং ডিডিওএস (DDoS) অ্যাটাক শুরু করার জন্য।)
+
+<u><b>Educational Section:</b></u> In cybersecurity and computing, Fetch is the first stage of the "Instruction Cycle" (Fetch-Decode-Execute). In a broader security context, it often refers to an attacker's script retrieving remote payloads or sensitive data from a database. For instance, in an SSRF (Server-Side Request Forgery) attack, the attacker forces a server to "fetch" a resource it shouldn't have access to.
+
+---
+
 <b>Word:</b> Fledged
 
 <b>Part of Speech:</b> Adjective
@@ -669,6 +941,35 @@ b>Word:</b> Eventual
 <b>English Example:</b> "I started with a simple script, but now it’s a full-fledged ransomware strain capable of locking down an entire corporate infrastructure in seconds." (আমি সাধারণ একটি স্ক্রিপ্ট দিয়ে শুরু করেছিলাম, কিন্তু এখন এটি একটি পূর্ণবিকশিত (Full-fledged) র‍্যানসমওয়্যার যা কয়েক সেকেন্ডের মধ্যে একটি পুরো কর্পোরেট অবকাঠামো লক করে দিতে সক্ষম।)
 
 <u><b>Educational Section:</b></u> In a technical context, "full-fledged" describes software or an attack that has moved from the prototype or "Proof of Concept" (PoC) stage to a complete, stable, and fully functional version. For example, a full-fledged malware includes all components like a dropper, payload, and C2 communication module.
+
+---
+
+<b>Word:</b> Fictional
+
+<b>Part of Speech:</b> Adjective
+
+<b>Bangla Meaning:</b> কাল্পনিক বা অবাস্তব (যা সত্য নয়, বরং সাজানো বা উদ্ভাবিত)।
+
+<b>Synonyms:</b>
+Imaginary, Fabricated, Made-up, Non-existent.
+
+<b>English Example:</b> "I created a fictional persona on LinkedIn with a fake AI-generated face to trick their engineers into downloading my 'special' software." (আমি লিঙ্কডইন-এ একটি এআই-জেনারেটেড ছবি ব্যবহার করে একটি কাল্পনিক (Fictional) চরিত্র তৈরি করেছি যাতে তাদের ইঞ্জিনিয়ারদের প্রলুব্ধ করে আমার 'বিশেষ' সফটওয়্যারটি ডাউনলোড করানো যায়।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, Fictional identities are the backbone of Social Engineering. Attackers create "Sockpuppets" (fake profiles) or "Fictional" scenarios (like a fake emergency from the IT department) to build trust and deceive victims into revealing credentials or installing malware.
+
+---
+
+<b>Word:</b> Fixation
+
+<b>Part of Speech:</b> Noun
+
+<b>Bangla Meaning:</b> স্থায়ীকরণ বা আবদ্ধকরণ (সাইবার সিকিউরিটির ক্ষেত্রে সাধারণত কোনো সেশন বা আইডিকে একটি নির্দিষ্ট মানে আটকে রাখা)
+
+<b>Synonyms:</b> Stabilization, Attachment, Implantation, Setting.
+
+<b>English Example:</b> "I’ve successfully executed a session fixation; now the victim is using the exact session ID I generated, and I’m just waiting to hijack their account." (আমি সফলভাবে সেশন ফিক্সেশন (Session fixation) সম্পন্ন করেছি; এখন ভিকটিম আমার তৈরি করা সেশন আইডি-ই ব্যবহার করছে, আর আমি শুধু তার অ্যাকাউন্ট হাইজ্যাক করার অপেক্ষায় আছি।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, Session Fixation is an attack where the attacker forces a specific session ID on a user. If the server does not assign a new session ID after the user logs in, the attacker can use that pre-determined ID to take over the authenticated session and bypass the login process entirely.
 
 ---
 
@@ -706,9 +1007,53 @@ b>Word:</b> Eventual
 
 ---
 
+<b>Word:</b> Generics
+
+<b>Part of Speech:</b> Noun (Plural)
+
+<b>Bangla Meaning:</b> ডেটা টাইপ নির্দিষ্ট না করে বিভিন্ন টাইপের জন্য ব্যবহারযোগ্য সাধারণ কাঠামো
+
+<b>Synonyms:</b> Type parameters, Generic types, Template types, Parametric polymorphism.
+
+<b>English Example:</b> "They trusted the generic input handler too much, but I manipulated the type assumptions and slipped my payload through the cracks."
+(তারা জেনেরিক ইনপুট হ্যান্ডলারকে অতিরিক্ত ভরসা করেছিল, কিন্তু আমি টাইপ সংক্রান্ত অনুমানগুলো কাজে লাগিয়ে আমার পেলোড ঢুকিয়ে দিলাম।)
+
+<u><b>Educational Section:</b></u> In programming languages like TypeScript, Java, and C#, generics allow developers to create reusable components that work with multiple data types while maintaining type safety. Proper use of generics improves code flexibility and reduces duplication. However, misunderstanding type constraints or improper validation of generic inputs can lead to logic flaws or security vulnerabilities.
+
+---
+
 <a id="H"></a>
 
 ## H)
+
+---
+
+<b>Word:</b> Hacktivist
+
+<b>Part of Speech:</b> Noun
+
+<b>Bangla Meaning:</b> আদর্শবাদী হ্যাকার (যারা কোনো রাজনৈতিক বা সামাজিক উদ্দেশ্য হাসিলের জন্য সাইবার আক্রমণ চালায়)
+
+<b>Synonyms:</b>
+Cyber-activist, Digital protester, Vigilante hacker, Ideological intruder.
+
+<b>English Example:</b> "We aren't in this for the money; as hacktivists, we’ll leak every dirty secret this corrupt corporation has until they’re forced to shut down." (আমরা টাকার জন্য এটা করছি না; হ্যাকটিভিস্ট (Hacktivist) হিসেবে আমরা এই দুর্নীতিবাজ প্রতিষ্ঠানের প্রতিটি নোংরা গোপন তথ্য ফাঁস করে দেব যতক্ষণ না তারা বন্ধ হতে বাধ্য হয়।)
+
+<u><b>Educational Section:</b></u> A Hacktivist is a hacker who breaks into computer systems for politically or socially motivated reasons rather than personal gain. They use techniques like website defacements, Doxing, or DDoS attacks to draw attention to a cause. Groups like Anonymous are the most well-known examples of hacktivism.
+
+---
+
+<b>Word:</b> Halted
+
+<b>Part of Speech:</b> Verb (Past Tense / Past Participle) / Adjective
+
+<b>Bangla Meaning:</b> থমকে যাওয়া বা স্থগিত করা (সাধারণত কোনো চলমান প্রক্রিয়া বা সিস্টেমের কাজ হঠাৎ বন্ধ হয়ে যাওয়া)
+
+<b>Synonyms:</b> Ceased, Suspended, Terminated, Stalled.
+
+<b>English Example:</b> "I’ve triggered a kernel panic that’s halted their primary database server; while their IT team is scrambling to reboot, I’m exfiltrating data from the backup node." (আমি একটি কার্নেল প্যানিক ট্রিগার করেছি যা তাদের প্রধান ডাটাবেস সার্ভারটিকে থামিয়ে (Halted) দিয়েছে; যখন তাদের আইটি টিম রিবুট করার জন্য তাড়াহুড়ো করছে, আমি ব্যাকআপ নোড থেকে ডেটা বের করে নিচ্ছি।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, a Halted system or process is often the result of a Denial of Service (DoS) attack or a "Kill Chain" maneuver. Attackers aim to have security monitoring processes halted so they can perform malicious actions without being logged or blocked by active defense mechanisms.
 
 ---
 
@@ -737,6 +1082,51 @@ b>Word:</b> Eventual
 <b>Example:</b> "My botnet is currently harvesting thousands of emails from that unpatched server; by morning, I’ll have a fresh database to sell on the dark market." (আমার বটনেট বর্তমানে ওই আনপ্যাচড সার্ভার থেকে হাজার হাজার ইমেল সংগ্রহ (Harvesting) করছে; সকালের মধ্যে আমার কাছে ডার্ক মার্কেটে বিক্রি করার মতো একটি নতুন ডাটাবেস থাকবে।)
 
 <u><b>Educational Section:</b></u> In cybersecurity, Harvesting (specifically Credential Harvesting) is the process of using automated tools or social engineering to collect large sets of user data. This is often the second stage of an attack: first, the attacker gains access, then they "harvest" as much sensitive info as possible—like usernames, passwords, or PII (Personally Identifiable Information)—to use or sell later.
+
+---
+
+<b>Word:</b> Heuristic
+
+<b>Part of Speech:</b> Adjective / Noun
+
+<b>Bangla Meaning:</b> অভিজ্ঞতা-ভিত্তিক বা অনুমান-নির্ভর পদ্ধতি (কোনো নির্দিষ্ট সিগনেচার ছাড়াই আচরণ দেখে ম্যালওয়্যার শনাক্ত করার কৌশল)
+
+<b>Synonyms:</b>
+Rule-based, Pattern recognition, Behavioral analysis, Inference.
+
+<b>English Example:</b> "Their antivirus uses heuristic analysis, but I’ve obfuscated my code to mimic a harmless calculator app so it slips right past their 'behavior' check." (তাদের অ্যান্টিভাইরাস হিউরিস্টিক (Heuristic) অ্যানালাইসিস ব্যবহার করে, কিন্তু আমি আমার কোড এমনভাবে অস্পষ্ট করেছি যাতে এটি একটি নিরীহ ক্যালকুলেটর অ্যাপের মতো আচরণ করে এবং তাদের শনাক্তকরণ ব্যবস্থাকে ফাঁকি দেয়।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, Heuristic Analysis is a detection method used by antivirus software to identify new, unknown threats (Zero-days). Unlike traditional signature-based detection (which looks for a specific "fingerprint"), heuristics look for suspicious patterns or behaviors, such as a file trying to encrypt the entire hard drive or modify system boot files.
+
+---
+
+<b>Word:</b> Honeypot
+
+<b>Part of Speech:</b> Noun
+
+<b>Bangla Meaning:</b> ফাঁদ হিসেবে তৈরি করা ভুয়া সিস্টেম বা সার্ভার (হ্যাকারদের আকৃষ্ট ও শনাক্ত করার জন্য তৈরি করা হয়)
+
+<b>Synonyms:</b> Decoy system, Trap server, Bait network, Deception system.
+
+<b>English Example:</b> "I thought I had breached a vulnerable bank server, but it turned out to be a honeypot silently logging my every move."
+(আমি ভেবেছিলাম একটি দুর্বল ব্যাংক সার্ভার হ্যাক করেছি, কিন্তু পরে বুঝলাম সেটা আসলে একটি হানিপট (Honeypot) ছিল, যা আমার প্রতিটি কাজ গোপনে লগ করছিল।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, a honeypot is a defensive deception tool. It is a deliberately vulnerable-looking system designed to attract attackers. Instead of protecting real assets directly, it monitors and records malicious activity, helping security teams analyze attack patterns, tools, and techniques without risking critical infrastructure.
+
+---
+
+<b>Word:</b> Hybrid
+
+<b>Part of Speech:</b> Adjective / Noun
+
+<b>Bangla Meaning:</b> শংকর বা মিশ্র (দুই বা ততোধিক ভিন্ন জিনিসের সমন্বয়ে গঠিত)।
+
+<b>Synonyms:</b>
+Mixed, Blended, Composite, Crossbreed.
+
+<b>English Example:</b> "I’ve developed a hybrid ransomware that encrypts files locally while simultaneously exfiltrating them to my cloud; it’s the perfect double-extortion tool." (আমি একটি হাইব্রিড (Hybrid) র‍্যানসমওয়্যার তৈরি করেছি যা লোকালি ফাইল এনক্রিপ্ট করার পাশাপাশি সেগুলো আমার ক্লাউডে পাঠিয়ে দেয়; এটি ডাবল-এক্সটোরশনের জন্য একদম নিখুঁত অস্ত্র।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, Hybrid often refers to Hybrid Cloud (combining private and public clouds) or Hybrid Attacks. A "Hybrid Brute-Force Attack" uses a dictionary of known words but adds numbers or symbols to them, combining two different cracking methods to increase efficiency.
 
 ---
 
@@ -774,6 +1164,37 @@ b>Word:</b> Eventual
 
 ---
 
+<b>Word:</b>
+Infeasible
+
+<b>Part of Speech:</b> Adjective
+
+<b>Bangla Meaning:</b> অসম্ভব বা বাস্তবায়নযোগ্য নয় (যা করা অত্যন্ত কঠিন বা বর্তমান পরিস্থিতিতে সম্ভব নয়)।
+
+<b>Synonyms:</b>
+Impossible, Impractical, Unworkable, Unachievable.
+
+<b>English Example:</b> "Cracking this password manually is infeasible; it would take a thousand years, so I’ll just use a keylogger to snatch it instead." (এই পাসওয়ার্ডটি ম্যানুয়ালি ক্র্যাক করা অসম্ভব (Infeasible); এটি করতে হাজার বছর লেগে যাবে, তাই আমি এর বদলে এটি হাতিয়ে নিতে একটি কিলগার ব্যবহার করব।)
+
+<u><b>Educational Section:</b></u> In cryptography, a security system is considered "computationally secure" if breaking it is infeasible with current technology. It means that while a task might be theoretically possible, the time, energy, or "computing" power required to succeed is so vast that it is practically impossible for an attacker. For example, a 256-bit encryption key is considered infeasible to brute-force with current computing capabilities.
+
+---
+
+<b>Word:</b> Infosec
+
+<b>Part of Speech:</b> Noun
+
+<b>Bangla Meaning:</b> তথ্য নিরাপত্তা (তথ্যকে অননুমোদিত অ্যাক্সেস, ব্যবহার বা ধ্বংস থেকে রক্ষা করার সামগ্রিক প্রক্রিয়া)
+
+<b>Synonyms:</b>
+Information Security, Data protection, Cyber defense, Cybersecurity.
+
+<b>English Example:</b> "Their Infosec team is a joke; I bypassed their entire encryption protocol in under ten minutes using a simple brute-force script." (তাদের ইনফোসেক (Infosec) টিমটা একটা তামাশা; আমি মাত্র দশ মিনিটের মধ্যে একটি সাধারণ ব্রুট-ফোর্স স্ক্রিপ্ট ব্যবহার করে তাদের পুরো এনক্রিপশন প্রোটোকল বাইপাস করেছি।)
+
+<u><b>Educational Section:</b></u> Infosec is short for Information Security. It focuses on the CIA Triad: Confidentiality, Integrity, and Availability. While "Cybersecurity" specifically deals with defending against electronic attacks, Infosec is a broader field that covers protecting data in any form—whether it's digital or physical files on a desk.
+
+---
+
 <b>Word:</b> Imitating
 
 <b>Part of Speech:</b> Verb (Present Participle)
@@ -799,6 +1220,21 @@ b>Word:</b> Eventual
 <b>Example:</b> "I’m impersonating the IT support lead on this call; the panicked employee is giving me their remote access codes without asking a single question." (আমি এই কলে আইটি সাপোর্ট লিডের ছদ্মবেশ ধারণ (Impersonating) করছি; আতঙ্কিত কর্মচারীটি কোনো প্রশ্ন না করেই আমাকে তাদের রিমোট অ্যাক্সেস কোডগুলো দিয়ে দিচ্ছে।)
 
 <u><b>Educational Section:</b></u> In cybersecurity, Impersonating is a core tactic in Social Engineering. It involves a threat actor pretending to be a trusted figure—like a CEO, a technician, or a government official—to manipulate victims into performing actions or divulging confidential information. This can happen over the phone (Vishing), via email, or even in person.
+
+---
+
+<b>Word:</b>
+Impulsive
+
+<b>Part of Speech:</b> Adjective
+
+<b>Bangla Meaning:</b> আবেগপ্রবণ বা হঠকারী (পরিণাম চিন্তা না করে হঠাৎ কিছু করে ফেলা)
+
+<b>Synonyms:</b> Rash, Impetuous, Spontaneous, Reckless.
+
+<b>English Example:</b> "I’m counting on an impulsive click from a tired employee to execute my macro and give me a shell inside their secure zone." (আমি ক্লান্ত কোনো কর্মচারীর একটি হঠকারী (Impulsive) ক্লিকের ওপর ভরসা করছি, যা আমার ম্যাক্রো রান করবে এবং তাদের সিকিউর জোনের ভেতর আমাকে একটি শেল দেবে।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, <b>Impulsive behavior</b> is the primary target of Social Engineering. Attacks like Phishing or Smishing rely on creating a sense of urgency (e.g., "Account suspended!") to trigger an impulsive reaction, bypassing the user's critical thinking and leading them to reveal credentials or download malware.
 
 ---
 
@@ -830,6 +1266,21 @@ b>Word:</b> Eventual
 
 ---
 
+<b>Word:</b> Interactive
+
+<b>Part of Speech:</b> Adjective
+
+<b>Bangla Meaning:</b> মিথস্ক্রিয়ামূলক বা পারস্পরিক ক্রিয়াশীল (এমন কিছু যা ব্যবহারকারীর ইনপুট বা কাজের বিপরীতে তাৎক্ষণিক প্রতিক্রিয়া দেখায়)।
+
+<b>Synonyms:</b>
+Engaging, Participatory, Two-way, Responsive.
+
+<b>English Example:</b> "I’ve set up an interactive phishing page that looks exactly like their corporate login; it even 'errors out' twice to trick them into entering two different passwords." (আমি একটি ইন্টারেক্টিভ (Interactive) ফিশিং পেজ তৈরি করেছি যা দেখতে হুবহু তাদের কর্পোরেট লগইন পেজের মতো; এটি এমনকি দুবার 'এরর' দেখায় যাতে ভিকটিম ভুল করে দুটি ভিন্ন পাসওয়ার্ড ইনপুট দেয়।)
+
+<u><b>Educational Section:</b></u> In a technical sense, Interactive describes systems that allow continuous exchange between a user and a machine. In cybersecurity, "Interactive Shells" are highly prized by hackers; once an attacker gains an interactive shell on a remote server, they can execute commands in real-time, navigate the file system, and pivot to other machines on the network.
+
+---
+
 <b>Word:</b> Interacting
 
 <b>Part of Speech:</b> Verb (Present Participle)
@@ -858,6 +1309,22 @@ b>Word:</b> Eventual
 
 ---
 
+<b>Word:</b>
+Intrusion
+
+<b>Part of Speech:</b> Noun
+
+<b>Bangla Meaning:</b> অনধিকার প্রবেশ বা অনুপ্রবেশ (অনুমতি ছাড়াই কোনো সিস্টেমে ঢুকে পড়া)।
+
+<b>Synonyms:</b>
+Invasion, Encroachment, Incursion, Breach.
+
+<b>English Example:</b> "Their logs showed a massive intrusion at 3:00 AM; by the time the security team woke up, I was already clearing my tracks." (তাদের লগ ফাইলগুলোতে রাত ৩টায় একটি বিশাল অনুপ্রবেশ (Intrusion) দেখা গেছে; যখন সিকিউরিটি টিম ঘুম থেকে উঠল, আমি ততক্ষণে আমার সব চিহ্ন মুছে ফেলেছি।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, an Intrusion occurs when an unauthorized user gains access to a private network. To combat this, companies use an IDS (Intrusion Detection System) to "watch" and alert, or an IPS (Intrusion Prevention System) to "watch and block." An intrusion isn't always a full-scale hack; even a simple unauthorized scan of a server's ports can be classified as an attempted intrusion.
+
+---
+
 <b>Word:</b> Invoice
 
 <b>Part of Speech:</b> Noun
@@ -875,6 +1342,36 @@ b>Word:</b> Eventual
 <a id="J"></a>
 
 ## J)
+
+---
+
+<b>Word:</b> Jot
+
+<b>Part of Speech:</b> Verb
+
+<b>Bangla Meaning:</b> সংক্ষেপে বা দ্রুত লিখে রাখা (টুকে নেওয়া)
+
+<b>Synonyms:</b> Scribble, Note down, Record, Scrawl.
+
+<b>English Example:</b> "I had to quickly jot down the server's internal IP before the session timed out and kicked me off the network." (সেশনটি শেষ হয়ে আমাকে নেটওয়ার্ক থেকে বের করে দেওয়ার আগেই সার্ভারের ইন্টারনাল IP-টি আমাকে দ্রুত লিখে (Jot down) রাখতে হয়েছিল।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, to jot down information is a key part of the Reconnaissance phase. Whether it's a "leak" found on a sticky note or a quick observation during a social engineering call, these small pieces of information are gathered into a "loot file" or "scratchpad" to build a larger picture of the target's infrastructure.
+
+---
+
+<b>Word:</b>
+Hybrid
+
+<b>Part of Speech:</b> Adjective / Noun
+
+<b>Bangla Meaning:</b> শংকর বা মিশ্র (দুই বা ততোধিক ভিন্ন জিনিসের সমন্বয়ে গঠিত)।
+
+<b>Synonyms:</b>
+Mixed, Blended, Composite, Crossbreed.
+
+<b>English Example:</b> "I’ve developed a hybrid ransomware that encrypts files locally while simultaneously exfiltrating them to my cloud; it’s the perfect double-extortion tool." (আমি একটি হাইব্রিড (Hybrid) র‍্যানসমওয়্যার তৈরি করেছি যা লোকালি ফাইল এনক্রিপ্ট করার পাশাপাশি সেগুলো আমার ক্লাউডে পাঠিয়ে দেয়; এটি ডাবল-এক্সটোরশনের জন্য একদম নিখুঁত অস্ত্র।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, Hybrid often refers to Hybrid Cloud (combining private and public clouds) or Hybrid Attacks. A "Hybrid Brute-Force Attack" uses a dictionary of known words but adds numbers or symbols to them, combining two different cracking methods to increase efficiency.
 
 ---
 
@@ -901,6 +1398,21 @@ b>Word:</b> Eventual
 <a id="L"></a>
 
 ## L)
+
+---
+
+<b>Word:</b> Legacy
+
+<b>Part of Speech:</b> Noun / Adjective
+
+<b>Bangla Meaning:</b> উত্তরাধিকারসূত্রে প্রাপ্ত বা পুরনো আমলের (সাধারণত এমন কোনো পুরনো সফটওয়্যার বা সিস্টেম যা এখনো ব্যবহার করা হচ্ছে)।
+
+<b>Synonyms:</b>
+Inherited, Outdated, Obsolete, Heritage.
+
+<b>English Example:</b> "I’ll exploit their legacy systems; they’re so busy protecting the cloud that they forgot their ten-year-old server is still unpatched." (আমি তাদের পুরনো আমলের (Legacy) সিস্টেমগুলোকে ব্যবহার করব; তারা ক্লাউড রক্ষা করতে এতই ব্যস্ত যে ভুলেই গেছে তাদের দশ বছরের পুরনো সার্ভারটি এখনও প্যাচ করা হয়নি।)
+
+<u><b>Educational Section:</b></u> In IT, Legacy refers to old technology, computer systems, or software applications that are still in use despite being outdated. In cybersecurity, legacy systems are a goldmine for hackers because they often lack modern security features and no longer receive official security updates, making them extremely vulnerable to "Exploits."
 
 ---
 
@@ -932,6 +1444,21 @@ b>Word:</b> Eventual
 
 ---
 
+<b>Word:</b> Link-hops
+
+<b>Part of Speech:</b> Noun (Plural)
+
+<b>Bangla Meaning:</b> লিঙ্কের ধাপ বা মধ্যবর্তী সংযোগ (ডেটা এক জায়গা থেকে অন্য জায়গায় যাওয়ার পথে যে কয়টি সার্ভার বা রাউটার পার হয়)
+
+<b>Synonyms:</b>
+Relays, Network segments, Node transitions, Intermediate hops.
+
+<b>English Example:</b> "I’m routing my traffic through six different link-hops across three continents to make sure the feds can't trace this breach back to my IP." (আমি আমার ট্রাফিককে তিনটি মহাদেশের ছয়টি ভিন্ন লিঙ্কের ধাপের (Link-hops) মধ্য দিয়ে পাঠাচ্ছি যাতে ফেডারেল এজেন্টরা এই হ্যাকের উৎস আমার আইপি পর্যন্ত খুঁজে না পায়।)
+
+<u><b>Educational Section:</b></u> In networking and security, a Hop represents one portion of the path between source and destination. In cybersecurity, attackers use multiple "link-hops" (via VPNs, Tor, or Proxychains) to anonymize their location. Each hop adds a layer of redirection, making it exponentially harder for investigators to perform a traceback.
+
+---
+
 <b>Word:</b> Listicles
 
 <b>Part of Speech:</b> Noun (Plural)
@@ -943,6 +1470,21 @@ b>Word:</b> Eventual
 <b>English Example (with Bangla translation):</b> "I’m hosting a few clickbait listicles like 'Top 10 Privacy Tools'; once they download the 'recommended' software, my hidden miner starts running in the background." (আমি 'সেরা ১০টি প্রাইভেসী টুলস' এর মতো কিছু ক্লিকবেইট লিস্টিক্যাল (Listicles) হোস্ট করছি; কেউ যখন আমার 'সুপারিশ করা' সফটওয়্যারটি ডাউনলোড করবে, অমনি আমার হিডেন মাইনারটি ব্যাকগ্রাউন্ডে চলতে শুরু করবে।)
 
 <u><b>Educational Section:</b></u> In the world of cybercrime, Listicles are frequently used as "clickbait" in social engineering campaigns. Because they are easy to read and highly shareable, attackers use them to draw traffic to malicious websites or to trick users into downloading compromised software disguised as helpful tools listed in the article.
+
+---
+
+<b>Word:</b> Literacy
+
+<b>Part of Speech:</b> Noun
+
+<b>Bangla Meaning:</b> সাক্ষরতা বা মৌলিক জ্ঞান (কোনো নির্দিষ্ট বিষয়ে কাজ করার বা বোঝার সক্ষমতা)।
+
+<b>Synonyms:</b>
+Proficiency, Competence, Knowledge, Understanding.
+
+<b>English Example:</b> "Their lack of basic digital literacy is my greatest weapon; it only takes one curious employee to click a 'win a free iPhone' link for me to own their network." (তাদের মৌলিক ডিজিটাল সাক্ষরতার (Literacy) অভাবই আমার সবচেয়ে বড় অস্ত্র; তাদের নেটওয়ার্কের দখল নেওয়ার জন্য শুধু একজন কৌতূহলী কর্মীর একটি 'ফ্রি আইফোন জিতুন' লিঙ্কে ক্লিক করাই যথেষ্ট।)
+
+<u><b>Educational Section:</b></u> In the modern world, Literacy isn't just about reading and writing. Digital Literacy involves knowing how to use technology safely. More importantly, Cybersecurity Literacy is the ability to identify phishing emails, understand the importance of 2FA (Two-Factor Authentication), and recognize when a website looks suspicious. Companies invest millions in "Security Awareness Training" to improve the literacy of their staff and prevent human-error breaches.
 
 ---
 
@@ -1008,6 +1550,21 @@ b>Word:</b> Eventual
 
 ---
 
+<b>Word:</b> Migrate
+
+<b>Part of Speech:</b> Verb
+
+<b>Bangla Meaning:</b> স্থানান্তরিত করা বা এক সিস্টেম থেকে অন্য সিস্টেমে তথ্য সরিয়ে নেওয়া।
+
+<b>Synonyms:</b>
+Relocate, Transfer, Shift, Move.
+
+<b>English Example:</b> "I’ll wait for them to migrate their database to the new server; they always leave the backup files unprotected during the move." (আমি তাদের ডাটাবেস নতুন সার্ভারে স্থানান্তরিত (Migrate) করার জন্য অপেক্ষা করব; স্থানান্তরের সময় তারা সবসময় ব্যাকআপ ফাইলগুলো অরক্ষিত অবস্থায় ফেলে রাখে।)
+
+<u><b>Educational Section:</b></u> In IT, Migration is the process of moving data or applications from one environment to another (e.g., moving to the Cloud). From a security standpoint, migration is a "high-risk" period because temporary configurations or "lift-and-shift" methods often create security gaps that hackers exploit before the new system is fully hardened.
+
+---
+
 <b>Word:</b> Mimicked
 
 <b>Part of Speech:</b> Verb (Past Tense / Past Participle)
@@ -1033,6 +1590,34 @@ b>Word:</b> Eventual
 <b>Example:</b> "I’ve infected over five thousand IoT devices; each minion is now waiting for my command to unleash a massive traffic surge on the target's portal." (আমি পাঁচ হাজারেরও বেশি আইওটি (IoT) ডিভাইস ইনফেক্ট করেছি; প্রতিটি সহযোগী ডিভাইস (Minion) এখন আমার নির্দেশের অপেক্ষায় আছে যাতে টার্গেট পোর্টালে এক বিশাল ট্রাফিক জ্যাম তৈরি করা যায়।)
 
 <u><b>Educational Section:</b></u> In a botnet architecture, a Minion (or Bot/Zombie) is a compromised computer or device that is controlled remotely by a "Botmaster." These devices are used collectively to perform large-scale attacks, such as DDoS or mass spamming, often without the owners' knowledge.
+
+---
+
+<b>Word:</b> Moderation
+
+<b>Part of Speech:</b> Noun
+
+<b>Bangla Meaning:</b> নিয়ন্ত্রণ বা সংযম (প্রযুক্তির ক্ষেত্রে সাধারণত কন্টেন্ট বা ট্রাফিক ফিল্টার করা)
+
+<b>Synonyms:</b> Regulation, Filtering, Monitoring, Restraint.
+
+<b>English Example:</b> "Their forum moderation is a joke; I’ve bypassed their filters and planted my malicious payload right in the comments section." (তাদের ফোরামের নিয়ন্ত্রণ ব্যবস্থা (Moderation) একদম ফালতু; আমি তাদের ফিল্টারগুলোকে ফাঁকি দিয়েছি এবং কমেন্ট সেকশনেই আমার ক্ষতিকারক পেলোডটি বসিয়ে দিয়েছি।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, Moderation refers to the automated or manual oversight of user-generated content and network traffic. Lack of proper moderation can lead to vulnerabilities like Cross-Site Scripting (XSS) or SQL injection if the input isn't properly sanitized.
+
+---
+
+<b>Term:</b> Moderation Review
+
+<b>Part of Speech:</b> Noun Phrase
+
+<b>Bangla Meaning:</b> নিয়ন্ত্রণ বা পর্যালোচনা প্রক্রিয়া (সিস্টেম বা প্ল্যাটফর্মে কোনো কিছু অনুমোদনের আগে সেটি যাচাই করা)
+
+<b>Synonyms:</b> Content audit, Compliance check, Quality assurance, Security screening.
+
+<b>English Example:</b> "Their moderation review is too slow; I’ve already injected my malicious script into the pending queue, and by the time they check it, the damage will be done." (তাদের পর্যালোচনার (Moderation review) গতি খুব ধীর; আমি ইতিমধ্যে পেন্ডিং কিউতে আমার ম্যালিশিয়াস স্ক্রিপ্ট ঢুকিয়ে দিয়েছি, আর তারা যখন এটি পরীক্ষা করবে, ততক্ষণে ক্ষতি যা হওয়ার হয়ে যাবে।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, a Moderation Review is a defensive layer where content or code is inspected before being published or executed. Bypassing this review process is a primary goal for attackers using techniques like obfuscation to hide malware from automated scanners or human reviewers.
 
 ---
 
@@ -1090,6 +1675,21 @@ b>Word:</b> Eventual
 
 ---
 
+<b>Word:</b> Odin
+
+<b>Part of Speech:</b> Proper Noun
+
+<b>Bangla Meaning:</b> নর্স পুরাণের প্রধান দেবতা; জ্ঞান, যুদ্ধ ও রহস্যের দেবতা
+
+<b>Synonyms:</b> Allfather, Norse god of wisdom, Woden (Old English equivalent).
+
+<b>English Example:</b> "In the underground forum, they called him Odin because he sacrificed everything for forbidden knowledge and ruled the breach like a silent warlord."
+(আন্ডারগ্রাউন্ড ফোরামে তাকে ওডিন (Odin) বলা হতো, কারণ নিষিদ্ধ জ্ঞানের জন্য সে সবকিছু ত্যাগ করেছিল এবং নীরব যুদ্ধনেতার মতো পুরো ব্রিচ নিয়ন্ত্রণ করত।)
+
+<u><b>Educational Section:</b></u> While Odin originates from Norse mythology, the name is often adopted in cybersecurity communities as an alias, malware codename, or tool name. Attackers frequently choose mythological names to symbolize power, intelligence, or dominance. Analysts must focus on behavior and indicators rather than being influenced by dramatic naming.
+
+---
+
 <b>Word:</b> Opportunistic
 
 <b>Part of Speech:</b> Adjective
@@ -1101,6 +1701,21 @@ b>Word:</b> Eventual
 <b>English Example:</b> "I didn't target your company specifically; I just ran an opportunistic scan for unpatched RDP ports and you happened to leave the door wide open." (আমি সুনির্দিষ্টভাবে তোমার কোম্পানিকে টার্গেট করিনি; আমি শুধু আনপ্যাচড RDP পোর্টের জন্য একটি সুবিধাবাদী স্ক্যান চালিয়েছিলাম আর তোমরা ভুলবশত দরজাটা খোলাই রেখেছিলে।)
 
 <u><b>Educational Section:</b></u> In cybersecurity, an Opportunistic Attack is not targeted at a specific person or organization. Instead, the attacker looks for any system with a known vulnerability (like an old software version or weak password). It’s like a thief walking through a parking lot checking for unlocked car doors—they don't care whose car it is, they just want an easy entry.
+
+---
+
+<b>Word:</b> Overwhelmed
+
+<b>Part of Speech:</b> Adjective
+
+<b>Bangla Meaning:</b> অত্যন্ত চাপে বা অতিরিক্ত চাপের মধ্যে থাকা; সামলাতে না পেরে বিপর্যস্ত হওয়া
+
+<b>Synonyms:</b> Overloaded, Swamped, Overpowered, Burdened.
+
+<b>English Example:</b> "Their firewall was overwhelmed by the flood of malicious traffic I unleashed, and within minutes the server crashed."
+(আমি যে বিপুল পরিমাণ ক্ষতিকর ট্রাফিক ছাড়লাম, তাতে তাদের ফায়ারওয়াল সম্পূর্ণভাবে চাপে পড়ে গেল (Overwhelmed), এবং কয়েক মিনিটের মধ্যেই সার্ভার ক্র্যাশ করল।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, “overwhelmed” often describes systems that cannot handle excessive load. For example, during a Distributed Denial of Service attack, servers become overwhelmed by massive traffic requests, causing service disruption. Preventive measures include load balancing, rate limiting, and scalable cloud infrastructure.
 
 ---
 
@@ -1121,6 +1736,51 @@ b>Word:</b> Eventual
 <b>English Example (with Bangla translation):</b> "The intern's weak password paved the way for my lateral movement across the entire corporate network." (ইন্টার্নটির দুর্বল পাসওয়ার্ডটি আমার জন্য পুরো কর্পোরেট নেটওয়ার্কে অবাধে ঘুরে বেড়ানোর পথ সুগম (Paved) করে দিয়েছে।)
 
 <u><b>Educational Section:</b></u> In a security context, paved often describes how a vulnerability or human error creates an easy path for an attacker. Conversely, "The Paved Road" is a defensive concept where security teams provide developers with pre-approved, secure tools and infrastructures to ensure that the easiest way to build something is also the most secure way.
+
+---
+
+<b>Word:</b> Persist
+
+<b>Part of Speech:</b> Verb
+
+<b>Bangla Meaning:</b> স্থায়িত্ব বজায় রাখা বা টিকে থাকা (সিস্টেম রিবুট করার পরেও যখন কোনো ফাইল বা ম্যালওয়্যার ডিভাইসে থেকে যায়)
+
+<b>Synonyms:</b>
+Remain, Endure, Stay, Linger.
+
+<b>English Example:</b> "I’ve injected a custom script into the system’s boot sequence to ensure my access will persist even if the admin wipes the logs and restarts the server." (আমি সিস্টেমের বুট সিকোয়েন্সে একটি কাস্টম স্ক্রিপ্ট ইনজেক্ট করেছি যাতে অ্যাডমিন লগ মুছে ফেলে সার্ভার রিস্টার্ট দিলেও আমার অ্যাক্সেসটি স্থায়ীভাবে (Persist) থেকে যায়।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, Persistence refers to a hacker's ability to maintain access to a target system despite interruptions like restarts or credential changes. Common methods to achieve this include creating new hidden user accounts, modifying registry keys, or scheduling automated tasks that re-open backdoors.
+
+---
+
+<b>Word:</b> Persistent
+
+<b>Part of Speech:</b> Adjective
+
+<b>Bangla Meaning:</b> নাছোড়বান্দা বা স্থায়ী (যা সহজে যায় না বা বারবার বাধা দেওয়ার পরেও টিকে থাকে)
+
+<b>Synonyms:</b>
+Enduring, Constant, Tenacious, Unrelenting.
+
+<b>English Example:</b> "My malware is so persistent that even a full system restore won't kill my connection to their mainframe." (আমার ম্যালওয়্যারটি এতটাই নাছোড়বান্দা (Persistent) যে পুরো সিস্টেম রিস্টোর দিলেও মেইনফ্রেমের সাথে আমার কানেকশনটি বিচ্ছিন্ন হবে না।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, the term is most famously used in APT (Advanced Persistent Threat). It describes an attack where an intruder establishes a long-term presence on a network to mine sensitive data over months or years, stealthily staying active even after security scans or reboots.
+
+---
+
+<b>Word:</b> Phrase
+
+<b>Part of Speech:</b> Noun
+
+<b>Bangla Meaning:</b> শব্দগুচ্ছ বা বাক্যাংশ (সাইবার সিকিউরিটিতে সাধারণত 'Passphrase' বা পাসওয়ার্ডের বিকল্প হিসেবে ব্যবহৃত লম্বা শব্দগুচ্ছ)।
+
+<b>Synonyms:</b>
+Expression, Sequence, Catchphrase, String.
+
+<b>English Example:</b> "That idiot used a common movie phrase as his secret key; my dictionary attack cracked it in under thirty seconds." (ওই গাধাটা তার সিক্রেট কী হিসেবে সিনেমার একটি সাধারণ শব্দগুচ্ছ (Phrase) ব্যবহার করেছিল; আমার ডিকশনারি অ্যাটাক এটি ত্রিশ সেকেন্ডের কম সময়ে ক্র্যাক করে ফেলেছে।)
+
+<u><b>Educational Section:</b></u> In modern security, a Passphrase (a sequence of random words) is often recommended over a complex password because it is easier for humans to remember but "infeasible" for computers to brute-force. However, if an attacker knows a user's interests, they can use targeted wordlists to guess these phrases.
 
 ---
 
@@ -1208,6 +1868,52 @@ b>Word:</b> Eventual
 
 ---
 
+<b>Word:</b>
+Precautionary
+
+<b>Part of Speech:</b> Adjective
+
+<b>Bangla Meaning:</b> সতর্কতামূলক (বিপদ এড়ানোর জন্য আগে থেকে নেওয়া ব্যবস্থা)।
+
+<b>Synonyms:</b>
+Preventative, Defensive, Safeguard, Protective.
+
+<b>English Example:</b> "The sysadmin took some precautionary measures by changing the admin password, but he’s too late—I’ve already planted a persistent backdoor." (সিস্টেম অ্যাডমিন পাসওয়ার্ড পরিবর্তন করে কিছু সতর্কতামূলক (Precautionary) ব্যবস্থা নিয়েছিল, কিন্তু সে বড্ড দেরি করে ফেলেছে—আমি আগেই একটি পারসিস্টেন্ট ব্যাকডোর বসিয়ে দিয়েছি।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, Precautionary measures include activities like regular patching, hardware firewalls, and employee training. These are "Proactive" steps taken to reduce the attack surface. A "Precautionary Shutdown" might occur if a system detects suspicious activity to prevent a full-blown data breach.
+
+---
+
+<b>Word:</b> Probe
+
+<b>Part of Speech:</b> Verb / Noun
+
+<b>Bangla Meaning:</b> অনুসন্ধান করা বা খোঁজ নেওয়া; তথ্য বের করার জন্য পরীক্ষা করা
+
+<b>Synonyms:</b> Scan, Investigate, Examine, Inspect, Reconnoiter.
+
+<b>English Example:</b> "Before launching the real exploit, I quietly probed the network ports to map every exposed service."
+(আসল এক্সপ্লয়েট চালানোর আগে আমি চুপিসারে নেটওয়ার্ক পোর্টগুলো প্রোব (Probe) করে প্রতিটি খোলা সার্ভিসের মানচিত্র তৈরি করলাম।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, probing refers to the act of systematically testing a system, network, or application to gather information. This often includes port scanning, vulnerability scanning, or service enumeration. While attackers use probing for reconnaissance, defenders use controlled probes to identify weaknesses before malicious actors do.
+
+---
+
+<b>Word:</b> Probing
+
+<b>Part of Speech:</b> Verb (Present Participle) / Noun
+
+<b>Bangla Meaning:</b> অনুসন্ধান করা বা খুঁটিয়ে দেখা (সিস্টেমের কোনো দুর্বলতা বা ফাঁকফোকর আছে কি না তা পরীক্ষা করা)
+
+<b>Synonyms:</b>
+Scanning, Investigating, Scrutinizing, Reconnaissance.
+
+<b>English Example:</b> "I’ve been probing their external ports all night; I finally found a misconfigured service that’s practically begging for an exploit." (আমি সারা রাত ধরে তাদের এক্সটারনাল পোর্টগুলো খুঁটিয়ে দেখছি (Probing); শেষ পর্যন্ত আমি একটি ভুলভাবে কনফিগার করা সার্ভিস পেয়েছি যা আমাকে ভেতরে ঢোকার আমন্ত্রণ জানাচ্ছে।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, Probing is a part of the reconnaissance phase. It involves sending packets to a target system to see how it responds. By probing, an attacker can identify open ports, operating system versions, and running services, which helps them decide exactly which exploit will work against the target.
+
+---
+
 <b>Word:</b> Procrastination
 
 <b>Part of Speech:</b> Noun
@@ -1233,6 +1939,21 @@ b>Word:</b> Eventual
 <b>Example:</b> "I don’t care about the money; I’m defacing their homepage to gain prominence in the underground hacking scene and prove no one is safe." (আমি টাকার তোয়াক্কা করি না; আমি আন্ডারগ্রাউন্ড হ্যাকিং জগতে প্রাধান্য (Prominence) পাওয়ার জন্য এবং কেউ যে নিরাপদ নয় তা প্রমাণ করতে তাদের হোমপেজটি বিকৃত করছি।)
 
 <u><b>Educational Section:</b></u> In cybersecurity, Prominence often relates to the "attack surface" or the visibility of a target. High-profile organizations have more digital prominence, making them "lucrative targets" for APTs (Advanced Persistent Threats) and hacktivists. From a defensive side, reducing the prominence of sensitive internal assets—by hiding them behind VPNs or non-standard ports—is a key part of risk mitigation.
+
+---
+
+<b>Word:</b> Provisioned
+
+<b>Part of Speech:</b> Verb (Past Participle) / Adjective
+
+<b>Bangla Meaning:</b> বরাদ্দকৃত বা প্রস্তুতকৃত (প্রযুক্তিগতভাবে কোনো ইউজার বা সিস্টেমকে প্রয়োজনীয় রিসোর্স বা অ্যাক্সেস প্রদান করা)।
+
+<b>Synonyms:</b>
+Allocated, Assigned, Equipped, Set up.
+
+<b>English Example:</b> "I’ve hijacked an admin account that was newly provisioned; now I have full access to the cloud before they’ve even set up the monitoring tools." (আমি নতুনভাবে প্রস্তুতকৃত (Provisioned) একটি অ্যাডমিন অ্যাকাউন্ট হাইজ্যাক করেছি; এখন মনিটরিং টুলগুলো সেটআপ করার আগেই আমার কাছে ক্লাউডের পূর্ণ নিয়ন্ত্রণ আছে।)
+
+<u><b>Educational Section:</b></u> In IT and Cloud computing, Provisioning is the process of setting up IT infrastructure or giving users access to data and resources. In cybersecurity, "Over-provisioning" (giving too much access) is a major risk. Hackers look for poorly provisioned accounts with excessive "Privileges" to move laterally through a network.
 
 ---
 
@@ -1318,6 +2039,55 @@ b>Word:</b> Eventual
 
 ---
 
+<b>Word:</b>
+Reconnaissance (Recon)
+
+<b>Part of Speech:</b> Noun
+
+<b>Bangla Meaning:</b> অনুসন্ধান বা প্রাথমিক পর্যবেক্ষণ (মূল আক্রমণের আগে লক্ষ্যবস্তু সম্পর্কে তথ্য সংগ্রহ করা)।
+
+<b>Synonyms:</b>
+Surveillance, Scouting, Information gathering, Exploration.
+
+<b>English Example:</b> "I spent three weeks on reconnaissance, mapping their entire network and identifying every unpatched server before I sent my first exploit." (আমি তিন সপ্তাহ অনুসন্ধান বা রিকনাসেন্স (Reconnaissance) কাজে কাটিয়েছি, তাদের পুরো নেটওয়ার্ক ম্যাপ তৈরি করে এবং আমার প্রথম এক্সপ্লয়েট পাঠানোর আগে প্রতিটি আনপ্যাচড সার্ভার শনাক্ত করে নিয়েছি।)
+
+<u><b>Educational Section:</b></u> In the Cyber Kill Chain, Reconnaissance is the very first phase. It is divided into two types:
+
+Passive Recon: Gathering info without interacting with the target (e.g., searching Google, LinkedIn, or WHOIS records).
+
+Active Recon: Directly interacting with the target system to find vulnerabilities (e.g., using Nmap for port scanning or banner grabbing).
+The better the reconnaissance, the higher the chance of a successful breach because the attacker knows exactly where the "weakest link" is.
+
+---
+
+<b>Word:</b> Repository
+
+<b>Part of Speech:</b> Noun
+
+<b>Bangla Meaning:</b> ভাণ্ডার বা সংগ্রহস্থল (সাধারণত যেখানে সফটওয়্যার সোর্স কোড বা ডেটা জমা রাখা হয়)
+
+<b>Synonyms:</b> Repo, Archive, Storehouse, Database, Registry.
+
+<b>English Example:</b> "I’ve just gained write-access to their private GitHub repository; one poisoned commit is all I need to infect their entire production line." (আমি তাদের প্রাইভেট গিটহাব রিপোজিটরিতে (Repository) রাইট-অ্যাক্সেস পেয়ে গেছি; তাদের পুরো প্রোডাকশন লাইন আক্রান্ত করতে আমার শুধু একটি বিষাক্ত কমিট প্রয়োজন।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, a Repository is a central location where code is managed. Attackers target "Repo Secrets" (like API keys or passwords accidentally left in code) or perform "Supply Chain Attacks" by injecting malicious code into a trusted repository to distribute malware to all users of that software.
+
+---
+
+<b>Term:</b> Bare Repository
+
+<b>Part of Speech:</b> Noun Phrase
+
+<b>Bangla Meaning:</b> কেবল সোর্স কোড বা ডেটা সমৃদ্ধ ভাণ্ডার (যেখানে কাজ করার জন্য কোনো 'ওয়ার্কিং ডিরেক্টরি' বা ফাইল এডিট করার সুবিধা থাকে না)
+
+<b>Synonyms:</b> Working-tree-less repo, Shared repository, Centralized Git store.
+
+<b>English Example:</b> "I’ve set up a bare repository on the server so that developers can push their code without me having to worry about someone manually editing files on the production machine." (আমি সার্ভারে একটি বেয়ার রিপোজিটরি (Bare repository) সেট আপ করেছি যাতে ডেভেলপাররা তাদের কোড পুশ করতে পারে, আর আমাকে প্রোডাকশন মেশিনে কেউ ম্যানুয়ালি ফাইল এডিট করবে এমন চিন্তা করতে না হয়।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, a Bare Repository is often the central "source of truth" in a development pipeline. Unlike a standard repo, it lacks a working tree, making it harder for an attacker to directly modify files if they gain shell access. However, if an attacker gains "Push" access to a bare repo, they can inject malicious code (Project Poisoning) that will be distributed to every developer who pulls from it.
+
+---
+
 <b>Word:</b> Roll (Slang/Informal)
 
 <b>Part of Speech:</b> Verb
@@ -1385,6 +2155,20 @@ b>Word:</b> Eventual
 <b>English Example:</b> "I’ve successfully injected a rootkit into their OS kernel; even if they reinstall the apps, I'll still be ghosting their system from the shadows." (আমি তাদের ওএস কার্নেলে সফলভাবে একটি রুটকিট ইনজেক্ট করেছি; তারা যদি অ্যাপগুলো রি-ইনস্টলও করে, তবুও আমি আড়ালে থেকে তাদের সিস্টেমের নিয়ন্ত্রণ ধরে রাখব।)
 
 <u><b>Educational Section:</b></u> A Rootkit is a collection of software tools that enables an unauthorized user to gain control of a computer system without being detected. Because it often resides at the kernel level (the core of the OS), it can hide its files, processes, and network connections from standard security tools. Removing a rootkit is extremely difficult and often requires a complete hardware wipe or specialized low-level scanning.
+
+---
+
+<b>Word:</b> Rigid
+
+<b>Part of Speech:</b> Adjective
+
+<b>Bangla Meaning:</b> কঠোর বা অনমনীয় (প্রযুক্তির ক্ষেত্রে যা সহজে পরিবর্তন করা যায় না বা যা খুব বেশি ধরাবাঁধা নিয়মের মধ্যে চলে)
+
+<b>Synonyms:</b> Stiff, Inflexible, Unyielding, Strict.
+
+<b>English Example:</b> "Their security policy is too rigid, making it easy for me to predict exactly how their firewall will react to my spoofed packets." (তাদের নিরাপত্তা নীতিগুলো অত্যন্ত কঠোর (Rigid), যার ফলে আমার স্পুফড প্যাকেটগুলোর প্রতি তাদের ফায়ারওয়াল ঠিক কীভাবে প্রতিক্রিয়া দেখাবে তা আগেভাগেই আন্দাজ করা আমার জন্য সহজ হয়ে গেছে।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, a Rigid System is one that lacks the flexibility to adapt to new or evolving threats. While strict rules are often good, "Rigid Access Controls" can sometimes lead to shadow IT or become predictable targets for attackers who study and bypass fixed logic patterns.
 
 ---
 
@@ -1464,6 +2248,21 @@ b>Word:</b> Eventual
 
 ---
 
+<b>Word:</b> Slang
+
+<b>Part of Speech:</b> Noun
+
+<b>Bangla Meaning:</b> অপশব্দ বা বিশেষ পরিভাষা (সাধারণত নির্দিষ্ট কোনো গ্রুপ বা সাব-কালচারের মধ্যে ব্যবহৃত অনানুষ্ঠানিক ভাষা)।
+
+<b>Synonyms:</b>
+Jargon, Argot, Cant, Lingo.
+
+<b>English Example:</b> "If you don't learn the underground slang used on the dark web forums, the other hackers will sniff you out as a fed in seconds." (তুমি যদি ডার্ক ওয়েব ফোরামের সেই বিশেষ পরিভাষা বা অপশব্দগুলো (Slang) না শেখো, তবে অন্য হ্যাকাররা কয়েক সেকেন্ডের মধ্যেই বুঝে যাবে যে তুমি একজন গোয়েন্দা।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, Slang (or Jargon) is crucial for communication within hacker communities. Terms like "Pwned" (compromised), "Skid" (script kiddie), or "Dox" (leaking personal info) are part of the hacker subculture. Understanding this lingo is vital for Threat Intelligence analysts who monitor underground forums to identify emerging threats.
+
+---
+
 <b>Word:</b> Sophistication
 
 <b>Part of Speech:</b> Noun
@@ -1475,6 +2274,20 @@ b>Word:</b> Eventual
 <b>English Example (with Bangla translation):</b> "The sheer sophistication of this rootkit suggests it wasn't made by a script kiddie; this is state-sponsored craftsmanship designed to stay hidden for years." (এই রুটকিটটির চরম জটিলতা বা উন্নত ধরণ (Sophistication) দেখে বোঝা যাচ্ছে এটি কোনো সাধারণ হ্যাকারের কাজ নয়; এটি রাষ্ট্রীয় মদদপুষ্ট কারিগরদের কাজ যা বছরের পর বছর লুকিয়ে থাকার জন্য তৈরি করা হয়েছে।)
 
 <u><b>Educational Section:</b></u> In cybersecurity, Sophistication refers to the level of technical skill and resources behind an attack. A "High-Sophistication" attack (like an APT) often involves custom-built malware, zero-day exploits, and multi-stage evasion techniques. Security analysts measure sophistication to determine if they are facing a random attacker or a highly organized group.
+
+---
+
+<b>Word:</b> Spam
+
+<b>Part of Speech:</b> Noun / Verb
+
+<b>Bangla Meaning:</b> অবাঞ্ছিত বা বিরক্তিকর বার্তা (সাধারণত একসাথে অনেককে পাঠানো ইমেইল বা মেসেজ)
+
+<b>Synonyms:</b> Junk mail, Unsolicited bulk email (UBE), Mass mailing, Trash.
+
+<b>English Example:</b> "I’m flooding their inbox with a million spam emails; while they’re busy cleaning the junk, my real malware link is sitting right at the top." (আমি তাদের ইনবক্স লক্ষ লক্ষ স্প্যাম (Spam) ইমেইল দিয়ে ভাসিয়ে দিচ্ছি; যখন তারা আবর্জনা পরিষ্কারে ব্যস্ত থাকবে, আমার আসল ম্যালওয়্যার লিঙ্কটি ঠিক উপরেই বসে থাকবে।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, Spam is more than just an annoyance; it is a primary delivery vector for Phishing and Malware. "Spamming" is used to conduct wide-scale social engineering attacks, where a single successful click out of thousands of sent messages can lead to a full network compromise.
 
 ---
 
@@ -1545,6 +2358,26 @@ b>Word:</b> Eventual
 <b>Example:</b> "I'm spoofing the company’s internal IP address so the server trusts my connection and lets me bypass the firewall without a password." (আমি কোম্পানির ইন্টারনাল আইপি অ্যাড্রেসটি জাল (Spoofing) করছি যাতে সার্ভার আমার কানেকশনকে বিশ্বাস করে এবং আমাকে পাসওয়ার্ড ছাড়াই ফায়ারওয়াল পার হতে দেয়।)
 
 <u><b>Educational Section:</b></u> Spoofing is a technique where an attacker disguises a communication from an unknown source as being from a known, trusted source. This can be applied to IP addresses, email headers, GPS signals, or Caller IDs. The goal is to gain access to a system, steal data, or spread malware by bypassing filters that trust the "spoofed" identity.
+
+---
+
+<b>Word:</b> Stacks
+
+<b>Part of Speech:</b> Noun (Plural)
+
+<b>Bangla Meaning:</b> স্তূপ বা স্তরীভূত কাঠামো (প্রযুক্তিতে এটি সাধারণত 'Data Structure' বা 'Technology Stack'-কে বোঝায়)।
+
+<b>Synonyms:</b>
+Piles, Layers, Heaps, Assemblages.
+
+<b>English Example:</b> "I found a vulnerability in their web stack; the outdated version of their database was the perfect entry point to overflow their memory stacks." (আমি তাদের ওয়েব স্ট্যাকে (Stacks) একটি দুর্বলতা খুঁজে পেয়েছি; তাদের ডাটাবেসের পুরনো ভার্সনটি মেমরি স্ট্যাক ওভারফ্লো করার জন্য একদম উপযুক্ত এন্ট্রি পয়েন্ট ছিল।)
+
+<u><b>Educational Section:</b></u> Stacks in Cybersecurity
+In the InfoSec world, the term Stacks usually refers to two critical concepts:
+
+Technology Stack (Tech Stack): The combination of software products and programming languages used to create a web or mobile application (e.g., LAMP stack: Linux, Apache, MySQL, PHP). Attackers perform "Reconnaissance" to map out a company's stack and find weak layers.
+
+Memory Stack: A specialized data structure that stores temporary variables created by functions. A Stack Overflow occurs when a program writes more data to the stack than it can hold, often allowing a hacker to execute malicious code (Remote Code Execution).
 
 ---
 
@@ -1670,6 +2503,66 @@ b>Word:</b> Eventual
 
 ---
 
+<b>Word:</b> Tapping
+
+<b>Part of Speech:</b> Noun / Verb
+
+<b>Bangla Meaning:</b> আড়ি পাতা বা সংযোগ বিচ্ছিন্ন না করে তথ্য চুরি করা (সাধারণত নেটওয়ার্ক বা ফোন লাইনের ভেতর দিয়ে যাওয়া সিগন্যাল ধরা)
+
+<b>Synonyms:</b> Eavesdropping, Interception, Wiretapping, Sniffing.
+
+<b>English Example:</b> "I’ve been tapping into their fiber optic lines for days; every bit of unencrypted traffic they send is now flowing directly into my server." (আমি কয়েকদিন ধরে তাদের ফাইবার অপটিক লাইনে আড়ি পাতছি (Tapping); তাদের পাঠানো প্রতিটি আনএনক্রিপ্টেড ট্রাফিক এখন সরাসরি আমার সার্ভারে চলে আসছে।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, Tapping refers to the unauthorized monitoring of communications. "Network Tapping" can be done physically (using a hardware TAP) or logically (using packet sniffers) to capture data packets as they travel across a network without the sender or receiver noticing the interference. This is often used in Man-in-the-Middle (MitM) attacks to steal sensitive information or inject malicious data.
+
+---
+
+<b>Word:</b> Term
+
+<b>Part of Speech:</b> Noun
+
+<b>Bangla Meaning:</b> শব্দ বা পরিভাষা (অথবা মেয়াদের সময়সীমা)।
+
+<b>Synonyms:</b>
+Expression, Designation, Period, Duration.
+
+<b>English Example:</b> "I’m scanning their legal contracts to find the exact term of their security license; once it expires, I’ll strike when their guard is down." (আমি তাদের আইনি চুক্তিগুলো স্ক্যান করছি তাদের সিকিউরিটি লাইসেন্সের সঠিক সময়সীমা (Term) খুঁজে পেতে; মেয়াদ শেষ হওয়া মাত্রই আমি আক্রমণ করব যখন তাদের পাহারা শিথিল থাকবে।)
+
+<u><b>Educational Section:</b></u> In a technical context, a Term can refer to a specific piece of jargon used in documentation. In security management, it often refers to a "Service Term" or "Session Term," which defines how long a user is allowed to stay logged in or how long a security certificate remains valid before it must be renewed.
+
+---
+
+<b>Word:</b> Threshold
+
+<b>Part of Speech:</b> Noun
+
+<b>Bangla Meaning:</b> প্রারম্ভিক সীমা বা নির্দিষ্ট মাত্রা (যে পয়েন্ট বা লেভেলের পর কোনো পরিবর্তন বা প্রতিক্রিয়া ঘটে)।
+
+<b>Synonyms:</b>
+Limit, Boundary, Brink, Cut-off point.
+
+<b>English Example:</b> "I’ve set the login attempts just below their lockout threshold; three failed tries and I’m out, then I’ll wait an hour to try again." (আমি তাদের লকআউট করার নির্দিষ্ট সীমার (Threshold) ঠিক নিচেই লগইন প্রচেষ্টার সংখ্যা রেখেছি; তিনবার ব্যর্থ চেষ্টার পর আমি থেমে যাব, তারপর আবার এক ঘণ্টা পর চেষ্টা করব।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, a Threshold is a predefined limit used by monitoring tools (like SIEM or IDS). For example, an "Alert Threshold" might be set to trigger a notification if a server's CPU usage stays above 90% for more than 5 minutes, or if a user fails to log in 5 times in a row. Hackers often perform "Low and Slow" attacks to stay just below these thresholds and avoid detection.
+
+--- 
+
+<b>Word:</b>
+Thriller
+
+<b>Part of Speech:</b> Noun
+
+<b>Bangla Meaning:</b> রোমাঞ্চকর কাহিনী বা থ্রিলার (এমন কোনো গল্প বা সিনেমা যা উত্তেজনা, ভয় এবং সাসপেন্সে ভরপুর)।
+
+<b>Synonyms:</b>
+Suspense, Mystery, Action-packed story, Chiller.
+
+<b>English Example:</b> "Watching the security team scramble to stop my ransomware was like being in a psychological thriller where I already knew the ending." (সিকিউরিটি টিমকে আমার র‍্যানসমওয়্যার থামানোর জন্য হন্যে হয়ে ছুটতে দেখাটা ছিল একটি সাইকোলজিক্যাল থ্রিলার (Thriller) দেখার মতো, যার শেষটা আমি আগেই জানতাম।)
+
+<u><b>Educational Section:</b></u> In the world of InfoSec, a "Cyber Thriller" is a genre of fiction (books or movies like Mr. Robot) that dramatizes hacking. However, real-life cyber warfare can be just as intense. A "Stuxnet-style" operation—where code physically destroys machinery—often feels like a high-stakes thriller involving international espionage and invisible digital weapons.
+
+---
+
 <b>Word:</b> Trojan
 
 <b>Part of Speech:</b> Noun
@@ -1701,6 +2594,21 @@ b>Word:</b> Eventual
 <a id="U"></a>
 
 ## U)
+
+---
+
+<b>Word:</b> Underlying
+
+<b>Part of Speech:</b> Adjective
+
+<b>Bangla Meaning:</b> অন্তর্নিহিত; ভেতরে লুকানো বা মূল ভিত্তিগত
+
+<b>Synonyms:</b> Fundamental, Root, Hidden, Core, Basic.
+
+<b>English Example:</b> "They patched the visible bug, but the underlying vulnerability in the authentication logic was still waiting for me to exploit."
+(তারা দৃশ্যমান বাগটি ঠিক করেছে, কিন্তু অথেন্টিকেশন লজিকের অন্তর্নিহিত দুর্বলতাটি (Underlying vulnerability) এখনো রয়ে গেছে, যেটা কাজে লাগানোর অপেক্ষায় ছিলাম।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, “underlying” refers to the root cause beneath a visible issue. A system may show symptoms like crashes or data leaks, but the underlying flaw could be poor input validation, insecure design, or flawed access control. Effective security focuses on fixing the underlying weakness, not just the surface-level problem.
 
 ---
 
@@ -1780,6 +2688,21 @@ b>Word:</b> Eventual
 
 ---
 
+<b>Word:</b> VoIP (Voice over Internet Protocol)
+
+<b>Part of Speech:</b> Noun
+
+<b>Bangla Meaning:</b> ইন্টারনেটের মাধ্যমে কথা বলার প্রযুক্তি (যেমন: হোয়াটসঅ্যাপ কল বা আইপি ফোন)।
+
+<b>Synonyms:</b>
+IP Telephony, Internet calling, Broadband phone.
+
+<b>English Example:</b> "I’m intercepting their VoIP traffic; now I can listen to every private boardroom conversation in real-time without planting a single bug." (আমি তাদের ভিওআইপি (VoIP) ট্রাফিক ইন্টারসেপ্ট করছি; এখন কোনো ফিজিক্যাল ডিভাইস না বসিয়েই আমি তাদের বোর্ডরুমের সব গোপন আলাপ রিয়েল-টাইমে শুনতে পাচ্ছি।)
+
+<u><b>Educational Section:</b></u> VoIP transforms voice signals into digital data packets sent over the internet. In cybersecurity, it is vulnerable to "Vishing" (Voice Phishing) and "Eavesdropping" if the traffic is not encrypted. Attackers can also use "SIP Flooding" to crash a company's phone system or hijack the VoIP server to make free international calls.
+
+---
+
 <a id="W"></a>
 
 ## W)
@@ -1839,6 +2762,21 @@ b>Word:</b> Eventual
 <a id="Y"></a>
 
 ## Y)
+
+---
+
+<b>Word:</b> Yellow Journalism
+
+<b>Part of Speech:</b> Noun
+
+<b>Bangla Meaning:</b> পীত সাংবাদিকতা বা হলুদ সাংবাদিকতা (ভিত্তিহীন, অতিরঞ্জিত বা চাঞ্চল্যকর তথ্য দিয়ে মানুষকে বিভ্রান্ত করার পদ্ধতি)।
+
+<b>Synonyms:</b>
+Sensationalism, Tabloidism, Fake news, Clickbait.
+
+<b>English Example:</b> "I’ll use yellow journalism to spread a fake data breach rumor; while their IT team is busy panicking over the news, I’ll slip into their real vault unnoticed." (আমি একটি ভুয়া ডাটা চুরির গুজব ছড়াতে হলুদ সাংবাদিকতা (Yellow Journalism) ব্যবহার করব; যখন তাদের আইটি টিম ওই সংবাদ নিয়ে আতঙ্কে ব্যস্ত থাকবে, আমি অলক্ষ্যে তাদের আসল ভল্টে ঢুকে পড়ব।)
+
+<u><b>Educational Section:</b></u> In the digital age, Yellow Journalism is a core component of Social Engineering and Disinformation campaigns. Hackers use sensationalized "fake news" as a Lure to drive traffic to malicious sites or to create chaos (smoke screens), making it easier to carry out technical attacks while the target's attention is diverted elsewhere.
 
 ---
 
