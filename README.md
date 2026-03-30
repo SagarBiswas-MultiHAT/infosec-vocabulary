@@ -11,7 +11,31 @@
 
 </div>
 
-### CheckList
+## About
+
+This repository is a living A-Z vocabulary notebook focused on cybersecurity and general English. It’s written in English with Bangla meanings to support bilingual learning.
+
+Each entry includes:
+- Part of speech
+- Bangla meaning
+- Synonyms
+- Example sentence (English + Bangla)
+- A short educational note (security context)
+
+## How to use
+
+- Jump via the A-Z index below, or use search (`Ctrl+F`).
+- The GitHub Pages version lives in `docs/index.md`.
+
+## Contributing
+
+If you add or edit entries, please keep them:
+- Clear and grammatically correct
+- Relevant to real-life security work (SOC, incident response, secure engineering)
+- Not instructional for wrongdoing (avoid step-by-step attack guidance)
+- Consistent with the existing format
+
+### Index (A-Z)
 
 [A](#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I) [J](#J) [K](#K) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [Q](#Q) [R](#R) [S](#S) [T](#T) [U](#U) [V](#V) [W](#W) [X](#X) [Y](#Y) [Z](#Z)
 
@@ -382,7 +406,7 @@ Bugbear, Specter, Terror, Nightmare.
 
 <b>English Example (with Bangla translation):</b> "I’ve embedded a malicious macro inside this fake corporate benefits brochure; one click to 'Enable Content' and I have a shell on their system." (আমি এই ভুয়া কর্পোরেট বেনিফিট প্রচারপত্রের (Brochure) ভেতরে একটি ম্যালিশিয়াস ম্যাক্রো ঢুকিয়ে দিয়েছি; 'এনাবল কন্টেন্ট'-এ একটি ক্লিক করলেই তাদের সিস্টেমে আমার দখল চলে আসবে।)
 
-<u><b>Educational Section:</b></u> In a hacking context, a Brochure is often used as a "lure" in a Phishing or Spear-Phishing attack. Attackers send PDF or Word documents disguised as informative brochures (e.g., "Company Policy" or "Product Catalog") to trick users into downloading them. Once opened, these files execute hidden scripts to infect the victim's computer.chure
+<u><b>Educational Section:</b></u> In a hacking context, a Brochure is often used as a "lure" in a Phishing or Spear-Phishing attack. Attackers send PDF or Word documents disguised as informative brochures (e.g., "Company Policy" or "Product Catalog") to trick users into downloading them. Once opened, these files execute hidden scripts to infect the victim's computer.
 
 ---
 
@@ -2737,25 +2761,13 @@ IP Telephony, Internet calling, Broadband phone.
 
 ---
 
-<a id="Z"></a>
-
-<b>Word:</b> Zero-day Vulnerability
-
-<b>Part of Speech:</b> Noun
-
-<b>Bangla Meaning:</b> সফটওয়্যার বা সিস্টেমের এমন একটি নিরাপত্তা ত্রুটি যা নির্মাতা বা সাধারণ মানুষ এখনো জানে না (তাই এটি সংশোধনের জন্য কোনো সময় বা 'জিরো ডে' পাওয়া যায়নি)।
-
-<b>Synonyms:</b> Zero-day exploit, 0-day, Unknown flaw, Unpatched vulnerability.
-
-<b>English Example (with Bangla translation):</b> "I’ve found a zero-day vulnerability in the latest kernel update; I can slip into any server unnoticed before the devs even realize the hole exists." (আমি সর্বশেষ কার্নেল আপডেটে একটি জিরো-ডে ভালনারেবিলিটি খুঁজে পেয়েছি; ডেভেলপাররা এই ছিদ্রটির অস্তিত্ব টের পাওয়ার আগেই আমি অলক্ষ্যে যেকোনো সার্ভারে ঢুকে পড়তে পারব।)
-
-<u><b>Educational Section:</b></u> A Zero-day Vulnerability is a software flaw that is unknown to the vendor. The term "zero-day" refers to the fact that the developer has had zero days to fix it because they aren't aware of it yet. Hackers exploit these flaws to launch attacks because no patches or defenses exist, making them extremely valuable on the dark web.
-
----
-
 <a id="X"></a>
 
 ## X)
+
+---
+
+_No entries yet._
 
 ---
 
@@ -2783,5 +2795,19 @@ Sensationalism, Tabloidism, Fake news, Clickbait.
 <a id="Z"></a>
 
 ## Z)
+
+---
+
+<b>Word:</b> Zero-day Vulnerability
+
+<b>Part of Speech:</b> Noun
+
+<b>Bangla Meaning:</b> সফটওয়্যার বা সিস্টেমের এমন একটি নিরাপত্তা ত্রুটি যা নির্মাতা বা সাধারণ মানুষ এখনো জানে না (তাই এটি সংশোধনের জন্য কোনো সময় বা 'জিরো ডে' পাওয়া যায়নি)।
+
+<b>Synonyms:</b> Zero-day exploit, 0-day, Unknown flaw, Unpatched vulnerability.
+
+<b>English Example (with Bangla translation):</b> "I’ve found a zero-day vulnerability in the latest kernel update; I can slip into any server unnoticed before the devs even realize the hole exists." (আমি সর্বশেষ কার্নেল আপডেটে একটি জিরো-ডে ভালনারেবিলিটি খুঁজে পেয়েছি; ডেভেলপাররা এই ছিদ্রটির অস্তিত্ব টের পাওয়ার আগেই আমি অলক্ষ্যে যেকোনো সার্ভারে ঢুকে পড়তে পারব।)
+
+<u><b>Educational Section:</b></u> A Zero-day Vulnerability is a software flaw that is unknown to the vendor. The term "zero-day" refers to the fact that the developer has had zero days to fix it because they aren't aware of it yet. Hackers exploit these flaws to launch attacks because no patches or defenses exist, making them extremely valuable on the dark web.
 
 ---
