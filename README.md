@@ -16,6 +16,7 @@
 This repository is a living A-Z vocabulary notebook focused on cybersecurity and general English. It’s written in English with Bangla meanings to support bilingual learning.
 
 Each entry includes:
+
 - Part of speech
 - Bangla meaning
 - Synonyms
@@ -30,6 +31,7 @@ Each entry includes:
 ## Contributing
 
 If you add or edit entries, please keep them:
+
 - Clear and grammatically correct
 - Relevant to real-life security work (SOC, incident response, secure engineering)
 - Not instructional for wrongdoing (avoid step-by-step attack guidance)
@@ -72,6 +74,34 @@ If you add or edit entries, please keep them:
 <b>English Example:</b> "I’ve been letting the keylogger run for weeks to accumulate a massive stash of bank logins before I start the wire transfers." (আমি কয়েক সপ্তাহ ধরে কিলগারটি চলতে দিয়েছি যাতে ওয়্যার ট্রান্সফার শুরু করার আগে ব্যাংকের লগইন তথ্যের একটি বিশাল ভাণ্ডার জমা (Accumulate) করতে পারি।)
 
 <u><b>Educational Section:</b></u> In cybersecurity, "accumulate" often refers to the data collection phase of an attack. Hackers accumulate information—such as network logs, user behaviors, or credentials—over time to ensure that when they finally strike, they have enough data to bypass security or maximize the impact of the breach.
+
+---
+
+<b>Word:</b> Acronym
+
+<b>Part of Speech:</b> Noun
+
+<b>Bangla Meaning:</b> সংক্ষিপ্ত রূপ (একাধিক শব্দের প্রথম অক্ষর বা অংশ নিয়ে গঠিত এমন শব্দ, যা একটি শব্দের মতো উচ্চারণ করা যায়)
+
+<b>Synonyms:</b> Abbreviation (related), Initialism (related), Short form, Shortened name.
+
+<b>English Example:</b> "The victim ignored the file because they didn't recognize the acronym C2, while my malware quietly connected to its command server." (ভিকটিম ফাইলটি উপেক্ষা করেছিল, কারণ সে C2 সংক্ষিপ্ত রূপটির (Acronym) অর্থ জানত না; এদিকে আমার ম্যালওয়্যার নীরবে তার কমান্ড সার্ভারের সাথে সংযুক্ত হয়ে গেল।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, acronyms are extremely common. Examples include VPN (Virtual Private Network), SIEM (Security Information and Event Management), MITM (Man-in-the-Middle), and SOC (Security Operations Center). Learning these acronyms makes security documentation and technical discussions much easier to understand.
+
+---
+
+<b>Word:</b> Adhere
+
+<b>Part of Speech:</b> Verb
+
+<b>Bangla Meaning:</b> মেনে চলা; অনুসরণ করা; পালন করা
+
+<b>Synonyms:</b> Comply with, Follow, Observe, Conform to, Abide by.
+
+<b>English Example:</b> "The company failed to adhere to basic security policies, so slipping my phishing email into their inboxes was embarrassingly easy." (কোম্পানিটি মৌলিক নিরাপত্তা নীতিমালা মেনে চলতে ব্যর্থ হয়েছিল, তাই আমার ফিশিং ইমেইল তাদের ইনবক্সে পৌঁছে দেওয়া আশ্চর্যজনকভাবে সহজ হয়ে গিয়েছিল।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, adhere usually means following security policies, standards, or best practices. Organizations that adhere to secure coding guidelines, password policies, and compliance requirements significantly reduce the risk of cyberattacks.
 
 ---
 
@@ -444,6 +474,20 @@ Bugbear, Specter, Terror, Nightmare.
 
 ---
 
+<b>Word:</b> Capstone
+
+<b>Part of Speech:</b> Noun
+
+<b>Bangla Meaning:</b> সমাপনী প্রকল্প; চূড়ান্ত প্রকল্প; সমাপনী কাজ (কোনো কোর্স বা ডিগ্রির শেষ এবং সবচেয়ে গুরুত্বপূর্ণ প্রকল্প)
+
+<b>Synonyms:</b> Final project, Culminating project, Graduation project, Final assignment.
+
+<b>English Example:</b> "For my capstone project, I secretly built a fake phishing simulator to test whether the security team could detect it." (আমার সমাপনী প্রকল্পের (Capstone Project) জন্য আমি গোপনে একটি নকল ফিশিং সিমুলেটর তৈরি করেছিলাম, যাতে দেখা যায় নিরাপত্তা দল সেটি শনাক্ত করতে পারে কি না।)
+
+<u><b>Educational Section:</b></u> A capstone is the final and most comprehensive project in an academic program. In cybersecurity or computer science, a capstone project often involves designing and building a real-world solution—such as a secure web application, intrusion detection system, digital forensics tool, or vulnerability assessment platform—to demonstrate the skills learned throughout the course.
+
+---
+
 <b>Word:</b> Cascade
 
 <b>Part of Speech:</b> Verb / Noun
@@ -484,6 +528,20 @@ Simultaneity, Parallelism, Coexistence, Synchronicity.
 <b>English Example:</b> "I’m hammering their API with a concurrency attack to trigger a race condition; if I hit it right, I’ll double-spend their tokens before the database updates." (আমি তাদের এপিআই-তে একটি কনকারেন্সি অ্যাটাক চালাচ্ছি যাতে একটি রেস কন্ডিশন তৈরি হয়; ঠিকঠাক আঘাত করতে পারলে ডাটাবেস আপডেট হওয়ার আগেই আমি তাদের টোকেনগুলো দুইবার খরচ করে ফেলব।)
 
 <u><b>Educational Section:</b></u> In cybersecurity, Concurrency refers to how a system handles multiple tasks at the same time. Attackers exploit poor concurrency management through "Race Conditions." By sending multiple requests simultaneously, they hope to bypass security checks that occur in the split second before the system records the first action.
+
+---
+
+<b>Word:</b> Constraints
+
+<b>Part of Speech:</b> Noun (Plural)
+
+<b>Bangla Meaning:</b> সীমাবদ্ধতা; বাধা; শর্তজনিত সীমা
+
+<b>Synonyms:</b> Limitations, Restrictions, Boundaries, Conditions, Constraints.
+
+<b>English Example:</b> "The outdated firewall had so many configuration constraints that I easily found a path around its weak defenses." (পুরোনো ফায়ারওয়ালটির কনফিগারেশনে এত সীমাবদ্ধতা ছিল যে, আমি সহজেই এর দুর্বল প্রতিরক্ষার পাশ কাটিয়ে যাওয়ার একটি পথ খুঁজে পেলাম।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, constraints refer to the limitations or conditions that affect how a system is designed, secured, or operated. Examples include hardware limitations, budget constraints, legal requirements, and performance constraints, all of which influence security decisions.
 
 ---
 
@@ -679,6 +737,34 @@ Devastating, Ruinous, Catastrophic, Lethal.
 
 ---
 
+<b>Word:</b> Disguised
+
+<b>Part of Speech:</b> Verb (Past Tense / Past Participle) / Adjective
+
+<b>Bangla Meaning:</b> ছদ্মবেশ ধারণ করা বা কোনো কিছুকে আড়াল করার জন্য অন্য রূপ দেওয়া।
+
+<b>Synonyms:</b> Concealed, Masked, Hidden, Camouflaged.
+
+<b>Example:</b> "The malware was disguised as a simple PDF invoice, but once opened, it began encrypting every file on the hard drive." (ম্যালওয়্যারটি একটি সাধারণ পিডিএফ (PDF) ইনভয়েসের ছদ্মবেশ ধারণ (Disguised) করেছিল, কিন্তু খোলার সাথে সাথেই এটি হার্ড ড্রাইভের প্রতিটি ফাইল এনক্রিপ্ট করতে শুরু করে।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, disguising is the core concept behind a Trojan Horse. Just like the Greek myth, a Trojan is a malicious program that is disguised as legitimate software (like a free game or a system utility). Another common method is File Extension Disguise, where a file named report.pdf.exe appears to be a document but is actually an executable virus.
+
+---
+
+<b>Word:</b> Dissertation
+
+<b>Part of Speech:</b> Noun
+
+<b>Bangla Meaning:</b> অভিসন্দর্ভ; গবেষণাপত্র (বিশেষ করে পিএইচডি ডিগ্রির জন্য জমা দেওয়া গবেষণাভিত্তিক প্রবন্ধ)
+
+<b>Synonyms:</b> Thesis, Research paper, Academic paper, Scholarly work, Research study.
+
+<b>English Example:</b> "My fake cybersecurity dissertation contained hidden malware links, hoping a careless reviewer would open them." (আমার ভুয়া সাইবার নিরাপত্তা গবেষণাপত্রে (Dissertation) লুকানো ম্যালওয়্যার লিঙ্ক ছিল, আশা করেছিলাম কোনো অসতর্ক পর্যালোচক সেগুলো খুলবে।)
+
+<u><b>Educational Section:</b></u> A dissertation is a substantial research document, typically required for a PhD (Doctoral) degree. In cybersecurity, dissertations often explore advanced topics such as malware analysis, cryptography, digital forensics, AI security, vulnerability research, or privacy-enhancing technologies.
+
+---
+
 <b>Word:</b> Distinction
 
 <b>Part of Speech:</b> Noun
@@ -721,17 +807,17 @@ Devastating, Ruinous, Catastrophic, Lethal.
 
 ---
 
-<b>Word:</b> Disguised
+<b>Word:</b> Doctoral
 
-<b>Part of Speech:</b> Verb (Past Tense / Past Participle) / Adjective
+<b>Part of Speech:</b> Adjective
 
-<b>Bangla Meaning:</b> ছদ্মবেশ ধারণ করা বা কোনো কিছুকে আড়াল করার জন্য অন্য রূপ দেওয়া।
+<b>Bangla Meaning:</b> ডক্টরেট-সংক্রান্ত; পিএইচডি-স্তরের
 
-<b>Synonyms:</b> Concealed, Masked, Hidden, Camouflaged.
+<b>Synonyms:</b> PhD-level, Doctorate-related, Postgraduate, Research-level.
 
-<b>Example:</b> "The malware was disguised as a simple PDF invoice, but once opened, it began encrypting every file on the hard drive." (ম্যালওয়্যারটি একটি সাধারণ পিডিএফ (PDF) ইনভয়েসের ছদ্মবেশ ধারণ (Disguised) করেছিল, কিন্তু খোলার সাথে সাথেই এটি হার্ড ড্রাইভের প্রতিটি ফাইল এনক্রিপ্ট করতে শুরু করে।)
+<b>English Example:</b> "Even the doctoral research team's security analysis couldn't immediately spot the hidden backdoor in my malware sample." (এমনকি পিএইচডি-স্তরের গবেষণা দলের নিরাপত্তা বিশ্লেষণও আমার ম্যালওয়্যার নমুনায় লুকানো ব্যাকডোরটি সঙ্গে সঙ্গে শনাক্ত করতে পারেনি।)
 
-<u><b>Educational Section:</b></u> In cybersecurity, disguising is the core concept behind a Trojan Horse. Just like the Greek myth, a Trojan is a malicious program that is disguised as legitimate software (like a free game or a system utility). Another common method is File Extension Disguise, where a file named report.pdf.exe appears to be a document but is actually an executable virus.
+<u><b>Educational Section:</b></u> In cybersecurity, doctoral usually refers to PhD-level education or research. Doctoral researchers often work on advanced topics such as cryptography, malware analysis, artificial intelligence for security, formal verification, and privacy-preserving technologies.
 
 ---
 
@@ -823,15 +909,15 @@ In cybersecurity, an Ecosystem refers to the complex web of interconnected hardw
 
 <b>Word:</b> Encompasses
 
-<b>Part of Speech:</b> Verb (Third-person singular present)
+<b>Part of Speech:</b> Verb (Third-person singular of <i>encompass</i>)
 
-<b>Bangla Meaning:</b> অন্তর্ভুক্ত করা বা পরিবেষ্টিত করা (অনেকগুলো বিষয়কে একসাথে একটি গণ্ডির মধ্যে আনা)
+<b>Bangla Meaning:</b> অন্তর্ভুক্ত করে; অন্তর্ভুক্ত করে সবকিছু; বিস্তৃতভাবে ধারণ করে
 
-<b>Synonyms:</b> Includes, Covers, Incorporates, Embraces, Surrounds.
+<b>Synonyms:</b> Includes, Covers, Contains, Comprises, Incorporates.
 
-<b>English Example:</b> "My full-scale attack plan encompasses everything from social engineering the receptionist to exploiting their unpatched VPN server." (আমার পূর্ণাঙ্গ আক্রমণ পরিকল্পনাটি রিসেপশনিস্টের ওপর সোশ্যাল ইঞ্জিনিয়ারিং থেকে শুরু করে তাদের আনপ্যাচড ভিপিএন সার্ভার এক্সপ্লয়েট করা পর্যন্ত সবকিছুকেই অন্তর্ভুক্ত (Encompasses) করে।)
+<b>English Example:</b> "My malware campaign encompasses thousands of infected devices, giving me access to a massive botnet." (আমার ম্যালওয়্যার ক্যাম্পেইনে হাজার হাজার আক্রান্ত ডিভাইস অন্তর্ভুক্ত রয়েছে, যা আমাকে একটি বিশাল বটনেটে প্রবেশাধিকার দিয়েছে।)
 
-<u><b>Educational Section:</b></u> In cybersecurity, a comprehensive Security Framework encompasses various domains like Network Security, Identity Management, and Incident Response. If a defense strategy only covers one area while ignoring others, it fails to encompass the entire "Attack Surface," leaving the organization vulnerable to multi-vector threats.
+<u><b>Educational Section:</b></u> In cybersecurity, encompasses is often used to describe the full scope of a security concept. For example, "Cybersecurity encompasses network security, application security, cloud security, endpoint protection, and incident response," meaning it includes all of these areas as part of the broader field.
 
 ---
 
@@ -1124,6 +1210,20 @@ Rule-based, Pattern recognition, Behavioral analysis, Inference.
 
 ---
 
+<b>Term:</b> Holy moly
+
+<b>Part of Speech:</b> Interjection (Informal)
+
+<b>Bangla Meaning:</b> আরে বাবা!; হায় রে!; এ কী!; ওহ মাই গড! (বিস্ময়, অবাক হওয়া বা উত্তেজনা প্রকাশ করতে ব্যবহৃত)
+
+<b>Synonyms:</b> Oh my God!, Wow!, Goodness!, Gosh!, Jeez! (informal)
+
+<b>English Example:</b> "Holy moly! The administrator accidentally exposed the backup server to the internet before I even started scanning." (আরে বাবা! অ্যাডমিনিস্ট্রেটর তো আমি স্ক্যানিং শুরু করার আগেই ভুল করে ব্যাকআপ সার্ভারটি ইন্টারনেটে উন্মুক্ত করে ফেলেছে।)
+
+<u><b>Educational Section:</b></u> Holy moly is an informal exclamation used to express surprise, shock, or amazement. It is common in everyday English and has no specific cybersecurity meaning, though it may appear in casual conversations about unexpected security incidents or discoveries.
+
+---
+
 <b>Word:</b> Honeypot
 
 <b>Part of Speech:</b> Noun
@@ -1188,8 +1288,21 @@ Mixed, Blended, Composite, Crossbreed.
 
 ---
 
-<b>Word:</b>
-Infeasible
+<b>Word:</b> Incorporates
+
+<b>Part of Speech:</b> Verb (Third-person singular of <i>incorporate</i>)
+
+<b>Bangla Meaning:</b> অন্তর্ভুক্ত করে; সংযুক্ত করে; একত্রিত করে
+
+<b>Synonyms:</b> Includes, Integrates, Combines, Merges, Embeds.
+
+<b>English Example:</b> "My phishing kit incorporates a fake login page that perfectly mimics the company's website to fool the targets." (আমার ফিশিং কিটে একটি নকল লগইন পেজ অন্তর্ভুক্ত করা হয়েছে, যা টার্গেটদের প্রতারণা করার জন্য কোম্পানির ওয়েবসাইটকে হুবহু অনুকরণ করে।)
+
+<u><b>Educational Section:</b></u> In cybersecurity, incorporates is commonly used to describe how a system or tool includes specific security features or components. For example, "The application incorporates multi-factor authentication (MFA) to improve account security," meaning MFA is built into the system as part of its design.
+
+---
+
+<b>Word:</b> Infeasible
 
 <b>Part of Speech:</b> Adjective
 
@@ -1512,6 +1625,20 @@ Proficiency, Competence, Knowledge, Understanding.
 
 ---
 
+<b>Term:</b> Low-key
+
+<b>Part of Speech:</b> Adjective / Adverb (Informal Slang)
+
+<b>Bangla Meaning:</b> চুপচাপ; নজর না কেড়ে; গোপনে; অল্প করে; আস্তে-আস্তে (প্রসঙ্গভেদে)
+
+<b>Synonyms:</b> Quietly, Subtly, Secretly, Modestly, Understated.
+
+<b>English Example:</b> "I low-key planted a fake login page on the test server, and nobody noticed it during the security exercise." (আমি চুপচাপ টেস্ট সার্ভারে একটি নকল লগইন পেজ বসিয়েছিলাম, আর নিরাপত্তা মহড়ার সময় কেউই সেটা লক্ষ্য করেনি।)
+
+<u><b>Educational Section:</b></u> Low-key is informal slang meaning quietly, without attracting attention, or in a subtle way. In cybersecurity discussions, it may casually describe activity that goes unnoticed, but it is not a technical security term.
+
+---
+
 <b>Word:</b> Lure
 
 <b>Part of Speech:</b> Noun / Verb
@@ -1571,6 +1698,34 @@ Proficiency, Competence, Knowledge, Understanding.
 <b>English Example:</b> "I’ve split the botnet deployment into microtasks across thousands of zombie nodes so no single machine triggers a CPU usage alarm." (আমি বটনেট ডেপ্লয়মেন্টের কাজটিকে হাজার হাজার জম্বি নোডের মধ্যে ছোট ছোট কাজে (Microtasks) ভাগ করে দিয়েছি যাতে কোনো একটি নির্দিষ্ট মেশিন CPU ব্যবহারের অ্যালার্ম ট্রিগার না করে।)
 
 <u><b>Educational Section:</b></u> In cybersecurity, microtasks are used in <b>Distributed Computing</b> attacks. By breaking a massive job (like cracking a complex hash) into millions of microtasks, an attacker can use a distributed network of compromised devices to perform the work in parallel, making the operation faster and harder to detect by traditional security monitors.
+
+---
+
+<b>Term:</b> Microservices
+
+<b>Part of Speech:</b> Noun (Plural)
+
+<b>Bangla Meaning:</b> ক্ষুদ্র ও স্বাধীন সেবা-ভিত্তিক সফটওয়্যার স্থাপত্য; ছোট ছোট স্বাধীন সার্ভিসের সমন্বয়ে গঠিত অ্যাপ্লিকেশন
+
+<b>Synonyms:</b> Service-based architecture, Modular services, Independent services, Distributed services.
+
+<b>English Example:</b> "The company's payment system uses microservices, so I targeted a weaker logging service instead of attacking the main application." (কোম্পানির পেমেন্ট সিস্টেমটি মাইক্রোসার্ভিসভিত্তিক, তাই আমি মূল অ্যাপ্লিকেশনের পরিবর্তে অপেক্ষাকৃত দুর্বল লগিং সার্ভিসটিকে লক্ষ্য করেছিলাম।)
+
+<u><b>Educational Section:</b></u> Microservices is a software architecture where an application is split into small, independent services, each responsible for a specific function (e.g., authentication, payments, notifications). In cybersecurity, each microservice should have its own authentication, authorization, and security controls because compromising one service should not compromise the entire system.
+
+---
+
+<b>Term:</b> Microservices Architecture
+
+<b>Part of Speech:</b> Noun Phrase
+
+<b>Bangla Meaning:</b> মাইক্রোসার্ভিস স্থাপত্য; ছোট ছোট স্বাধীন সার্ভিসের সমন্বয়ে সফটওয়্যার তৈরির স্থাপত্য বা নকশা
+
+<b>Synonyms:</b> Microservice architecture, Service-oriented architecture (related), Distributed architecture, Modular architecture.
+
+<b>English Example:</b> "The target's microservices architecture isolated each service, so compromising one API didn't give me control over the entire platform." (টার্গেটের মাইক্রোসার্ভিস স্থাপত্য প্রতিটি সার্ভিসকে আলাদা করে রেখেছিল, তাই একটি API দখল করেও পুরো প্ল্যাটফর্মের নিয়ন্ত্রণ নিতে পারিনি।)
+
+<u><b>Educational Section:</b></u> Microservices Architecture is a software design approach where an application is built as a collection of small, independent services that communicate through APIs. From a cybersecurity perspective, each service should implement strong authentication, authorization, encryption, logging, and network isolation so that a breach in one service is less likely to spread to others.
 
 ---
 
@@ -1659,9 +1814,51 @@ Relocate, Transfer, Shift, Move.
 
 ---
 
+<b>Term:</b> MultiHAT
+
+<b>Part of Speech:</b> Proper Noun (Brand / Project Name)
+
+<b>Bangla Meaning:</b> মাল্টিহ্যাট — এমন একটি নাম যা বহু দক্ষতা, একাধিক ভূমিকা এবং বিভিন্ন দৃষ্টিভঙ্গির প্রতীক। এটি একটি ব্র্যান্ডের নাম, তাই এর সরাসরি বাংলা অনুবাদ নেই।
+
+<b>Synonyms:</b> নেই (এটি একটি স্বতন্ত্র ব্র্যান্ড/প্রকল্পের নাম)
+
+<b>English Example:</b> "I underestimated the MultiHAT security team; every attack path I tried had already been monitored and blocked." (আমি MultiHAT-এর নিরাপত্তা দলকে অবমূল্যায়ন করেছিলাম; আমি যে আক্রমণের পথই চেষ্টা করেছি, তা আগেই পর্যবেক্ষণ করে প্রতিহত করা হয়েছিল।)
+
+<u><b>Educational Section:</b></u> MultiHAT is not a standard cybersecurity term. As a brand name, it can represent the idea of wearing multiple hats—combining expertise in areas such as software engineering, cybersecurity, AI, cloud computing, and system design. In security education, the concept encourages understanding technology from multiple perspectives to build more secure systems.
+
+---
+
 <a id="N"></a>
 
 ## N)
+
+---
+
+<b>Word:</b> Native
+
+<b>Part of Speech:</b> Adjective
+
+<b>Bangla Meaning:</b> নিজস্ব; অন্তর্নির্মিত; স্থানীয়; স্বাভাবিকভাবে সমর্থিত (প্রসঙ্গভেদে)
+
+<b>Synonyms:</b> Built-in, Original, Integrated, Local, Inherent.
+
+<b>English Example:</b> "The target relied on the operating system's native security features, but a misconfiguration gave my malware a way in." (টার্গেট অপারেটিং সিস্টেমের অন্তর্নির্মিত (Native) নিরাপত্তা বৈশিষ্ট্যের ওপর নির্ভর করেছিল, কিন্তু একটি ভুল কনফিগারেশনের কারণে আমার ম্যালওয়্যারের প্রবেশের সুযোগ তৈরি হয়েছিল।)
+
+<u><b>Educational Section:</b></u> In cybersecurity and software development, native usually means a feature or capability that is built into an operating system, platform, or application without requiring third-party tools. Examples include native encryption, native authentication, or native cloud services.
+
+---
+
+<b>Term:</b> Native Machine Code
+
+<b>Part of Speech:</b> Noun Phrase
+
+<b>Bangla Meaning:</b> নেটিভ মেশিন কোড; প্রসেসরের জন্য সরাসরি নির্বাহযোগ্য (Executable) মেশিন নির্দেশনা
+
+<b>Synonyms:</b> Machine code, Native binary code, Executable machine instructions, CPU-native code.
+
+<b>English Example:</b> "My payload was compiled into native machine code, so it ran directly on the victim's processor without needing a virtual machine." (আমার পেলোডটি নেটিভ মেশিন কোডে কম্পাইল করা ছিল, তাই এটি কোনো ভার্চুয়াল মেশিন ছাড়াই ভিকটিমের প্রসেসরে সরাসরি চলতে পেরেছিল।)
+
+<u><b>Educational Section:</b></u> Native Machine Code is the low-level binary code that a CPU can execute directly without interpretation or a virtual machine. Languages like C and C++ are typically compiled into native machine code. In cybersecurity, malware, operating systems, and performance-critical software often use native machine code because it executes faster and interacts directly with the hardware.
 
 ---
 
@@ -2569,7 +2766,7 @@ Limit, Boundary, Brink, Cut-off point.
 
 <u><b>Educational Section:</b></u> In cybersecurity, a Threshold is a predefined limit used by monitoring tools (like SIEM or IDS). For example, an "Alert Threshold" might be set to trigger a notification if a server's CPU usage stays above 90% for more than 5 minutes, or if a user fails to log in 5 times in a row. Hackers often perform "Low and Slow" attacks to stay just below these thresholds and avoid detection.
 
---- 
+---
 
 <b>Word:</b>
 Thriller
